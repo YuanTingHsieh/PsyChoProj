@@ -71,4 +71,4 @@
   }
   //activate service
   new Server().listen(9000);
-})();
+}());

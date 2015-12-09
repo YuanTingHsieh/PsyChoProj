@@ -1,15 +1,15 @@
 (function(){
 	var Client = {
-		so=null;
-		isFirstConnect = true;
-		user = {"uname":null};
+		so:null,
+		isFirstConnect : true,
+		user : {"uname":null}
 	};
 	Client.connect = function (host, port){
 		//port or what??
-		var p = port||so, self = this;
+		var p = port||80, self = this;
 		if (this.so==null)
 		{
-			this.so = io.connect("http://"+host+":"+p, ('reconnect':false));
+			this.so = io.connect("http://"+host+":"+p, {'reconnect':false});
 			if (this.so)
 			{
 				this.so.on("connect",function(){self.doConnect();});
@@ -23,7 +23,7 @@
 	};
 	Client.login = function(callback)
 	{
-		this.so.emit("login",("uname":this.user.uname), function(data){callback(data);});
+		this.so.emit("login",{"uname":this.user.uname}, function(data){callback(data);});
 	};
 	Client.doConnect = function()
 	{
@@ -42,4 +42,4 @@
 	};
 	window.Client = Client;
 	
-})();
+}());

@@ -6,7 +6,11 @@ var fm = require('formidable');
 var handle={};
 handle["/"] = requestHandlers.start;
 handle["/start"] = requestHandlers.start;
+handle["/socket"] = requestHandlers.socket;
+handle["/login"] = requestHandlers.login;
+
+
 handle["/upload"] = requestHandlers.upload;
 handle["/show"] = requestHandlers.show;
 
-server.start(router.route, handle);
+server.newServer(router.route, handle,8888);

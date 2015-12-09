@@ -41,4 +41,4 @@
 	{
 		return new Client(server, socket);
 	}
-})();
+}());
