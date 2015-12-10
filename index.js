@@ -7,7 +7,7 @@ var handle={};
 handle["/"] = requestHandlers.start;
 handle["/start"] = requestHandlers.start;
 handle["/socket"] = requestHandlers.socket;
-handle["/login"] = requestHandlers.login;
+handle["/game"] = requestHandlers.game;
 
 
 handle["/upload"] = requestHandlers.upload;
