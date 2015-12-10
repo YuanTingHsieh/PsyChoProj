@@ -7,7 +7,7 @@
 	    this.bindEvent();
 	};
 	Client.prototype = {
-		toString:function()
+	    toString:function()
 	    {
 		   return "[uname:"+this.user.uname+",sid:"+this.so.id+"]";
 	    },
@@ -34,7 +34,8 @@
 		    if(data)
 		    {
 		    	this.user.uname = data.uname;
-		    	var isExists = this.srv.isUserExists(this);		
+		    	var isExists = this.srv.isUserExists(this);
+			console.log("client.js - Client "+this.user.uname+" has login");
 	    		//通知客戶端;
 	    		if(!isExists)
 	    		{

@@ -1,16 +1,16 @@
 <html>
   <head>
   	<meta charset="UTF-8" />
-    <meta name="viewport" content="width-device-width, initial-scale=1">
-  	<title>PsyChoProj: Login</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  	<title>PsyChoProj: Play</title>
   </head>
 
 <body>
 	<!--登陸層-->
 	<div id="loginDiv" class="dlbj">
 	<!--127.0.0.1 is localhost -->
-	<div><input id="host" type="text" name="textfield" value="127.0.0.1"></div>
-	<div>Username<input id="tUser" type="text" name="textfield"></div>
+	<p>Username</p>
+	<div><input id="tUser" type="text" name="textfield"></div>
 	<div class="dlfwq" id="btnCon"><img src="http://www.gifs.cc/enter/enter-with-frame.png"  border="0"></div>
 	</div>
 </body>
@@ -90,8 +90,9 @@ $(document).ready(function(){
 	{
 		$("#btnCon").click(function(){
 			//need to modify to my own host
-			var host = $("#host").val(),
-			    user = 	$("#tUser").val();
+			//var host = $("#host").val(),
+			var host = '140.112.249.166',
+			    user = $("#tUser").val();
 			Client.connect(host,8888);
 			Client.user.uname = user ; 
 			Client.login(function(data){

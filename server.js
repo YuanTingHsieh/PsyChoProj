@@ -21,7 +21,8 @@
       //var srv = http.createServer(function(req,rep){});
       //LLLLLLL
       //192.168.43.201
-      srv.listen(port);
+      //140.112.249.166
+      srv.listen(port,'140.112.249.166');
       
       this.io = require("socket.io").listen(srv);
       //shut down debug
