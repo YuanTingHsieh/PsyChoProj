@@ -14,15 +14,19 @@
         <div class="dlfwq" id="btnCon"><img src="http://www.gifs.cc/enter/enter-with-frame.png"  border="0"></div>
     </div>
     <div id="main" class="main" style="display:none">
-        <br>
+        This is where you put background.
+        <div id ="gameinfo"></div>
+        
         <div id="p1dec">
-            Player one's decision
+        <br>
+            Player one : How much you want to give to P2 ?
             <div><input id="p1m" type="text" name="textfield"></div>
             <button id="btnCon1" type="button">Submit</button>
         </div>
-        <br>
+        
         <div id="p2dec">
-            Player two's decision
+        <br>
+            Player two : How much you want to give to P1 ?
             <div><input id="p2m" type="text" name="textfield"></div>
             <button id="btnCon2" type="button">Submit</button>
         </div>
@@ -39,7 +43,7 @@
  
     so:null,
     isFirstConnect:true,
-
+    //money:0,
     user:{"uname":null},
   };
 
@@ -50,8 +54,7 @@
      {
          this.so = io.connect("http://"+host+":"+p,{'reconnect':false});
          if(this.so)
-         {         
-        
+         {            
            this.so.on("connect",function(){self.doConnect();});      
            this.so.on("error",function(data){this.so = null ; alert("Connection failed!");});
          }
@@ -65,8 +68,8 @@
   Client.login = function(callback)
   {
  
-      this.so.emit("login",{"uname":this.user.uname},function(data,playnum){
-         callback(data,playnum);
+      this.so.emit("login",{"uname":this.user.uname},function(data,playnum,totalround){
+         callback(data,playnum,totalround);
       });
   };
 
@@ -83,11 +86,36 @@
         this.so.socket.reconnect();
      }
   };
+
   Client.bindEvent = function()
   {
      var self = this;
-     this.so.on("message",function(msg){self.doMessage(msg);});
-  };  
+     //this.so.on("message",function(msg){self.doMessage(msg);});
+     this.so.on("sendMessage",function(data){self.showMessage(data);});
+     this.so.on('gameready',function(data){self.showStat(data);});
+  };
+  Client.showMessage = function(data)
+  {
+    alert(data.mes);
+  };
+  Client.showStat = function(data)
+  {
+    if (data.ready===true)
+    {
+        $("#gameinfo").text("Room is "+data.room);
+        this.so.emit("startgame");
+    }
+    else
+    {
+        $("#gameinfo").text("Waiting for other player...");
+    }
+  };
+  Client.sendDecval = function(value)
+  {
+    this.so.emit("clitoser",{'val':value});
+  };
+  Client.getNewval = function()
+  {};
   window.Client = Client;
 }())
 
@@ -111,31 +139,51 @@ $(document).ready(function(){
             user = $("#tUser").val();
             Client.connect(host,8888);
             Client.user.uname = user ; 
-            Client.login(function(data,playnum){
+            Client.login(function(data,playnum,totalround){
                 if(data==1)
                 {
                     alert("This user already exist, please change user!");
                 }
                 else
                 {
+                    var cliround = 1;
+                    //this.playnum = playnum;
                     $("#loginDiv").hide();
                     $("#main").show();
-                    if (playnum===1)
+                    $("#p1dec").hide();
+                    $("#p2dec").hide();
+                    //sending decision money
+                    $("#btnCon1").click(function(){
+                        //console.log("OK");
+                        var value = $("#p1m").val();
+                        console.log(value);
+                        Client.sendDecval(value);
+                    });
+                    $("#btnCon2").click(function(){
+                        //console.log("OK");
+                        var value = $("#p2m").val();
+                        Client.sendDecval(value);
+                    });
+
+                    while(cliround!=totalround)
                     {
-                        $("#p2dec").hide();
+                        if (playnum===1&&(cliround%2===1))
+                        {
+                            $("#p1dec").show();
+                        }
+                        else if (playnum===2&&(cliround%2===0))
+                        {
+                            $("#p2dec").show();
+                        }
+                        cliround++;
                     }
-                    else
-                    {
-                        $("#p1dec").hide();
-                    }
-                    //window.location.href="play"
                 }
             });
+
+            
         });
-        //sending decision money
-        $("#btnCon1").click(function(){
-            console.log("OK");
-        });
+
+        
     }
 })
 </script>
