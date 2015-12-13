@@ -2,6 +2,7 @@
     var http = require("http");
     var url = require("url");
     var cli = require("./clientoserver");
+    var fs = require("fs");
 
     var Server = function(){
         this.io = null;
@@ -9,8 +10,11 @@
         this.roomcount = 0;
         this.clients = [];
         this.rooms = [];
+        //config
         this.totalRound = 4;
         this.startMoney = 100;
+        this.timeup = 60;
+        this.tHand = null;
     };
 
     Server.prototype = {
@@ -42,33 +46,15 @@
             this.io.sockets.on("connection",function(socket){
                
                 self.clicount++;
+                //self.roomcount++;
                 // 3 reset to 1, start new room
                 if (self.clicount===3)
                 {
                     self.clicount=1;
                 }
-                
-                
+                                
                 self.doConnect(socket);
-
-                //see if game ready
-                if (self.clicount===2)
-                {
-                    self.rooms[self.rooms.length-1].valid = true;
-                    self.sendStatus(self.clients[self.clients.length-1],true,self.rooms.length);
-                    self.sendStatus(self.clients[self.clients.length-2],true,self.rooms.length);
-                }
-                else
-                {
-                    self.roomcount++;
-                    self.rooms.push({"num":self.roomcount,"money":self.startMoney,
-                        "valid":false, "rounds":self.totalRound, "activate":false});
-                    //self.roomValids.push(false);
-                    self.sendStatus(self.clients[self.clients.length-1],false,self.rooms.length);
-                }
-
-                console.log("server.js - clinum is "+self.clicount);
-                console.log("server.js - Total Room is "+self.rooms.length);
+                
                 //These lines below are tesing socket.html
                 //testing
                 //setInterval(function() {
@@ -90,6 +76,7 @@
         {
             console.log("server.js - add new client:"+socket.id);
             this.clients.push(cli.newClient(this,socket));
+            //this.roomInit();
         },
         removeClientByID:function(sID)
         {
@@ -107,7 +94,7 @@
                 var mes = "Your opponent has left the game, please reconnect.";
                 if(this.rooms[this.clients[idx].roomnum-1].valid===true)
                 {
-                    if(this.clients[idx].player===1)
+                    if(this.clients[idx].playertype===1)
                     {
                         this.sendMessage(this.clients[idx+1],mes);
                     }
@@ -144,6 +131,30 @@
             }
             return false;
         },
+        roomInit:function()
+        {
+            //see if game ready
+                if (this.clicount===2)
+                {
+                    this.rooms[this.rooms.length-1].valid = true;
+                    this.clients[this.clients.length-1].roomnum = this.roomcount;
+                    this.sendStatus(this.clients[this.clients.length-1],true,this.rooms.length);
+                    this.sendStatus(this.clients[this.clients.length-2],true,this.rooms.length);
+             
+                }
+                else
+                {
+                    this.roomcount++;
+                    this.clients[this.clients.length-1].roomnum = this.roomcount;
+                    this.rooms.push({"num":this.roomcount,"money":this.startMoney,
+                        "valid":false, "rounds":0, "activate":false, "times":this.timeup});
+                    //this.roomValids.push(false);
+                    this.sendStatus(this.clients[this.clients.length-1],false,this.rooms.length);
+                }
+
+                console.log("server.js - clinum is "+this.clients.length);
+                console.log("server.js - Total Room is "+this.rooms.length);
+        },
         sendMessage:function(client, message)
         {
             console.log("server.js - sending message to "+client.toString());
@@ -152,50 +163,136 @@
         sendStatus:function(client, stat, roomnum)
         {
             client.doGameready(stat, roomnum);
+            if (client.playertype==2)
+            {
+                this.startGame(client);
+            }
+            else if (client.playertype==1)
+            {
+                console.log("1");
+            }
+            else
+                console.log("GG");
         },
         startGame:function(client)
         {
             //var self =this;
-            if((client.playertype===1)&&(this.rooms[client.roomnum-1].activate===false))
-            {
-                var nowroom = client.roomnum,
-                    nowplayer = client.playernum;
-                var data1,data2;
-                data1 = this.dealFirst(nowroom, nowplayer);
-
-                for(var nowround = 1;nowround<totalRound;nowround++)
+            //if((client.playertype===2)&&(this.rooms[client.roomnum-1].activate===false))
+            //{
+                console.log("server.js - Starts game at room "+client.roomnum);
+                if (this.totalRound==this.rooms[client.roomnum-1].rounds)
+                {
+                    this.endGame(client);
+                    return;
+                }
+                //this.rooms[client.roomnum-1].rounds++;
+                this.startOneRound(client);
+            //}
+            //else
+            //{
+            //    console.log("Wrong patty.");
+            //}
+        },
+        startOneRound:function(client)
+        {
+            
+            var nowroom = client.roomnum,
+                nowround = this.rooms[client.roomnum-1].rounds,
+                nowplayer = client.playernum;
+            console.log("server.js - Round "+(nowround+1)+" starts...");
+            this.rooms[nowroom-1].times = this.timeup;
+            var self = this;
+            this.tHand = setInterval(function(){
+                if(self.rooms[nowroom-1].times<0)
+                {
+                    self.endTimeout(client);
+                    clearInterval(this.tHand);
+                }
+                else
                 {
                     if(nowround%2===0)
                     {
-                        data1 = this.dealPlayerOne(nowroom, nowplayer);
+                        console.log("Odd round "+(nowplayer-2)+client.so.id);
+                        //data1 = this.dealRound(nowroom, nowplayer);
+                        self.clients[nowplayer-2].isYourTurn(true,self.rooms[nowroom-1].times);
+                        self.clients[nowplayer-1].isYourTurn(false,self.rooms[nowroom-1].times);
                     }
                     else
                     {
-                        data2 = this.dealPlayerTwo(nowroom, nowplayer+1);
+                        console.log("Even round"+(nowplayer-2)+client.so.id );
+                        //data2 = this.dealRound(nowroom, nowplayer+1);
+                        self.clients[nowplayer-2].isYourTurn(false,self.rooms[nowroom-1].times);
+                        self.clients[nowplayer-1].isYourTurn(true,self.rooms[nowroom-1].times);
                     }
+                    self.rooms[nowroom-1].times--;
                 }
-                this.rooms[client.roomnum-1].activate=true;
+            },1000)
+        },
+        endTimeout:function(client)
+        {
+            console.log("server.js - client "+client.so.id+" is time out, shutting down");
+            this.removeClientByID(client.so.id);
+        },
+        endGame:function(client)
+        {
+            if (client.playertype==1)
+            {
+                this.clients[client.playernum-1].doEndGame();
+                this.clients[client.playernum].doEndGame();
             }
             else
             {
-                console.log("Room has activated.");
+                this.clients[client.playernum-2].doEndGame();
+                this.clients[client.playernum-1].doEndGame();
             }
+            
         },
-        dealFirst:function(nowroom,playernum)
+        
+        roomsplitMoney:function(m_receive, client )
+        { 
+            var nowplayer = client.playernum;
+            var x = this.rooms[client.roomnum-1].money; 
+            if(client.playertype===1)
+            {
+                this.clients[nowplayer-1].doSerToCli(x - m_receive );
+                this.clients[nowplayer].doSerToCli( m_receive );
+                this.saveDecision(m_receive, nowplayer-1, nowplayer);
+            }
+            else
+            {
+                this.clients[nowplayer-2].doSerToCli( m_receive );
+                this.clients[nowplayer-1].doSerToCli(x - m_receive );
+                this.saveDecision(m_receive, nowplayer-1, nowplayer-2);
+            }
+            
+        },
+        saveDecision:function(m_receive, cgive, ctake)
         {
-            var dec = this.clients[playernum-1].doClitoSer()
-            this.rooms[nowroom-1].money += ;
-        }
-        dealPlayerOne:function(nowroom, playernum)
+            if (this.clients[cgive].roomnum != this.clients[ctake].roomnum)
+            {
+                console.log("server.js - FUCK");
+            }
+            var nowroom = this.clients[cgive].roomnum;
+            var mydir = __dirname+'/data/Room'+nowroom+'.txt';
+            var dataStream=fs.createWriteStream(mydir,{'flags':'a'});
+            dataStream.write(this.rooms[nowroom-1].rounds+' , '+this.clients[cgive].so.id+
+                ' , '+(this.rooms[nowroom-1].money - m_receive)+'\n');
+            dataStream.write(this.rooms[nowroom-1].rounds+' , '+this.clients[ctake].so.id+
+                ' , '+ m_receive+'\n');
+            dataStream.end('\n');
+            if (this.clients[cgive].playertype===2)
+                this.updateRoom(m_receive, this.clients[cgive]);
+            else
+                this.updateRoom(m_receive, this.clients[ctake]);
+            
+        },
+        updateRoom:function(m_receive, client)
         {
-            this.sendMoney()
-        }
-        sendMoney:function(playernum, money)
-        {},
-        roundComplete:function()
-        {
-            //need to save things
-        }
+            var roomn = client.roomnum;
+            this.rooms[roomn-1].money += m_receive;
+            this.rooms[roomn-1].rounds += 1;
+            this.startGame(client);
+        },
     }
 
     exports.newServer =function(route,handle,port)

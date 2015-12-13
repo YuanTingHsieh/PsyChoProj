@@ -15,8 +15,8 @@
     Client.prototype = {
         toString:function()
         {
-           return "[uname:" + this.user.uname + ",player:"+ this.playertype
-           + ",room:" + this.roomnum + ",sid:" +this.so.id+ "]";
+           return "[uname:" + this.user.uname + ",player:"+ this.playernum
+           + ",room:" + (this.roomnum) + ",sid:" +this.so.id+ "]";
         },
         bindEvent:function()
         {
@@ -29,7 +29,7 @@
                 this.so.on("login",function(data,fn){self.doLogin(data,fn);});
                 //this.so.emit("sendmessage",{"mes":self.sendMessage()});
                 this.so.on("startgame",function(){self.doStartGame();});
-                this.so.on("money",function(data){self.doClitoSer(data);});
+                this.so.on("clitoser",function(data){self.doClitoSer(data);});
             }
         },
         //處理斷開連接
@@ -46,17 +46,19 @@
                 this.user.uname = data.uname;
                 var isExists = this.srv.isUserExists(this);
                 this.playertype = this.srv.clicount;
-                this.roomnum = this.srv.roomcount;
+                //this.roomnum = this.srv.roomcount;
                 this.playernum = this.srv.clients.length;
                 //console.log("client.js - Client "+this.user.uname+" has login as player "
                 //    +this.srv.clicount+" in room "+this.srv.roomcount);
-                console.log("client.js - "+this.toString()+" has login");
+                
                 //通知客戶端;
                 if(!isExists)
                 {
                     //callback to be 0
                     fn(0,this.srv.clicount,this.srv.totalRound);
-                    //this.srv.updateUserInfo();            
+                    //this.srv.updateUserInfo(); 
+                    this.srv.roomInit();
+                    console.log("client.js - "+this.toString()+" has login");           
                 }
                 else 
                 {               
@@ -80,8 +82,24 @@
         doClitoSer:function(data)
         {
             console.log("client.js - Received "+data.val
-                +" from player "+this.playertype+" of room "+this.roomum);
-            this.money += data.val;
+                +" from player "+this.playertype+" of room "+(this.roomnum));
+            this.srv.roomsplitMoney(data.val, this);
+            //this.srv.switchPlayer(this);
+            //this.money += data.val;
+        },
+        doSerToCli:function(value)
+        {
+            this.money = value;
+            this.so.emit('sendMoney',{'ptype':this.playertype,'mon': this.money});
+        },
+        isYourTurn:function(is_yr_turn, now_time)
+        {
+            this.so.emit('sendturn',{'ptype':this.playertype,'turn': is_yr_turn,'nowtime':now_time});
+        },
+        doEndGame:function()
+        {
+            //need modify
+            this.so.emit('endgame',{'level':'master'});
         }
     }
     exports.newClient = function(server,socket)

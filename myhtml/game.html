@@ -1,132 +1,170 @@
 <html>
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>PsyChoProj: Play</title>
-  </head>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>PsyChoProj: Play</title>
+    </head>
 
 <body>
-    <!--登陸層-->
-    <div id="loginDiv" class="dlbj">
-    <!--127.0.0.1 is localhost -->
-        <p>Username</p>
-        <div><input id="tUser" type="text" name="textfield"></div>
-        <div class="dlfwq" id="btnCon"><img src="http://www.gifs.cc/enter/enter-with-frame.png"  border="0"></div>
-    </div>
-    <div id="main" class="main" style="display:none">
-        This is where you put background.
-        <div id ="gameinfo"></div>
-        
-        <div id="p1dec">
-        <br>
-            Player one : How much you want to give to P2 ?
-            <div><input id="p1m" type="text" name="textfield"></div>
-            <button id="btnCon1" type="button">Submit</button>
+        <!--登陸層-->
+        <div id="loginDiv" class="dlbj">
+        <!--127.0.0.1 is localhost -->
+                <p>Username</p>
+                <div><input id="tUser" type="text" name="textfield"></div>
+                <div class="dlfwq" id="btnCon"><img src="http://www.gifs.cc/enter/enter-with-frame.png"  border="0"></div>
         </div>
-        
-        <div id="p2dec">
-        <br>
-            Player two : How much you want to give to P1 ?
-            <div><input id="p2m" type="text" name="textfield"></div>
-            <button id="btnCon2" type="button">Submit</button>
+        <div id="main" class="main" style="display:none">
+                This is where you put background.
+                Round <div id="round"></div>
+                God give <div id="selPerson"></div> <div id="roomMon" ></div>dollars.
+                <div id ="gameinfo"></div>
+                
+                <div id="p1dec">
+                <br>
+                        You have <div id="p1money"></div> dollars.
+                        Player one : How much you want to give to P2 ?
+                        <div><input id="p1m" type="text" name="textfield"></div>
+                        <button id="btnCon1" type="button">Submit</button>
+                </div>
+                
+                <div id="p2dec">
+                <br>
+                        You have <div id="p2money"></div> dollars.
+                        Player two : How much you want to give to P1 ?
+                        <div><input id="p2m" type="text" name="textfield"></div>
+                        <button id="btnCon2" type="button">Submit</button>
+                </div>
         </div>
-    </div>
+        <div id ="final" style="display:none">
+            You got <div id = "level"></div> level 
+        </div>
 </body>
 
-    <script src="/socket.io/socket.io.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script src="/socket.io/socket.io.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
 <script>
 (function(){
 
-  var Client = {
+    var Client = {
  
-    so:null,
-    isFirstConnect:true,
-    //money:0,
-    user:{"uname":null},
-  };
+        so:null,
+        isFirstConnect:true,
+        myturn:false,
+        user:{"uname":null},
+    };
 
-  Client.connect = function(host,port){
-     var p = port||80,
-         self = this;
-     if(this.so==null)
-     {
-         this.so = io.connect("http://"+host+":"+p,{'reconnect':false});
-         if(this.so)
-         {            
-           this.so.on("connect",function(){self.doConnect();});      
-           this.so.on("error",function(data){this.so = null ; alert("Connection failed!");});
+    Client.connect = function(host,port){
+         var p = port||80,
+                 self = this;
+         if(this.so==null)
+         {
+                 this.so = io.connect("http://"+host+":"+p,{'reconnect':false});
+                 if(this.so)
+                 {            
+                     this.so.on("connect",function(){self.doConnect();});      
+                     this.so.on("error",function(data){this.so = null ; alert("Connection failed!");});
+                 }
          }
-     }
-     else
-     {
-         this.so.socket.reconnect();
-     }
-  };
+         else
+         {
+                 this.so.socket.reconnect();
+         }
+    };
  
-  Client.login = function(callback)
-  {
+    Client.login = function(callback)
+    {
  
-      this.so.emit("login",{"uname":this.user.uname},function(data,playnum,totalround){
-         callback(data,playnum,totalround);
-      });
-  };
+            this.so.emit("login",{"uname":this.user.uname},function(data,playnum,totalround){
+                 callback(data,playnum,totalround);
+            });
+    };
 
-  Client.doConnect = function()
-  {   
-    
-     if(this.isFirstConnect)
-     {
-        this.isFirstConnect = false;
-        this.bindEvent();
-     }
-     else
-     {
-        this.so.socket.reconnect();
-     }
-  };
+    Client.doConnect = function()
+    {   
+        
+         if(this.isFirstConnect)
+         {
+                this.isFirstConnect = false;
+                this.bindEvent();
+         }
+         else
+         {
+                this.so.socket.reconnect();
+         }
+    };
 
-  Client.bindEvent = function()
-  {
-     var self = this;
-     //this.so.on("message",function(msg){self.doMessage(msg);});
-     this.so.on("sendMessage",function(data){self.showMessage(data);});
-     this.so.on('gameready',function(data){self.showStat(data);});
-  };
-  Client.showMessage = function(data)
-  {
-    alert(data.mes);
-  };
-  Client.showStat = function(data)
-  {
-    if (data.ready===true)
+    Client.bindEvent = function()
     {
-        $("#gameinfo").text("Room is "+data.room);
-        this.so.emit("startgame");
-    }
-    else
+         var self = this;
+         //this.so.on("message",function(msg){self.doMessage(msg);});
+         this.so.on("sendMessage",function(data){self.showMessage(data);});
+         this.so.on('gameready',function(data){self.showStat(data);});
+         this.so.on('sendturn',function(data){self.showDec(data);});
+         this.so.on('sendMoney',function(data){self.showMoney(data);});
+         this.so.on('endgame',function(data){self.doEnd(data);});
+    };
+    Client.showMessage = function(data)
     {
-        $("#gameinfo").text("Waiting for other player...");
-    }
-  };
-  Client.sendDecval = function(value)
-  {
-    this.so.emit("clitoser",{'val':value});
-  };
-  Client.getNewval = function()
-  {};
-  window.Client = Client;
+        alert(data.mes);
+    };
+    Client.showMoney = function(data)
+    {
+        if (data.ptype===1)
+            $("#p1money").text(data.mon);
+        else
+            $("#p2money").text(data.mon);
+    };
+    Client.showStat = function(data)
+    {
+        if (data.ready===true)
+        {
+                $("#gameinfo").text("Room is "+data.room);
+        }
+        else
+        {
+                $("#gameinfo").text("Waiting for other player...");
+        }
+    };
+    Client.sendDecval = function(value)
+    {
+        this.so.emit("clitoser",{'val':value});
+    };
+    Client.showDec = function(data)
+    {
+        if (data.turn===true)
+        {
+            if (data.ptype===1)
+                $("#p1dec").show();
+            else if (data.ptype===2)
+                $("#p2dec").show();
+            else
+                alert("Bug occurs, contact the author");
+        }
+        else
+        {
+            $("#p1dec").hide();
+            $("#p2dec").hide();
+        }
+    };
+    Client.doEnd = function(data)
+    {
+        $("#main").hide();
+        $("#final").show();
+        //this.showFinal(data.level);
+        $("#level").text(data.level);
+    };
+    window.Client = Client;
 }())
 
 function isSupportHTML5()
 {
-    return (typeof(Worker) !=="undefined");
+        return (typeof(Worker) !=="undefined");
 }
 $(document).ready(function(){
     if(!isSupportHTML5())
     {
-        alert("Your browser does not support HTML5!");
+            alert("Your browser does not support HTML5!");
     }
     else
     {
@@ -140,50 +178,43 @@ $(document).ready(function(){
             Client.connect(host,8888);
             Client.user.uname = user ; 
             Client.login(function(data,playnum,totalround){
-                if(data==1)
-                {
-                    alert("This user already exist, please change user!");
-                }
-                else
-                {
-                    var cliround = 1;
-                    //this.playnum = playnum;
-                    $("#loginDiv").hide();
-                    $("#main").show();
-                    $("#p1dec").hide();
-                    $("#p2dec").hide();
-                    //sending decision money
-                    $("#btnCon1").click(function(){
-                        //console.log("OK");
-                        var value = $("#p1m").val();
-                        console.log(value);
-                        Client.sendDecval(value);
-                    });
-                    $("#btnCon2").click(function(){
-                        //console.log("OK");
-                        var value = $("#p2m").val();
-                        Client.sendDecval(value);
-                    });
-
-                    while(cliround!=totalround)
+                    if(data==1)
                     {
-                        if (playnum===1&&(cliround%2===1))
-                        {
-                            $("#p1dec").show();
-                        }
-                        else if (playnum===2&&(cliround%2===0))
-                        {
-                            $("#p2dec").show();
-                        }
-                        cliround++;
+                        alert("This user already exist, please change user!");
                     }
-                }
+                    else
+                    {
+                        var cliround = 1;
+                        //this.playnum = playnum;
+                        $("#loginDiv").hide();
+                        $("#main").show();
+                        $("#p1dec").hide();
+                        $("#p2dec").hide();
+                        //sending decision money
+                        $("#btnCon1").click(function(){
+                                //console.log("OK");
+                                var value = $("#p1m").val();
+                                console.log(value);
+                                Client.sendDecval(value);
+                        });
+                        $("#btnCon2").click(function(){
+                                //console.log("OK");
+                                var value = $("#p2m").val();
+                                Client.sendDecval(value);
+                        });
+
+                        //while(cliround!=totalround)
+                        //{
+                                                                         
+                        //    cliround++;
+                        //}
+                    }
             });
 
-            
+                    
         });
 
-        
+            
     }
 })
 </script>
