@@ -97,10 +97,12 @@
                     if(this.clients[idx].playertype===1)
                     {
                         this.sendMessage(this.clients[idx+1],mes);
+                        this.removeClientByID(idx+1);
                     }
                     else
                     {
                         this.sendMessage(this.clients[idx-1],mes);
+                        this.removeClientByID(idx-1);
                     }
                     this.rooms[this.clients[idx].roomnum -1].valid = false;
                 }
@@ -110,14 +112,16 @@
             //如果所有客戶端都退出，則遊戲復位
             if (this.clients.length===0)
             {
-                //this.resetServer();
-                console.log("server.js - Server is resetting...");
-                this.clicount = 0;
-                this.roomcount = 0;
-                
-                this.rooms = [];
+                this.resetServer();
             }
             
+        },
+        resetServer:function()
+        {
+            console.log("server.js - Server is resetting...");
+            this.clicount = 0;
+            this.roomcount = 0;
+            this.rooms = [];
         },
             //判斷用戶是否存在
         isUserExists:function(client)
@@ -165,12 +169,11 @@
             client.doGameready(stat, roomnum);
             if (client.playertype==2)
             {
+                console.log("sending Status...");
                 this.startGame(client);
             }
-            else if (client.playertype==1)
-            {
-                console.log("1");
-            }
+            //else if (client.playertype==1)
+            //    console.log("1");
             else
                 console.log("GG");
         },
@@ -186,6 +189,7 @@
                     return;
                 }
                 //this.rooms[client.roomnum-1].rounds++;
+                this.rooms[client.roomnum-1].activate=false;
                 this.startOneRound(client);
             //}
             //else
@@ -200,29 +204,37 @@
                 nowround = this.rooms[client.roomnum-1].rounds,
                 nowplayer = client.playernum;
             console.log("server.js - Round "+(nowround+1)+" starts...");
+            //console.log("nowplayer in startOneRound is "+nowplayer);
             this.rooms[nowroom-1].times = this.timeup;
             var self = this;
+            if(nowround%2===0)
+            {
+                self.clients[nowplayer-2].isYourTurn(true);
+                self.clients[nowplayer-1].isYourTurn(false);
+            }
+            else
+            {
+                self.clients[nowplayer-2].isYourTurn(false);
+                self.clients[nowplayer-1].isYourTurn(true);
+            }
             this.tHand = setInterval(function(){
-                if(self.rooms[nowroom-1].times<0)
+                console.log("server.js - Interval is running...");
+                if( (self.rooms[nowroom-1].times<0) || (self.rooms[nowroom-1].valid === false) )
                 {
                     self.endTimeout(client);
-                    clearInterval(this.tHand);
                 }
                 else
                 {
                     if(nowround%2===0)
                     {
-                        console.log("Odd round "+(nowplayer-2)+client.so.id);
-                        //data1 = this.dealRound(nowroom, nowplayer);
-                        self.clients[nowplayer-2].isYourTurn(true,self.rooms[nowroom-1].times);
-                        self.clients[nowplayer-1].isYourTurn(false,self.rooms[nowroom-1].times);
+
+                        self.clients[nowplayer-2].dosendTime(self.rooms[nowroom-1].times);
+                        self.clients[nowplayer-1].dosendTime(self.rooms[nowroom-1].times);
                     }
                     else
                     {
-                        console.log("Even round"+(nowplayer-2)+client.so.id );
-                        //data2 = this.dealRound(nowroom, nowplayer+1);
-                        self.clients[nowplayer-2].isYourTurn(false,self.rooms[nowroom-1].times);
-                        self.clients[nowplayer-1].isYourTurn(true,self.rooms[nowroom-1].times);
+                        self.clients[nowplayer-2].dosendTime(self.rooms[nowroom-1].times);
+                        self.clients[nowplayer-1].dosendTime(self.rooms[nowroom-1].times);
                     }
                     self.rooms[nowroom-1].times--;
                 }
@@ -230,7 +242,8 @@
         },
         endTimeout:function(client)
         {
-            console.log("server.js - client "+client.so.id+" is time out, shutting down");
+            console.log("server.js - client "+client.so.id+" is time out or invalid, shutting down");
+            clearInterval(this.tHand);
             this.removeClientByID(client.so.id);
         },
         endGame:function(client)
@@ -245,13 +258,16 @@
                 this.clients[client.playernum-2].doEndGame();
                 this.clients[client.playernum-1].doEndGame();
             }
+            clearInterval(this.tHand);
             
         },
         
         roomsplitMoney:function(m_receive, client )
-        { 
+        {
+            this.rooms[client.roomnum-1].activate=true; 
             var nowplayer = client.playernum;
-            var x = this.rooms[client.roomnum-1].money; 
+            var x = parseInt(this.rooms[client.roomnum-1].money); 
+            console.log("Splitting money, original :"+x+" after : "+(x- m_receive  )+" , "+m_receive);
             if(client.playertype===1)
             {
                 this.clients[nowplayer-1].doSerToCli(x - m_receive );
@@ -275,10 +291,9 @@
             var nowroom = this.clients[cgive].roomnum;
             var mydir = __dirname+'/data/Room'+nowroom+'.txt';
             var dataStream=fs.createWriteStream(mydir,{'flags':'a'});
-            dataStream.write(this.rooms[nowroom-1].rounds+' , '+this.clients[cgive].so.id+
-                ' , '+(this.rooms[nowroom-1].money - m_receive)+'\n');
-            dataStream.write(this.rooms[nowroom-1].rounds+' , '+this.clients[ctake].so.id+
-                ' , '+ m_receive+'\n');
+            dataStream.write("Rounds "+this.rooms[nowroom-1].rounds+' give,take \n');
+            dataStream.write(this.clients[cgive].so.id+' , '+(this.rooms[nowroom-1].money - m_receive)+'\n');
+            dataStream.write(this.clients[ctake].so.id+' , '+ m_receive+'\n');
             dataStream.end('\n');
             if (this.clients[cgive].playertype===2)
                 this.updateRoom(m_receive, this.clients[cgive]);
@@ -288,9 +303,11 @@
         },
         updateRoom:function(m_receive, client)
         {
+            console.log("server.js - Updating room...");
             var roomn = client.roomnum;
-            this.rooms[roomn-1].money += m_receive;
+            this.rooms[roomn-1].money += parseInt(m_receive);
             this.rooms[roomn-1].rounds += 1;
+            clearInterval(this.tHand);
             this.startGame(client);
         },
     }

@@ -15,13 +15,21 @@
         </div>
         <div id="main" class="main" style="display:none">
                 This is where you put background.
-                Round <div id="round"></div>
-                God give <div id="selPerson"></div> <div id="roomMon" ></div>dollars.
-                <div id ="gameinfo"></div>
+                <div id="roominfo"></div>
+                <div id ="gameinfo" style="display:none">
+                    Round <div id="round"></div>
+                    Times Remaining <span id ="gametime"></span> seconds...
+                    <div id ="god">
+                        God give you <span id="roomMon" ></span> dollars this round.
+                    </div>
+                    <div id ="other">
+                        The other give you <span id ="othermon"></span> dollars this round.
+                    </div>
+                    You now have <span id="money"></span> dollars.
+                </div>
                 
                 <div id="p1dec">
                 <br>
-                        You have <div id="p1money"></div> dollars.
                         Player one : How much you want to give to P2 ?
                         <div><input id="p1m" type="text" name="textfield"></div>
                         <button id="btnCon1" type="button">Submit</button>
@@ -29,7 +37,7 @@
                 
                 <div id="p2dec">
                 <br>
-                        You have <div id="p2money"></div> dollars.
+                        
                         Player two : How much you want to give to P1 ?
                         <div><input id="p2m" type="text" name="textfield"></div>
                         <button id="btnCon2" type="button">Submit</button>
@@ -100,40 +108,35 @@
          //this.so.on("message",function(msg){self.doMessage(msg);});
          this.so.on("sendMessage",function(data){self.showMessage(data);});
          this.so.on('gameready',function(data){self.showStat(data);});
-         this.so.on('sendturn',function(data){self.showDec(data);});
+         this.so.on('sendturn',function(data){self.showTurn(data);});
          this.so.on('sendMoney',function(data){self.showMoney(data);});
+         this.so.on('sendtime',function(data){self.showTime(data);});
          this.so.on('endgame',function(data){self.doEnd(data);});
     };
     Client.showMessage = function(data)
     {
         alert(data.mes);
     };
-    Client.showMoney = function(data)
-    {
-        if (data.ptype===1)
-            $("#p1money").text(data.mon);
-        else
-            $("#p2money").text(data.mon);
-    };
+    
     Client.showStat = function(data)
     {
         if (data.ready===true)
         {
-                $("#gameinfo").text("Room is "+data.room);
+            $("#gameinfo").show();
+                $("#roominfo").text("Room is "+data.room);
         }
         else
         {
-                $("#gameinfo").text("Waiting for other player...");
+                $("#roominfo").text("Waiting for other player...");
         }
     };
-    Client.sendDecval = function(value)
-    {
-        this.so.emit("clitoser",{'val':value});
-    };
-    Client.showDec = function(data)
+    Client.showTurn = function(data)
     {
         if (data.turn===true)
         {
+            //$("#god").show();
+            $("#other").show();
+
             if (data.ptype===1)
                 $("#p1dec").show();
             else if (data.ptype===2)
@@ -143,9 +146,25 @@
         }
         else
         {
+            //$("#god").hide();
+            $("#other").hide();
             $("#p1dec").hide();
             $("#p2dec").hide();
         }
+        $("#roomMon").text(data.roommon);
+        $("#othermon").text(data.othermon);
+    };
+    Client.sendDecval = function(value)
+    {
+        this.so.emit("clitoser",{'val':value});
+    };
+    Client.showMoney = function(data)
+    {
+        $("#money").text(data.mon);
+    };
+    Client.showTime = function(data)
+    {
+        $("#gametime").text(data.nowtime);
     };
     Client.doEnd = function(data)
     {

@@ -7,8 +7,10 @@
         this.roomnum = 0;
         this.playernum = 0 ;
 
+        //this.act = false;
+
         this.money = 0;
-        this.decval =0;
+        this.othermon =0;
         //綁定事件
         this.bindEvent();
     };
@@ -28,7 +30,7 @@
                 //註冊登陸事件
                 this.so.on("login",function(data,fn){self.doLogin(data,fn);});
                 //this.so.emit("sendmessage",{"mes":self.sendMessage()});
-                this.so.on("startgame",function(){self.doStartGame();});
+                //this.so.on("startgame",function(){self.doStartGame();});
                 this.so.on("clitoser",function(data){self.doClitoSer(data);});
             }
         },
@@ -75,26 +77,41 @@
         {
             this.so.emit('gameready',{'room': roomn ,'ready': stat });
         },
-        doStartGame:function()
-        {
-            this.srv.startGame(this);
-        },
+        //doStartGame:function()
+        //{
+        //    this.srv.startGame(this);
+        //},
         doClitoSer:function(data)
         {
             console.log("client.js - Received "+data.val
                 +" from player "+this.playertype+" of room "+(this.roomnum));
             this.srv.roomsplitMoney(data.val, this);
+            //this.act = true;
             //this.srv.switchPlayer(this);
             //this.money += data.val;
         },
         doSerToCli:function(value)
         {
-            this.money = value;
+            this.money += parseInt(value);
+            this.othermon = parseInt(value);
             this.so.emit('sendMoney',{'ptype':this.playertype,'mon': this.money});
         },
-        isYourTurn:function(is_yr_turn, now_time)
+        isYourTurn:function(is_yr_turn)
         {
-            this.so.emit('sendturn',{'ptype':this.playertype,'turn': is_yr_turn,'nowtime':now_time});
+            if (!this.srv.rooms[this.roomnum-1].activate)
+            {
+                this.so.emit('sendturn',
+                    {
+                        'ptype':this.playertype,
+                        'turn': is_yr_turn,
+                        'roommon':this.srv.rooms[this.roomnum-1].money,
+                        'othermon':this.othermon
+                    });
+            }
+        },
+        dosendTime:function(now_time)
+        {
+            this.so.emit('sendtime',{'nowtime':now_time});
         },
         doEndGame:function()
         {

@@ -1,6 +1,0 @@
-0 , hhD2CF1JSHvmzomwAAAA , 50
-0 , QvWbQlGCyvWr6RrDAAAB , 50
-
-1 , QvWbQlGCyvWr6RrDAAAB , 10020
-1 , hhD2CF1JSHvmzomwAAAA , 30
-
