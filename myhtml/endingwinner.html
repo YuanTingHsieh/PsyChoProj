@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" >
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+
+	<!--  <link href="main.css" rel="stylesheet" type="text/css">	-->
+	<title>Game Over</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+	<style>
+		body{
+			margin: 0;
+			background-image: url(img/bg.jpg);
+			background-repeat: no-repeat;
+			background-size:110%;
+			color: #F2EEED;
+		}
+	    
+	    .center{
+	      text-align: center;
+	    }
+	    .title{
+	      margin-top: 100px;
+	      font-size: 300%;
+	    }
+	    .result{
+	      margin-top: 50px;
+	    }
+	    .result img{
+	    	height: 250px; width: 300px;
+	    	margin-top: 10px;
+	    }
+	    .result h2{
+	    	text-align: center;
+	    }
+	    button{
+	    	position: relative;
+	    	left: 45%; right: 55%;
+	    	margin-top: 20px;
+	    }
+
+	</style>
+
+</head>
+
+
+
+
+<body>
+
+
+
+    <div class="container contentContainer">
+
+      <div class="row" class="center">
+        <h1 class="center title">遊戲結束，看看結果吧！</h1>
+        <p class="lead center">你是溫拿、聰明人、還是魯蛇呢？</p>
+      </div>    	
+
+	  <button onclick="show()" class="btn btn-info btn-lg">Check It Out!</button>
+
+
+      <div class="row result">
+
+        <div class="col-md-4" id="winner">
+          <h2><span class="glyphicon glyphicon-thumbs-up"></span>溫拿</h2>
+          <img src="img/winner.jpg" alt="" >
+          
+        </div>
+
+
+        <div class="col-md-4" id="smart">
+          <h2><span class="glyphicon glyphicon-user"></span>聰明人</h2>
+          <img src="img/cat.jpg" alt="" >
+
+        </div>
+
+        <div class="col-md-4" id="loser">
+          <h2><span class="glyphicon glyphicon-thumbs-down"></span>魯蛇</h2>
+		  <img src="img/loser.jpg" alt="" >
+          
+        </div>
+
+      </div>
+
+
+    </div>
+
+
+	
+	<script>
+
+		function show() {
+			var properties = {
+				position: "relative",
+				left: "35%"
+			};
+			$("#winner").animate(properties, 1000);
+		}
+		
+
+		$(document).ready(function() {
+			$("button").click(function(){
+		    $("#loser").fadeOut(700);
+		    $("#smart").fadeOut(700);
+		    
+		  });
+		});
+	</script>
+	
+</body>
+
+</html>

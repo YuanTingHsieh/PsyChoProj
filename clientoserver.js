@@ -7,9 +7,9 @@
         this.roomnum = 0;
         this.playernum = 0 ;
 
-        //this.act = false;
-
+        //his money now
         this.money = 0;
+        //the other gave lasr round
         this.othermon =0;
         //綁定事件
         this.bindEvent();
@@ -58,7 +58,6 @@
                 {
                     //callback to be 0
                     fn(0,this.srv.clicount,this.srv.totalRound);
-                    //this.srv.updateUserInfo(); 
                     this.srv.roomInit();
                     console.log("client.js - "+this.toString()+" has login");           
                 }
@@ -77,18 +76,11 @@
         {
             this.so.emit('gameready',{'room': roomn ,'ready': stat });
         },
-        //doStartGame:function()
-        //{
-        //    this.srv.startGame(this);
-        //},
         doClitoSer:function(data)
         {
             console.log("client.js - Received "+data.val
                 +" from player "+this.playertype+" of room "+(this.roomnum));
             this.srv.roomsplitMoney(data.val, this);
-            //this.act = true;
-            //this.srv.switchPlayer(this);
-            //this.money += data.val;
         },
         doSerToCli:function(value)
         {
@@ -105,7 +97,8 @@
                         'ptype':this.playertype,
                         'turn': is_yr_turn,
                         'roommon':this.srv.rooms[this.roomnum-1].money,
-                        'othermon':this.othermon
+                        'othermon':this.othermon,
+                        'nowround':this.srv.rooms[this.roomnum-1].rounds
                     });
             }
         },
@@ -115,8 +108,12 @@
         },
         doEndGame:function()
         {
-            //need modify
-            this.so.emit('endgame',{'level':'master'});
+            if (this.money < 266)
+                this.so.emit('endgame',{'level':'loser'});
+            else if (this.money < 533)
+                this.so.emit('endgame',{'level':'smart'});
+            else
+                this.so.emit('endgame',{'level':'winner'});
         }
     }
     exports.newClient = function(server,socket)

@@ -17,15 +17,16 @@
                 This is where you put background.
                 <div id="roominfo"></div>
                 <div id ="gameinfo" style="display:none">
-                    Round <div id="round"></div>
-                    Times Remaining <span id ="gametime"></span> seconds...
+                    <div>Round <span id="round"></span></div>
+                    <div>Time remains <span id ="gametime"></span> seconds...</div>
                     <div id ="god">
                         God give you <span id="roomMon" ></span> dollars this round.
                     </div>
                     <div id ="other">
-                        The other give you <span id ="othermon"></span> dollars this round.
+                        The other give you <span id ="othermon">0</span> dollars last round.
                     </div>
-                    You now have <span id="money"></span> dollars.
+                    
+                    <div>You have <span id="money">0</span> dollars before this round.</div>
                 </div>
                 
                 <div id="p1dec">
@@ -134,7 +135,7 @@
     {
         if (data.turn===true)
         {
-            //$("#god").show();
+            $("#god").show();
             $("#other").show();
 
             if (data.ptype===1)
@@ -146,17 +147,14 @@
         }
         else
         {
-            //$("#god").hide();
+            $("#god").hide();
             $("#other").hide();
             $("#p1dec").hide();
             $("#p2dec").hide();
         }
+        $("#round").text(data.nowround+1);
         $("#roomMon").text(data.roommon);
         $("#othermon").text(data.othermon);
-    };
-    Client.sendDecval = function(value)
-    {
-        this.so.emit("clitoser",{'val':value});
     };
     Client.showMoney = function(data)
     {
@@ -166,12 +164,20 @@
     {
         $("#gametime").text(data.nowtime);
     };
+    Client.sendDecval = function(value)
+    {
+        this.so.emit("clitoser",{'val':value});
+    };
     Client.doEnd = function(data)
     {
-        $("#main").hide();
-        $("#final").show();
-        //this.showFinal(data.level);
-        $("#level").text(data.level);
+        var prefix = "http://localhost:8888/ending";
+        //IP
+        if(data.level === "loser")
+            window.location.href = prefix+"loser";
+        else if(data.level === "smart")
+            window.location.href = prefix+"smart";
+        else
+            window.location.href = prefix+"winner";
     };
     window.Client = Client;
 }())
@@ -179,6 +185,15 @@
 function isSupportHTML5()
 {
         return (typeof(Worker) !=="undefined");
+}
+function isInt(value) 
+{
+  var x;
+  if (isNaN(value)) {
+    return false;
+  }
+  x = parseFloat(value);
+  return (x | 0) === x;
 }
 $(document).ready(function(){
     if(!isSupportHTML5())
@@ -213,20 +228,23 @@ $(document).ready(function(){
                         $("#btnCon1").click(function(){
                                 //console.log("OK");
                                 var value = $("#p1m").val();
-                                console.log(value);
-                                Client.sendDecval(value);
+                                if(!isInt(value) )
+                                    alert("Invalid value! Enter a integer!")
+                                else if (value<0 || value > parseInt($("#roomMon").text()) )
+                                    alert("Value shoud be in range [0,"+parseInt($("#roomMon").text())+"]")
+                                else
+                                    Client.sendDecval(value);
                         });
                         $("#btnCon2").click(function(){
                                 //console.log("OK");
                                 var value = $("#p2m").val();
-                                Client.sendDecval(value);
+                                if(!isInt(value) )
+                                    alert("Invalid value! Enter a integer!")
+                                else if (value<0 || value > parseInt($("#roomMon").text()) )
+                                    alert("Value shoud be in range [0,"+parseInt($("#roomMon").text())+"]")
+                                else
+                                    Client.sendDecval(value);
                         });
-
-                        //while(cliround!=totalround)
-                        //{
-                                                                         
-                        //    cliround++;
-                        //}
                     }
             });
 
