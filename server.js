@@ -169,8 +169,8 @@
                 {
                     this.rooms[this.rooms.length-1].valid = true;
                     this.clients[this.clients.length-1].roomnum = this.roomcount;
-                    this.sendStatus(this.clients[this.clients.length-1],true,this.rooms.length);
-                    this.sendStatus(this.clients[this.clients.length-2],true,this.rooms.length);
+                    this.sendStatus(this.clients[this.clients.length-1],true,this.rooms.length,this.clients[this.clients.length-2].user.uname);
+                    this.sendStatus(this.clients[this.clients.length-2],true,this.rooms.length,this.clients[this.clients.length-1].user.uname);
              
                 }
                 else
@@ -180,7 +180,7 @@
                     this.rooms.push({"num":this.roomcount,"money":this.startMoney,
                         "valid":false, "rounds":0, "activate":false, "times":this.timeup});
                     this.tHands.push(null);
-                    this.sendStatus(this.clients[this.clients.length-1],false,this.rooms.length);
+                    this.sendStatus(this.clients[this.clients.length-1],false,this.rooms.length,this.clients[this.clients.length-1].user.uname);
                 }
 
                 console.log("server.js - clinum is "+this.clients.length);
@@ -191,9 +191,9 @@
             console.log("server.js - sending message to "+client.toString());
             client.dosendMessage(message);
         },
-        sendStatus:function(client, stat, roomnum)
+        sendStatus:function(client, stat, roomnum, opponame)
         {
-            client.doGameready(stat, roomnum);
+            client.doGameready(stat, roomnum, opponame);
             if (client.playertype==2)
             {
                 console.log("sending Status...");
@@ -276,6 +276,7 @@
         endGame:function(client)
         {
             console.log("server.js - Ends game at room "+client.roomnum);
+            this.rooms[client.roomnum-1].valid=false;
             if (client.playertype==1)
             {
                 this.clients[client.playernum-1].doEndGame();

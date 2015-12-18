@@ -62,7 +62,7 @@
                 if(!isExists)
                 {
                     //callback to be 0
-                    fn(0,this.srv.clicount,this.srv.totalRound);
+                    fn(0,this.srv.clicount);
                     this.srv.roomInit();
                     console.log("client.js - "+this.toString()+" has login");           
                 }
@@ -77,9 +77,9 @@
         {
             this.so.emit('sendMessage',{'mes':message});
         },
-        doGameready:function(stat, roomn)
+        doGameready:function(stat, roomn, opponame)
         {
-            this.so.emit('gameready',{'room': roomn ,'ready': stat });
+            this.so.emit('gameready',{'room': roomn ,'ready': stat, 'oppo':opponame });
         },
         doClitoSer:function(data)
         {

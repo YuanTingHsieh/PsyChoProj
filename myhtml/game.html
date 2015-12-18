@@ -33,8 +33,7 @@
 
         <!--登陸層-->
         <div id="loginDiv" class="dlbj">
-            <div style="position:fixed;width:40%;height:20%;left:30%;top:40%;text-align:center">
-                <font face="Microsoft JhengHei" size="4" color="black"><b>
+            <div style="position:fixed;width:40%;height:20%;left:30%;top:40%;text-align:center;font-size:2vh;font-color:black;font-family:fantasy,Microsoft JhengHei">
                         <p>暱稱:<input id="tUser" type="text" name="textfield"></p>
                         <p>性別:<input value="man" type="radio" name="gen">男<input value="woman" type="radio" name="gen">女</p>
                         <p>系所:<input id="dep" type="text" name="textfield"></p>
@@ -42,8 +41,6 @@
 						        <input value="suffer" type="radio" name="age">二 
 								<input value="junior" type="radio" name="age">三 
 								<input value="senior" type="radio" name="age">四 </p>
-                        
-                </b></font>
                         <div class="dlfwq" id="btnCon"><img src="http://www.gifs.cc/enter/enter-with-frame.png"  border="0" width=20%></div>
             </div>
         </div>
@@ -51,38 +48,39 @@
 
 
         <div id="main" class="main" style="display:none;font-family:fantasy,Microsoft JhengHei">
-            <img src="http://imgur.com/K3rbIpA.png" id="image1" style="position:absolute;display:none;z-index:-1" width=30%/>
-            <img src="http://imgur.com/agjHyr9.png" id="image2" style="position:absolute;display:none;z-index:-1" width=15%/>
-            <img src="http://imgur.com/GNYvhTK.jpg" id="image" style="position:absolute;display:none;z-index:-1"/>
-            <img src="http://imgur.com/eDBHMge.png" id="goddd" style="position:absolute;display:none;z-index:-1" width=20%/>
+            <img src="http://imgur.com/K3rbIpA.png" id="image1" style="position:fixed;display:none;z-index:-1" width=30%/>
+            <img src="http://imgur.com/agjHyr9.png" id="image2" style="position:fixed;display:none;z-index:-1" width=15%/>
+            <img src="http://imgur.com/GNYvhTK.jpg" id="image" style="position:fixed;display:none;z-index:-1" width=10%/>
+            <img src="http://imgur.com/eDBHMge.png" id="goddd" style="position:fixed;display:none;z-index:-1" width=20%/>
 
-            <img src="http://imgur.com/OeV2ObD.png" id="say1" style="position:absolute;display:none;right:5%;top:10%;z-index:-1" width=40%/>
-            <img src="http://imgur.com/uDjnQ9B.png" id="say2" style="position:absolute;display:none;right:5%;top:10%;z-index:-1" width=40%/>
-            <img src="http://imgur.com/6lPHkxl.png" id="say3" style="position:absolute;display:none;right:5%;top:10%;z-index:-1" width=40%/>
-            <img src="http://imgur.com/vo4XCDl.png" id="say4" style="position:absolute;display:none;right:5%;top:10%;z-index:-1" width=40%/>
+            <img src="http://imgur.com/OeV2ObD.png" id="say1" style="position:fixed;display:none;right:5%;top:10%;z-index:-1" width=40%/>
+            <img src="http://imgur.com/uDjnQ9B.png" id="say2" style="position:fixed;display:none;right:5%;top:10%;z-index:-1" width=40%/>
+            <img src="http://imgur.com/6lPHkxl.png" id="say3" style="position:fixed;display:none;right:5%;top:10%;z-index:-1" width=40%/>
+            <img src="http://imgur.com/vo4XCDl.png" id="say4" style="position:fixed;display:none;right:5%;top:10%;z-index:-1" width=40%/>
 
                 <div id="roominfo">
                     <div style="position:fixed;width:40%;height:20%;left:30%;top:40%;text-align:center">
-                        <font size="5" color="black"><img src="http://imgur.com/xrf0x3D.png"  border="0" width=50%></font>
+                        <img src="http://imgur.com/xrf0x3D.png"  border="0" width=50%>
                     </div>
                 </div>
 
-                <div id="player" style="display:none;background-repeat:no-repeat;background-image:url(http://imgur.com/jlzqCY2.jpg);background-size:100%;position:fixed;width:16%;height:5%;left:4%;bottom:5%;text-align:center;z-index:-2">
-                    <font size="5" color="black"><b> <span id="userid"></span> </b></font>
+                <div id="player" style="display:none;background-repeat:no-repeat;background-image:url(http://imgur.com/jlzqCY2.jpg);background-size:100%;position:fixed;width:16%;height:5%;left:4%;bottom:5%;text-align:center;z-index:-2;font-size:5vh;color:black">
+                    <b><span id="userid"></span></b>
+                </div>
+                <div id="opponent" style="display:none;background-repeat:no-repeat;background-image:url(http://imgur.com/jlzqCY2.jpg);background-size:100%;position:fixed;width:16%;height:5%;right:4%;bottom:5%;text-align:center;z-index:-2;font-size:5vh;color:black">
+                    <b><span id="enemy"></span></b>
                 </div>
 
                 <div id="gameinfo" style="display:none">
 
 
                     <div style="background-repeat:no-repeat;background-image:url(http://imgur.com/YW5qiJq.png);background-size:100%;position:fixed;width:34%;height:60%;left:0%;top:0%;text-align:center;z-index:-2">
-                        <font size="4"><br><br><br><br><br><br></font>
-                        <div>
-                            <font size="6" color="black">
-                                <b><img src="http://imgur.com/TEw3bRS.jpg" width=18%>:<span id="money">0</span> 第 <span id="round"></span> 回合</b>
-                            </font>
+                        <div style="font-size:3vh"><br><br><br><br><br></div>
+                        <div style="font-size:6vh;font-color:black">
+                                <b>你現在有<img src="http://imgur.com/TEw3bRS.jpg" width=18%>:<span id="money">0</span></b>
                         </div>
-                        <font size="4" color="black">
-                            <b><div>倒數計時: <span id ="gametime"></span> 秒...</div>
+                        <div style="font-size:3vh;font-color:black">
+                            <b><div>第 <span id="round"></span> 回合-倒數計時: <span id ="gametime"></span> 秒...</div>
                             <div id ="god">
                                 因為很開心，上天這次降下 <span id="roomMon" ></span> 圓
                             </div>
@@ -90,9 +88,9 @@
                                 上一回合，您的朋友給您 <span id ="othermon">0</span> 圓
                             </div>
                             <div id ="chat">
-                                這是別人的回合喔~喘口氣稍等一下!
+                                這是別人的回合喔~<br>喘口氣稍等一下!
                             </div></b>
-                        </font>
+                        </div>
                     </div>
                 </div>
                 
@@ -161,8 +159,8 @@
     {
         //MODDDDDD user:{"uname":null,"ugen":0,"udep":null,"uage":0},
             this.so.emit("login",{"uname":this.user.uname,"ugen":this.user.ugen,"udep":this.user.udep,"uage":this.user.uage},
-                function(data,playnum,totalround){
-                 callback(data,playnum,totalround);
+                function(data,playnum){
+                 callback(data,playnum);
             });
     };
 
@@ -194,6 +192,8 @@
     Client.showMessage = function(data)
     {
         alert(data.mes);
+        window.location.reload(true);
+
     };
     
     Client.showStat = function(data)
@@ -203,6 +203,9 @@
             $("#roominfo").hide();
             $("#gameinfo").show();
             $("#roominfo").text("Room is "+data.room);
+            $("#enemy").text(data.oppo);
+            $("#player").show();
+            $("#opponent").show();
         }
         else
         {
@@ -225,7 +228,7 @@
             $("#p1dec").hide();
             $("#p2dec").hide();
         }
-        $("#player").show();
+        
         $("#round").text(data.nowround+1);
         $("#roomMon").text(data.roommon);
         $("#othermon").text(data.othermon);
@@ -250,8 +253,7 @@ function getScreenSize(target){
 }
 
 var pic=document.getElementById("image");
-var picHeight=124;
-var picWidth=217;
+
 var screenHeight=getScreenSize(window).height;
 var screenWidth=getScreenSize(window).width;
 
@@ -259,6 +261,9 @@ document.getElementById("image1").style.bottom=screenHeight/10;
 document.getElementById("image2").style.bottom=screenHeight/10;
 document.getElementById("image2").style.right=0;
 document.getElementById("goddd").style.right=screenWidth*0.4;
+
+var picWidth=screenWidth/10;
+var picHeight=picWidth/1.75;
 
 function vertical(t,b,c1){
     return c1*(t/500 + (1-Math.abs(Math.sin(t/30)))/20) + b*c1;
@@ -328,6 +333,7 @@ drop();
         //IIPP
         //var prefix = "http://localhost:8888/ending";
 		var prefix = "http://140.112.249.166:8888/ending";
+        //var prefix = "http://127.0.0.1:8888/ending";
         //IP
         if(data.level === "loser")
             window.location.href = prefix+"loser";
@@ -371,6 +377,7 @@ $(document).ready(function(){
 			
 			//MODDDDDD user:{"uname":null,"ugen":0,"udep":null,"uage":0},
             $("#userid").text(user);
+
             Client.connect(host,8888);
             Client.user.uname = user ;
 			Client.user.ugen = user_gen;
@@ -378,15 +385,16 @@ $(document).ready(function(){
 			Client.user.udep = user_dep;
 			
 			
-            Client.login(function(data,playnum,totalround){
+            Client.login(function(data,playnum){
                     if(data==1)
                     {
                         alert("This user already exist, please change user!");
                     }
                     else
                     {
-                        var cliround = 1;
+                        //var cliround = 1;
                         //this.playnum = playnum;
+                        
                         $("#loginDiv").hide();
                         
 

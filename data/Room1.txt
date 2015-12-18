@@ -1,40 +1,80 @@
 Rounds 0
 God send 100
-Decision 100 is given out
-P1 is [uname:我超大,ugen:man,udep:FFGG,uage:fresh,player:1,room:1,sid:Fa5uMlepFAOZXZp4AAAA]
-P2 is [uname:超大,ugen:man,udep:大屌系,uage:senior,player:2,room:1,sid:5AI77VcGii6b0jVNAAAB]
-P1 increase 0
-P2 increase 100
-P1 has 0
-P2 has 100
+Decision 0 is given out
+P1 is [uname:Chichi,ugen:man,udep:電機,uage:senior,player:1,room:1,sid:nK3yWmXKT_0gMs8rAAAI]
+P2 is [uname:YUAN,ugen:man,udep:EE,uage:senior,player:2,room:1,sid:mK50xUdxsMy_u6OfAAAJ]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
 
 Rounds 1
+God send 100
+Decision 100 is given out
+P1 is [uname:Chichi,ugen:man,udep:電機,uage:senior,player:1,room:1,sid:nK3yWmXKT_0gMs8rAAAI]
+P2 is [uname:YUAN,ugen:man,udep:EE,uage:senior,player:2,room:1,sid:mK50xUdxsMy_u6OfAAAJ]
+P1 increase 100
+P2 increase 0
+P1 has 200
+P2 has 0
+
+Rounds 2
 God send 200
-Decision 200 is given out
-P1 is [uname:我超大,ugen:man,udep:FFGG,uage:fresh,player:1,room:1,sid:Fa5uMlepFAOZXZp4AAAA]
-P2 is [uname:超大,ugen:man,udep:大屌系,uage:senior,player:2,room:1,sid:5AI77VcGii6b0jVNAAAB]
+Decision 0 is given out
+P1 is [uname:Chichi,ugen:man,udep:電機,uage:senior,player:1,room:1,sid:nK3yWmXKT_0gMs8rAAAI]
+P2 is [uname:YUAN,ugen:man,udep:EE,uage:senior,player:2,room:1,sid:mK50xUdxsMy_u6OfAAAJ]
 P1 increase 200
+P2 increase 0
+P1 has 400
+P2 has 0
+
+Rounds 3
+God send 200
+Decision 0 is given out
+P1 is [uname:Chichi,ugen:man,udep:電機,uage:senior,player:1,room:1,sid:nK3yWmXKT_0gMs8rAAAI]
+P2 is [uname:YUAN,ugen:man,udep:EE,uage:senior,player:2,room:1,sid:mK50xUdxsMy_u6OfAAAJ]
+P1 increase 0
+P2 increase 200
+P1 has 400
+P2 has 200
+
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:小屌加成,ugen:man,udep:屌細,uage:senior,player:1,room:1,sid:m_5gx0CjEpfxpu0ZAAAK]
+P2 is [uname:區區簡翌,ugen:man,udep:電機,uage:senior,player:2,room:1,sid:FqVTIlR_a7LejXFOAAAL]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 100
+Decision 0 is given out
+P1 is [uname:小屌加成,ugen:man,udep:屌細,uage:senior,player:1,room:1,sid:m_5gx0CjEpfxpu0ZAAAK]
+P2 is [uname:區區簡翌,ugen:man,udep:電機,uage:senior,player:2,room:1,sid:FqVTIlR_a7LejXFOAAAL]
+P1 increase 0
+P2 increase 100
+P1 has 100
+P2 has 100
+
+Rounds 2
+God send 100
+Decision 0 is given out
+P1 is [uname:小屌加成,ugen:man,udep:屌細,uage:senior,player:1,room:1,sid:m_5gx0CjEpfxpu0ZAAAK]
+P2 is [uname:區區簡翌,ugen:man,udep:電機,uage:senior,player:2,room:1,sid:FqVTIlR_a7LejXFOAAAL]
+P1 increase 100
 P2 increase 0
 P1 has 200
 P2 has 100
 
-Rounds 2
-God send 400
-Decision 10 is given out
-P1 is [uname:我超大,ugen:man,udep:FFGG,uage:fresh,player:1,room:1,sid:Fa5uMlepFAOZXZp4AAAA]
-P2 is [uname:超大,ugen:man,udep:大屌系,uage:senior,player:2,room:1,sid:5AI77VcGii6b0jVNAAAB]
-P1 increase 390
-P2 increase 10
-P1 has 590
-P2 has 110
-
 Rounds 3
-God send 410
-Decision 10 is given out
-P1 is [uname:我超大,ugen:man,udep:FFGG,uage:fresh,player:1,room:1,sid:Fa5uMlepFAOZXZp4AAAA]
-P2 is [uname:超大,ugen:man,udep:大屌系,uage:senior,player:2,room:1,sid:5AI77VcGii6b0jVNAAAB]
-P1 increase 10
-P2 increase 400
-P1 has 600
-P2 has 510
+God send 100
+Decision 0 is given out
+P1 is [uname:小屌加成,ugen:man,udep:屌細,uage:senior,player:1,room:1,sid:m_5gx0CjEpfxpu0ZAAAK]
+P2 is [uname:區區簡翌,ugen:man,udep:電機,uage:senior,player:2,room:1,sid:FqVTIlR_a7LejXFOAAAL]
+P1 increase 0
+P2 increase 100
+P1 has 200
+P2 has 200
 
