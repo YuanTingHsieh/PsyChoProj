@@ -2,14 +2,14 @@
     var Client = function(server,socket){
         this.srv = server;
         this.so = socket;
-        this.user = {"uname":null,"level":0,"score":0};
+        this.user = {"uname":null,"ugen":null,"udep":null,"uage":null};
         this.playertype = 0;
         this.roomnum = 0;
         this.playernum = 0 ;
 
         //his money now
         this.money = 0;
-        //the other gave lasr round
+        //the other gave last round
         this.othermon =0;
         //綁定事件
         this.bindEvent();
@@ -17,7 +17,8 @@
     Client.prototype = {
         toString:function()
         {
-           return "[uname:" + this.user.uname + ",player:"+ this.playernum
+           return "[uname:" + this.user.uname + ",ugen:" + this.user.ugen + ",udep:" + this.user.udep
+           + ",uage:" + this.user.uage + ",player:"+ this.playernum
            + ",room:" + (this.roomnum) + ",sid:" +this.so.id+ "]";
         },
         bindEvent:function()
@@ -46,6 +47,10 @@
             if(data)
             {
                 this.user.uname = data.uname;
+                this.user.uage = data.uage;
+                this.user.ugen = data.ugen;
+                this.user.udep = data.udep;
+
                 var isExists = this.srv.isUserExists(this);
                 this.playertype = this.srv.clicount;
                 //this.roomnum = this.srv.roomcount;

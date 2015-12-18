@@ -32,7 +32,7 @@
             //192.168.43.201
             //140.112.249.166
             //IP
-            srv.listen(port);
+            srv.listen(port,'140.112.249.166');
             
             this.io = require("socket.io").listen(srv);
             //shut down debug
@@ -325,10 +325,12 @@
             dataStream.write("Rounds "+this.rooms[nowroom-1].rounds+'\n');
             dataStream.write("God send "+this.rooms[nowroom-1].money+"\n");
             dataStream.write("Decision "+m_receive+" is given out\n");
-            dataStream.write("P1 : "+this.clients[cp1].so.id+' increase '+m1+'\n');
-            dataStream.write("P2 : "+this.clients[cp2].so.id+' increase '+m2+'\n');
-            dataStream.write("P1 : "+this.clients[cp1].so.id+' has '+ this.clients[cp1].money +'\n');
-            dataStream.write("P2 : "+this.clients[cp2].so.id+' has '+ this.clients[cp2].money +'\n');
+            dataStream.write("P1 is "+this.clients[cp1].toString()+'\n');
+            dataStream.write("P2 is "+this.clients[cp2].toString()+'\n');
+            dataStream.write('P1 increase '+m1+'\n');
+            dataStream.write('P2 increase '+m2+'\n');
+            dataStream.write('P1 has '+ this.clients[cp1].money +'\n');
+            dataStream.write('P2 has '+ this.clients[cp2].money +'\n');
             dataStream.end('\n');
             if (this.clients[cp1].playertype===2)
             {
