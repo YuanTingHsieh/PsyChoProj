@@ -408,24 +408,50 @@ $(document).ready(function(){
                         $("#main").show(function(){
                             $("body").css("background-image","url('http://imgur.com/FCG3g0l.jpg')");
                         });
-
+/*var value = $("#p1m").val();
+                                if(!isInt(value) )
+                                    alert("Invalid value! Enter a integer!")
+                                else if (value<0 || value > parseInt($("#roomMon").text()) )
+                                    alert("Value shoud be in range [0,"+parseInt($("#roomMon").text())+"]")
+                                else
+                                    Client.sendDecval(value);*/
 
 
 
                         $("#p1dec").hide();
                         $("#p2dec").hide();
                         //sending decision money
-                        $("#btnCon1").click(function(){
-                                //console.log("OK");
-                                var value = $("#p1m").val();
+                        $("#btnCon1").on('click', function(e){
+                            var $link = $(e.target);
+							e.preventDefault();
+							if(!$link.data('lockedAt') || +new Date() - $link.data('lockedAt') > 300) {
+								var value = $("#p1m").val();
                                 if(!isInt(value) )
                                     alert("Invalid value! Enter a integer!")
                                 else if (value<0 || value > parseInt($("#roomMon").text()) )
                                     alert("Value shoud be in range [0,"+parseInt($("#roomMon").text())+"]")
                                 else
                                     Client.sendDecval(value);
+							}
+							$link.data('lockedAt', +new Date());
+                                
                         });
-                        $("#btnCon2").click(function(){
+						$("#btnCon2").on('click', function(e){
+                            var $link = $(e.target);
+							e.preventDefault();
+							if(!$link.data('lockedAt') || +new Date() - $link.data('lockedAt') > 300) {
+								var value = $("#p2m").val();
+                                if(!isInt(value) )
+                                    alert("Invalid value! Enter a integer!")
+                                else if (value<0 || value > parseInt($("#roomMon").text()) )
+                                    alert("Value shoud be in range [0,"+parseInt($("#roomMon").text())+"]")
+                                else
+                                    Client.sendDecval(value);
+							}
+							$link.data('lockedAt', +new Date());
+                                
+                        });
+                        /*$("#btnCon2").click(function(){
                                 //console.log("OK");
                                 var value = $("#p2m").val();
                                 if(!isInt(value) )
@@ -434,7 +460,7 @@ $(document).ready(function(){
                                     alert("Value shoud be in range [0,"+parseInt($("#roomMon").text())+"]")
                                 else
                                     Client.sendDecval(value);
-                        });
+                        });*/
                     }
             });
 

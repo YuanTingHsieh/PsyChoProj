@@ -154,16 +154,16 @@
             //判斷用戶是否存在
         isUserExists:function(client)
         {
-            for(var i = 0 ;i<this.clients.length;i++)
-            {
-                if(this.clients[i]!="")
-                {
-                    if(client==this.clients[i])
-                    {
-                        return true;
-                    }
-                }
-            }
+            //for(var i = 0 ;i<this.clients.length;i++)
+            //{
+            //    if(this.clients[i]!="")
+            //    {
+            //        if(client==this.clients[i])
+            //        {
+            //            return true;
+            //        }
+            //    }
+            //}
             return false;
         },
         roomInit:function()
