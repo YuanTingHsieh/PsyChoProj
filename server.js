@@ -29,11 +29,12 @@
             }
             var srv = http.createServer(onRequest);
             //var srv = http.createServer(function(req,rep){});
-            //192.168.43.201
             //140.112.249.166
             //127.0.0.1
+            //40.117.46.27
+            //10.0.0.4
             //IIPP
-            srv.listen(port,'140.112.249.166');
+            srv.listen(port,'10.0.0.4');
             
             this.io = require("socket.io").listen(srv);
             //shut down debug

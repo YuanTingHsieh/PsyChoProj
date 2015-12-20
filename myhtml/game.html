@@ -191,8 +191,11 @@
     };
     Client.showMessage = function(data)
     {
-        alert(data.mes);
-        window.location.reload(true);
+        if(!alert(data.mes))
+        {
+            if(confirm("Reconnect Now?"))
+              window.location.reload(true);
+        }
 
     };
     
@@ -332,7 +335,9 @@ drop();
     {
         //IIPP
         //var prefix = "http://localhost:8888/ending";
-		var prefix = "http://140.112.249.166:8888/ending";
+        //var prefix = "http://10.0.0.4:8888/ending";
+        var prefix = "http://40.117.46.27:8888/ending";
+	//var prefix = "http://140.112.249.166:8888/ending";
         //var prefix = "http://127.0.0.1:8888/ending";
         //IP
         if(data.level === "loser")
@@ -368,7 +373,9 @@ $(document).ready(function(){
         //sending login message
         $("#btnCon").click(function(){
             //IIPP
-            var host = '140.112.249.166',
+            //var host = '10.0.0.4',
+            var host = '40.117.46.27',
+            //var host = '140.112.249.166',
             //var host = '127.0.0.1',
             user = $("#tUser").val();
 			user_dep = $("#dep").val();
