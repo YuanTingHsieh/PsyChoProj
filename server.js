@@ -156,9 +156,12 @@
         {
             for(var i = 0 ;i<this.clients.length;i++)
             {
-             if(client!=this.clients[i]&&this.clients[i].user.uname == client.user.uname)
+                if(this.clients[i]!="")
                 {
-                 return true;
+                    if(client==this.clients[i])
+                    {
+                        return true;
+                    }
                 }
             }
             return false;
