@@ -351,7 +351,7 @@
         {
             console.log("server.js - Updating room...");
             var roomn = client.roomnum;
-            this.rooms[roomn-1].money += parseInt(m_receive);
+            this.rooms[roomn-1].money = this.startMoney+parseInt(m_receive);
             this.rooms[roomn-1].rounds += 1;
             clearInterval(this.tHands[roomn-1]);
             this.startGame(client);
