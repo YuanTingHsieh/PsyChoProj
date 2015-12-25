@@ -11,7 +11,7 @@
     	toString:function()
     	{
     		return "[oppotype:"+this.optype+",name:"+this.optname
-    				+",playwith"+this.playwith+"]";
+    				+",playwith:"+this.playwith+"]";
     	},
     	setName:function()
     	{

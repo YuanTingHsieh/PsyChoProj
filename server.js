@@ -166,14 +166,15 @@
             var self = this;
             if(nowround%2===0)
             {
-                self.clients[nowplayer-1].isYourTurn(true);
-            }
-            else
-            {
                 self.clients[nowplayer-1].isYourTurn(false);
                 setTimeout(function(){
                     self.roomsplitMoney(self.opponents[nowplayer-1].decMon(nowround,self.rooms[nowroom-1].money),self.clients[nowplayer-1])
                 },10000)
+                
+            }
+            else
+            {
+                self.clients[nowplayer-1].isYourTurn(true);
             }
             this.tHands[nowroom-1] = setInterval(function(){
                 //console.log("server.js - Interval is running...");
