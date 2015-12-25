@@ -211,7 +211,7 @@
             var nowplayer = client.playernum;
             var x = parseInt(this.rooms[client.roomnum-1].money); 
             console.log("Splitting money, original :"+x+" after : "+(x- m_receive  )+" , "+m_receive);
-            if (this.rooms[clients.roomnum-1].rounds%2 ==0)
+            if (this.rooms[client.roomnum-1].rounds%2 ==0)
             {
                 this.clients[nowplayer-1].doSerToCli(x - m_receive );
             //this.clients[nowplayer].doSerToCli( m_receive );
