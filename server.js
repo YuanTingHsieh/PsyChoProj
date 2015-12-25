@@ -169,7 +169,7 @@
                 self.clients[nowplayer-1].isYourTurn(false);
                 setTimeout(function(){
                     self.roomsplitMoney(self.opponents[nowplayer-1].decMon(nowround,self.rooms[nowroom-1].money),self.clients[nowplayer-1])
-                },10000)
+                },15000)
                 
             }
             else
