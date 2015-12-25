@@ -179,7 +179,7 @@
                         if (self.rooms[nowroom-1].valid==true)
                             self.roomsplitMoney(self.opponents[nowplayer-1].decMon(nowround,self.rooms[nowroom-1].money),self.clients[nowplayer-1])
                     }
-                },15000)
+                },12000)
                 
             }
             else
