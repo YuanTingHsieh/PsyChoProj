@@ -85,14 +85,21 @@
                 this.clients.splice(idx,1,"");           
             }
 
+            var self = this;
             //check if clients is empty
-            this.checkEmpty();
+            if (this.checkEmpty())
+            {
+                self.resetServer();
+            }
             
         },
         checkEmpty:function()
         {
             var empty = true;
-            
+
+            if (this.clients.length == 0)
+                return true;
+
             for(var i =0;i<this.clients.length;i++)
             {
                 if (this.clients[i]!="")
@@ -102,11 +109,7 @@
                 }
             }
             
-            //如果所有客戶端都退出，則遊戲復位
-            if (empty===true)
-            {
-                this.resetServer();
-            }
+            return empty;
         },
         resetServer:function()
         {
@@ -116,6 +119,7 @@
             this.clients = [];
             this.rooms = [];
             this.tHands = [];
+            
         },
         roomInit:function()
         {        
@@ -180,7 +184,7 @@
             this.tHands[nowroom-1] = setInterval(function(){
                 //console.log("server.js - Interval is running...");
                 //if( (self.rooms[nowroom-1].times<0)  )
-                if( ( (self.rooms[nowroom-1].valid === false) || self.rooms[nowroom-1].times<0) )
+                if( (!this.checkEmpty()) || (self.rooms[nowroom-1].valid === false) || (self.rooms[nowroom-1].times<0) )
                 {
                     self.endTimeout(client);
                 }
