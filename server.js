@@ -95,21 +95,21 @@
         },
         checkEmpty:function()
         {
-            var empty = true;
 
             if (this.clients.length == 0)
                 return true;
 
-            for(var i =0;i<this.clients.length;i++)
-            {
-                if (this.clients[i]!="")
+            else
+            { 
+                for(var i =0;i<this.clients.length;i++)
                 {
-                    empty=false;
-                    break;
+                    if (this.clients[i]!="")
+                    {
+                        return false;
+                    }
                 }
+                return true;
             }
-            
-            return empty;
         },
         resetServer:function()
         {
