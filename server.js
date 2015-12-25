@@ -174,7 +174,11 @@
             {
                 self.clients[nowplayer-1].isYourTurn(false);
                 setTimeout(function(){
-                    self.roomsplitMoney(self.opponents[nowplayer-1].decMon(nowround,self.rooms[nowroom-1].money),self.clients[nowplayer-1])
+                    if (!self.checkEmpty())
+                    {
+                        if (self.rooms[nowroom-1].valid==true)
+                            self.roomsplitMoney(self.opponents[nowplayer-1].decMon(nowround,self.rooms[nowroom-1].money),self.clients[nowplayer-1])
+                    }
                 },15000)
                 
             }
