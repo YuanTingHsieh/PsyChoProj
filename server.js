@@ -180,7 +180,7 @@
             this.tHands[nowroom-1] = setInterval(function(){
                 //console.log("server.js - Interval is running...");
                 //if( (self.rooms[nowroom-1].times<0)  )
-                if( (self.rooms[nowroom-1].times<0) || (self.rooms[nowroom-1].valid === false) )
+                if( ( (self.rooms[nowroom-1].valid === false) || self.rooms[nowroom-1].times<0) )
                 {
                     self.endTimeout(client);
                 }
@@ -213,7 +213,7 @@
             var nowplayer = client.playernum;
             var x = parseInt(this.rooms[client.roomnum-1].money); 
             console.log("Splitting money, original :"+x+" after : "+(x- m_receive  )+" , "+m_receive);
-            if (this.rooms[client.roomnum-1].rounds%2 ==0)
+            if (this.rooms[client.roomnum-1].rounds%2 ==1)
             {
                 this.clients[nowplayer-1].doSerToCli(x - m_receive );
             //this.clients[nowplayer].doSerToCli( m_receive );
