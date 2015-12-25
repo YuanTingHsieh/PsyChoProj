@@ -62,7 +62,7 @@
         {
             console.log("server.js - add new client:"+socket.id);
             this.clients.push(cli.newClient(this,socket));
-            this.roomInit();
+            
         },
         removeClientByID:function(sID)
         {
@@ -139,7 +139,7 @@
         sendStatus:function(client, stat, roomnum, opponame)
         {
             client.doGameready(stat, roomnum, opponame);
-            console.log("server.js - Sending status to room "+roomnum+"oppo is "+opponame);
+            console.log("server.js - Sending status to room "+roomnum+" oppo is "+opponame);
             this.startGame(client);
         },
         startGame:function(client)
