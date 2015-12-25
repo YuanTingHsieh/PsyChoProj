@@ -81,6 +81,7 @@
             }
             if(idx!=-1){
                 console.log("server.js - removing client:"+sID);
+                clearInterval(this.tHands[this.clients[idx].roomnum-1]);
                 this.rooms[this.clients[idx].roomnum-1].valid=false;
                 this.clients.splice(idx,1,"");           
             }
@@ -184,7 +185,7 @@
             this.tHands[nowroom-1] = setInterval(function(){
                 //console.log("server.js - Interval is running...");
                 //if( (self.rooms[nowroom-1].times<0)  )
-                if( (!self.checkEmpty()) && ((self.rooms[nowroom-1].valid === false) || (self.rooms[nowroom-1].times<0)) )
+                if((self.rooms[nowroom-1].valid === false) || (self.rooms[nowroom-1].times<0) )
                 {
                     self.endTimeout(client);
                 }
@@ -198,7 +199,7 @@
         endTimeout:function(client)
         {
             console.log("server.js - client "+client.so.id+" is time out or invalid, shutting down");
-            clearInterval(this.tHands[client.roomnum-1]);
+            
             this.removeClientByID(client.so.id);
         },
         endGame:function(client)
@@ -207,7 +208,7 @@
             this.rooms[client.roomnum-1].valid=false;    
             this.clients[client.playernum-1].doEndGame();
                 
-            clearInterval(this.tHands[client.roomnum-1]);
+            //clearInterval(this.tHands[client.roomnum-1]);
             
         },
         

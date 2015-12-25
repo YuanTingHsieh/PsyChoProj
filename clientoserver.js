@@ -39,8 +39,6 @@
         doDisconnect:function()
         {
             this.srv.removeClientByID(this.so.id);
-            //通知客戶端;
-            //this.srv.updateUserInfo();
         },
         doLogin:function(data,fn)
         {
