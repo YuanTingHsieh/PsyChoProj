@@ -81,6 +81,7 @@
             }
             if(idx!=-1){
                 console.log("server.js - removing client:"+sID);
+                this.rooms[this.clients[idx].roomnum-1].valid=false;
                 this.clients.splice(idx,1,"");           
             }
 
@@ -123,7 +124,7 @@
             this.opponents.push(opp.newOpponent(this.clients[this.clients.length-1].playernum));
 
             this.rooms.push({"num":this.roomcount,"money":this.startMoney,
-                "valid":false, "rounds":0, "activate":false, "times":this.timeup});
+                "valid":true, "rounds":0, "activate":false, "times":this.timeup});
             this.tHands.push(null);
             this.sendStatus(this.clients[this.clients.length-1],true,this.rooms.length,this.opponents[this.clients.length-1].optname);
         
@@ -178,8 +179,8 @@
             }
             this.tHands[nowroom-1] = setInterval(function(){
                 //console.log("server.js - Interval is running...");
-                //if( (self.rooms[nowroom-1].times<0) || (self.rooms[nowroom-1].valid === false) )
-                if( (self.rooms[nowroom-1].times<0)  )
+                //if( (self.rooms[nowroom-1].times<0)  )
+                if( (self.rooms[nowroom-1].times<0) || (self.rooms[nowroom-1].valid === false) )
                 {
                     self.endTimeout(client);
                 }
