@@ -39,7 +39,7 @@
     			return roommon;
     		}
     		else
-    			return float(roommon)/2;
+    			return floor(roommon/2);
     	},
     }
     exports.newOpponent = function(clinum)
