@@ -22,7 +22,7 @@
     		else
     			this.optname = "Kris"
     	},
-    	doSertoCli:function(value)
+    	doSerToCli:function(value)
     	{
     		this.money+=parseInt(value);
     		this.othermon = parseInt(value);
