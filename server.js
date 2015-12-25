@@ -184,7 +184,7 @@
             this.tHands[nowroom-1] = setInterval(function(){
                 //console.log("server.js - Interval is running...");
                 //if( (self.rooms[nowroom-1].times<0)  )
-                if( (!this.checkEmpty()) || (self.rooms[nowroom-1].valid === false) || (self.rooms[nowroom-1].times<0) )
+                if( (!self.checkEmpty()) || (self.rooms[nowroom-1].valid === false) || (self.rooms[nowroom-1].times<0) )
                 {
                     self.endTimeout(client);
                 }
