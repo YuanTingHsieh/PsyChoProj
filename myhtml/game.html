@@ -81,12 +81,15 @@
                         </div>
                         <div style="font-size:3vh;font-color:black">
                             <b><div>第 <span id="round"></span> 回合-倒數計時: <span id ="gametime"></span> 秒...</div>
-                            <div id ="god">
-                                因為很開心，上天這次降下 <span id="roomMon" ></span> 圓
-                            </div>
+                            
                             <div id ="other">
                                 上一回合，您的朋友給您 <span id ="othermon">0</span> 圓
                             </div>
+
+                            <div id ="god">
+                                因為很開心，上天這次降下 <span id="roomMon" ></span> 圓
+                            </div>
+            
                             <div id ="chat">
                                 這是別人的回合喔~<br>喘口氣稍等一下!
                             </div></b>
@@ -211,7 +214,7 @@
     {
         if (data.turn===true)
         {
-            $("#god").show();
+            
             $("#other").show();
             $("#chat").hide();
         }
@@ -298,8 +301,10 @@ function drop(){
                 setTimeout(run, 10);
             }
             else if(data.turn===true){
-                $("#p1dec").fadeIn("slow");     
+                $("#p1dec").fadeIn("slow");
+
             }
+            $("#god").show();  
         }
     }
     run();

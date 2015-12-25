@@ -1,6 +1,6 @@
 (function(){
     var Opponent = function(clinum){
-        this.optype = clinum%3;
+        this.optype = Math.floor(Math.random() * 3) + 1;
         this.optname = "";
         this.playwith = clinum;
         this.setName();
@@ -39,7 +39,7 @@
     			return roommon;
     		}
     		else
-    			return Math.floor(Math.random() * roommon) + 1 ;
+    			return float(roommon)/2;
     	},
     }
     exports.newOpponent = function(clinum)
