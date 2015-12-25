@@ -2,8 +2,8 @@
     var Client = function(server,socket){
         this.srv = server;
         this.so = socket;
+
         this.user = {"uname":null,"ugen":null,"udep":null,"uage":null};
-        this.playertype = 0;
         this.roomnum = 0;
         this.playernum = 0 ;
 
@@ -51,8 +51,7 @@
                 this.user.ugen = data.ugen;
                 this.user.udep = data.udep;
 
-                var isExists = this.srv.isUserExists(this);
-                this.playertype = this.srv.clicount;
+                var isExists = false;
                 //this.roomnum = this.srv.roomcount;
                 this.playernum = this.srv.clients.length;
                 //console.log("client.js - Client "+this.user.uname+" has login as player "
@@ -62,7 +61,7 @@
                 if(!isExists)
                 {
                     //callback to be 0
-                    fn(0,this.srv.clicount);
+                    fn(0);
                     this.srv.roomInit();
                     console.log("client.js - "+this.toString()+" has login");           
                 }
@@ -84,14 +83,14 @@
         doClitoSer:function(data)
         {
             console.log("client.js - Received "+data.val
-                +" from player "+this.playertype+" of room "+(this.roomnum));
+                +" from player "+this.playernum+" of room "+(this.roomnum));
             this.srv.roomsplitMoney(data.val, this);
         },
         doSerToCli:function(value)
         {
             this.money += parseInt(value);
             this.othermon = parseInt(value);
-            this.so.emit('sendMoney',{'ptype':this.playertype,'mon': this.money});
+            this.so.emit('sendMoney',{'mon': this.money});
         },
         isYourTurn:function(is_yr_turn)
         {
@@ -99,7 +98,6 @@
             {
                 this.so.emit('sendturn',
                     {
-                        'ptype':this.playertype,
                         'turn': is_yr_turn,
                         'roommon':this.srv.rooms[this.roomnum-1].money,
                         'othermon':this.othermon,

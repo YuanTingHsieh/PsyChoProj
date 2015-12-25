@@ -12,8 +12,4 @@ handle["/endingsmart"] = requestHandlers.endingsmart;
 handle["/endingloser"] = requestHandlers.endingloser;
 
 
-//handle["/socket"] = requestHandlers.socket;
-//handle["/upload"] = requestHandlers.upload;
-//handle["/show"] = requestHandlers.show;
-
 server.newServer(router.route, handle,8888);

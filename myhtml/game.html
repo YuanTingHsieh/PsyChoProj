@@ -105,15 +105,7 @@
 
                 </div>
                 
-                <div id="p2dec">
-                        <div style="position:fixed;width:40%;height:30%;left:30%;bottom:10%;text-align:center">
-                            <div style="z-index:-1"><img src="http://imgur.com/ISSJVJ0.png"  border="0" width=50%></div>
-                            <div style="z-index:0">
-                                <div><input id="p2m" type="text" name="textfield"></div>
-                                <div id="btnCon2" type="button"><img src="http://imgur.com/MRFgf5V.png"  border="0" width=30%></div>
-                            </div>
-                        </div>
-                </div>
+                
         </div>
         <div id ="final" style="display:none">
             You got <div id = "level"></div> level 
@@ -159,8 +151,8 @@
     {
         //MODDDDDD user:{"uname":null,"ugen":0,"udep":null,"uage":0},
             this.so.emit("login",{"uname":this.user.uname,"ugen":this.user.ugen,"udep":this.user.udep,"uage":this.user.uage},
-                function(data,playnum){
-                 callback(data,playnum);
+                function(data){
+                 callback(data);
             });
     };
 
@@ -229,7 +221,6 @@
             $("#other").hide();
             $("#chat").show();
             $("#p1dec").hide();
-            $("#p2dec").hide();
         }
         
         $("#round").text(data.nowround+1);
@@ -308,7 +299,6 @@ function drop(){
             }
             else if(data.turn===true){
                 if(data.ptype===1){$("#p1dec").fadeIn("slow");}
-                else if(data.ptype===2){$("#p2dec").fadeIn("slow");}
                 else {alert("Bug occurs, contact the author");}
             }
         }
@@ -392,15 +382,13 @@ $(document).ready(function(){
 			Client.user.udep = user_dep;
 			
 			
-            Client.login(function(data,playnum){
+            Client.login(function(data){
                     if(data==1)
                     {
                         alert("This user already exist, please change user!");
                     }
                     else
                     {
-                        //var cliround = 1;
-                        //this.playnum = playnum;
                         
                         $("#loginDiv").hide();
                         
@@ -408,18 +396,10 @@ $(document).ready(function(){
                         $("#main").show(function(){
                             $("body").css("background-image","url('http://imgur.com/FCG3g0l.jpg')");
                         });
-/*var value = $("#p1m").val();
-                                if(!isInt(value) )
-                                    alert("Invalid value! Enter a integer!")
-                                else if (value<0 || value > parseInt($("#roomMon").text()) )
-                                    alert("Value shoud be in range [0,"+parseInt($("#roomMon").text())+"]")
-                                else
-                                    Client.sendDecval(value);*/
-
 
 
                         $("#p1dec").hide();
-                        $("#p2dec").hide();
+                       
                         //sending decision money
                         $("#btnCon1").on('click', function(e){
                             var $link = $(e.target);
