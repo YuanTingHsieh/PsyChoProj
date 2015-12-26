@@ -14,6 +14,7 @@
 
         this.rooms = [];
         this.tHands = [];
+        this.tmHands = [];
         //config
         this.totalRound = 4;
         this.startMoney = 100;
@@ -82,6 +83,7 @@
             if(idx!=-1){
                 console.log("server.js - removing client:"+sID);
                 clearInterval(this.tHands[this.clients[idx].roomnum-1]);
+                clearTimeout(this.tmHands[this.clients[idx].roomnum-1]);
                 this.rooms[this.clients[idx].roomnum-1].valid=false;
                 this.clients.splice(idx,1,"");           
             }
@@ -90,7 +92,7 @@
             //check if clients is empty
             if (this.checkEmpty())
             {
-                self.resetServer();
+                this.resetServer();
             }
             
         },
@@ -98,7 +100,7 @@
         {
 
             if (this.clients.length == 0)
-                return true;
+            { console.log("checking emp... cli.len is 0 is empty")  ; return true;}
 
             else
             { 
@@ -106,9 +108,11 @@
                 {
                     if (this.clients[i]!="")
                     {
+			console.log("checking emp... Not empty");
                         return false;
                     }
                 }
+		console.log("finish checking... is empty")
                 return true;
             }
         },
@@ -120,6 +124,7 @@
             this.clients = [];
             this.rooms = [];
             this.tHands = [];
+            this.tmHands = [];
             
         },
         roomInit:function()
@@ -131,11 +136,12 @@
             this.rooms.push({"num":this.roomcount,"money":this.startMoney,
                 "valid":true, "rounds":0, "activate":false, "times":this.timeup});
             this.tHands.push(null);
+            this.tmHands.push(null);
+            console.log("server.js - clinum is "+this.clients.length);
+            console.log("server.js - Total Room is "+this.rooms.length);
             this.sendStatus(this.clients[this.clients.length-1],true,this.rooms.length,this.opponents[this.clients.length-1].optname);
         
 
-            console.log("server.js - clinum is "+this.clients.length);
-            console.log("server.js - Total Room is "+this.rooms.length);
         },
         sendMessage:function(client, message)
         {
@@ -150,7 +156,7 @@
         },
         startGame:function(client)
         {            
-                if (this.totalRound==this.rooms[client.roomnum-1].rounds)
+                if (this.totalRound <= this.rooms[client.roomnum-1].rounds)
                 {
                     this.endGame(client);
                     return;
@@ -172,32 +178,31 @@
             var self = this;
             if(nowround%2===0)
             {
-                self.clients[nowplayer-1].isYourTurn(false);
-                setTimeout(function(){
-                    if (!self.checkEmpty())
-                    {
+                this.clients[nowplayer-1].isYourTurn(false);
+                this.tmHands[nowroom-1] = setTimeout(function(){
+                    if (self.clients.length>0)
+                    {console.log("in timeout");
                         if (self.rooms[nowroom-1].valid==true)
                             self.roomsplitMoney(self.opponents[nowplayer-1].decMon(nowround,self.rooms[nowroom-1].money),self.clients[nowplayer-1])
                     }
+			else{return;}
                 },12000)
                 
             }
             else
             {
-                self.clients[nowplayer-1].isYourTurn(true);
+                this.clients[nowplayer-1].isYourTurn(true);
             }
             this.tHands[nowroom-1] = setInterval(function(){
                 //console.log("server.js - Interval is running...");
                 //if( (self.rooms[nowroom-1].times<0)  )
-                if(!self.checkEmpty() )
-                {
-                    self.endTimeout(client);
-                }
-		else if (self.checkEmpty())
-		{console.log("Error handled");}
+		if (self.clients.length==0)
+		{console.log("Error handled");return;}
 		else
                 {                                            
-                    self.clients[nowplayer-1].dosendTime(self.rooms[nowroom-1].times);                    
+			console.log("cli len"+self.clients.length+"roomlen"+self.rooms.length); 
+                    self.clients[nowplayer-1].dosendTime(self.rooms[nowroom-1].times);                   
+			console.log("cli len"+self.clients.length+"roomlen"+self.rooms.length); 
                     self.rooms[nowroom-1].times--;
                 }
             },1000)
@@ -214,7 +219,6 @@
             this.rooms[client.roomnum-1].valid=false;    
             this.clients[client.playernum-1].doEndGame();
                 
-            //clearInterval(this.tHands[client.roomnum-1]);
             
         },
         
@@ -271,6 +275,7 @@
             this.rooms[roomn-1].money = this.startMoney+parseInt(m_receive);
             this.rooms[roomn-1].rounds += 1;
             clearInterval(this.tHands[roomn-1]);
+            clearTimeout(this.tmHands[roomn-1]);
             this.startGame(client);
         },
     }

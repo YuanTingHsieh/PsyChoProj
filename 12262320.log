@@ -432,3 +432,42 @@ server.js - Request for /endingsmart received.
 rh.js - Request handler 'endingsmart' was called.
 server.js - removing client:lecPuMZy7KomOoD_AAAL
 server.js - add new client:kygGUhHMUyAATYsQAAAN
+Splitting money, original :225 after : 100 , 125
+server.js - Updating room...
+server.js - Starts game at room 2
+server.js - Round 4 starts...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+client.js - Received 200 from player 2 of room 2
+Splitting money, original :225 after : 25 , 200
+server.js - Updating room...
+server.js - Ends game at room 2
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:NDSV-FgKFz8RTuNyAAAM
+server.js - add new client:wLzdNDN_v5uw5akEAAAO
+server.js - Sending status to room 3 oppo is Dragon
+server.js - Starts game at room 3
+server.js - Round 1 starts...
+server.js - clinum is 4
+server.js - Total Room is 3
+client.js - [uname:,ugen:undefined,udep:,uage:undefined,player:4,room:3,sid:wLzdNDN_v5uw5akEAAAO] has login
+server.js - removing client:wLzdNDN_v5uw5akEAAAO
+server.js - removing client:kygGUhHMUyAATYsQAAAN
+
+TypeError: Cannot set property 'valid' of undefined
+    at Object.Server.removeClientByID (/home/YuanTingHsieh/psycho/server.js:85:62)
+    at Object.Client.doDisconnect (/home/YuanTingHsieh/psycho/clientoserver.js:41:22)
+    at Socket.<anonymous> (/home/YuanTingHsieh/psycho/clientoserver.js:30:57)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.emit (/home/YuanTingHsieh/psycho/node_modules/socket.io/lib/socket.js:129:10)
+    at Socket.onclose (/home/YuanTingHsieh/psycho/node_modules/socket.io/lib/socket.js:418:8)
+    at Client.onclose (/home/YuanTingHsieh/psycho/node_modules/socket.io/lib/client.js:230:12)
+    at Socket.EventEmitter.emit (events.js:117:20)
+    at Socket.onClose (/home/YuanTingHsieh/psycho/node_modules/socket.io/node_modules/engine.io/lib/socket.js:248:10)
+    at null.<anonymous> (/home/YuanTingHsieh/psycho/node_modules/socket.io/node_modules/engine.io/lib/socket.js:130:10)
