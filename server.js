@@ -189,11 +189,13 @@
             this.tHands[nowroom-1] = setInterval(function(){
                 //console.log("server.js - Interval is running...");
                 //if( (self.rooms[nowroom-1].times<0)  )
-                if((self.rooms[nowroom-1].valid === false) || (self.rooms[nowroom-1].times<0) )
+                if(!self.checkEmpty() )
                 {
                     self.endTimeout(client);
                 }
-                else
+		else if (self.checkEmpty())
+		{console.log("Error handled");}
+		else
                 {                                            
                     self.clients[nowplayer-1].dosendTime(self.rooms[nowroom-1].times);                    
                     self.rooms[nowroom-1].times--;
