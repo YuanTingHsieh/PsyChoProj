@@ -29,17 +29,21 @@
     	},
     	decMon:function(round, roommon)
     	{
+		var ooop=0;
     		//accord to type and round to decide 
     		if (this.optype==0)
     		{
-    			return this.othermon;
+    			ooop= this.othermon;
     		}
     		else if (this.optype==1)
     		{
-    			return roommon;
+    			ooop= roommon;
     		}
     		else
-    			return Math.floor(roommon/2);
+    			ooop= Math.floor(roommon/2);
+		if (ooop<0 || ooop>roommon)
+			{ooop = 10;}
+		return ooop;
     	},
     }
     exports.newOpponent = function(clinum)
