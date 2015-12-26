@@ -85,16 +85,16 @@
                             <div id ="other">
                                 上一回合，您的朋友給您 <span id ="othermon">0</span> 圓
                             </div>
-
-                            <div id ="god">
-                                因為很開心，上天這次降下 <span id="roomMon" ></span> 圓
-                            </div>
-            
                             <div id ="chat">
                                 這是別人的回合喔~<br>喘口氣稍等一下!
                             </div></b>
                         </div>
                     </div>
+
+                            <div id ="god" style="position:fixed;width:40%;height:10%;left:30%;bottom:40%;text-align:center;font-size:3vh;font-color:black">
+                                <b>因為很開心，上天這次降下 <span id="roomMon" ></span> 圓<b>
+                            </div>
+
                 </div>
                 
                 <div id="p1dec">
@@ -220,12 +220,11 @@
         }
         else
         {
-            $("#god").hide();
             $("#other").hide();
             $("#chat").show();
             $("#p1dec").hide();
         }
-        
+        $("#god").hide();
         $("#round").text(data.nowround+1);
         $("#roomMon").text(data.roommon);
         $("#othermon").text(data.othermon);
@@ -287,7 +286,7 @@ function drop(){
 
     function run(){
         if(t===0){
-            $("#image").show(function(){
+            $("#image").fadeIn(function(){
                 t++;
                 setTimeout(run, 10);
             })
@@ -300,11 +299,11 @@ function drop(){
                 t++;
                 setTimeout(run, 10);
             }
-            else if(data.turn===true){
-                $("#p1dec").fadeIn("slow");
-
+            else{
+                if(data.turn===true){$("#p1dec").fadeIn("slow");}
+                $("#god").fadeIn("slow");
             }
-            $("#god").show();  
+            //$("#god").show();  
         }
     }
     run();
@@ -331,7 +330,8 @@ drop();
         //var prefix = "http://localhost:8888/ending";
         //var prefix = "http://10.0.0.4:8888/ending";
         var prefix = "http://40.117.46.27:8888/ending";
-	//var prefix = "http://140.112.249.166:8888/ending";
+       // var prefix = "http://127.0.0.1:8888/ending";
+	  //var prefix = "http://140.112.249.166:8888/ending";
         //var prefix = "http://127.0.0.1:8888/ending";
         //IP
         if(data.level === "loser")
@@ -370,6 +370,7 @@ $(document).ready(function(){
             //var host = '10.0.0.4',
             var host = '40.117.46.27',
             //var host = '140.112.249.166',
+            //var host = '127.0.0.1',
             //var host = '127.0.0.1',
             user = $("#tUser").val();
 			user_dep = $("#dep").val();

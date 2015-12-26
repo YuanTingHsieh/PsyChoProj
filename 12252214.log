@@ -1,0 +1,34 @@
+Option log level is not valid. Please refer to the README.
+server.js - Server has started.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:oNg7YefAwxQUQsdkAAAA
+server.js - Sending status to room 1 oppo is Nogard
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+server.js - clinum is 1
+server.js - Total Room is 1
+client.js - [uname:HSIEHAG,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:oNg7YefAwxQUQsdkAAAA] has login
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+client.js - Received 45 from player 1 of room 1
+Splitting money, original :200 after : 155 , 45
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 3 starts...
+Splitting money, original :145 after : 0 , 145
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 4 starts...
+client.js - Received 0 from player 1 of room 1
+Splitting money, original :245 after : 245 , 0
+server.js - Updating room...
+server.js - Ends game at room 1
+server.js - Request for /endingwinner received.
+rh.js - Request handler 'endingwinner' was called.
+server.js - removing client:oNg7YefAwxQUQsdkAAAA
+server.js - Server is resetting...

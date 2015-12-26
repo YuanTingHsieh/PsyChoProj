@@ -1,0 +1,151 @@
+Option log level is not valid. Please refer to the README.
+server.js - Server has started.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:2XFyY5fwuk1KfPMMAAAA
+GG
+server.js - clinum is 1
+server.js - Total Room is 1
+client.js - [uname:A,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:2XFyY5fwuk1KfPMMAAAA] has login
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:fxQ8vQEq6PwGCKIbAAAB
+sending Status...
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+GG
+server.js - clinum is 2
+server.js - Total Room is 1
+client.js - [uname:B,ugen:undefined,udep:,uage:undefined,player:2,room:1,sid:fxQ8vQEq6PwGCKIbAAAB] has login
+server.js - removing client:fxQ8vQEq6PwGCKIbAAAB
+server.js - sending message to [uname:A,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:2XFyY5fwuk1KfPMMAAAA]
+server.js - client fxQ8vQEq6PwGCKIbAAAB is time out or invalid, shutting down
+server.js - removing client:2XFyY5fwuk1KfPMMAAAA
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /search received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /search received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /httptest.php received.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.
+server.js - Request for /httptest.php received.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:fdJ-TRRkRZdMmV3_AAAC
+GG
+server.js - clinum is 1
+server.js - Total Room is 1
+client.js - [uname:A,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:fdJ-TRRkRZdMmV3_AAAC] has login
+server.js - add new client:8GHYDkwtgTu-UEELAAAD
+sending Status...
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+GG
+server.js - clinum is 2
+server.js - Total Room is 1
+client.js - [uname:B,ugen:undefined,udep:,uage:undefined,player:2,room:1,sid:8GHYDkwtgTu-UEELAAAD] has login
+client.js - Received 10 from player 1 of room 1
+Splitting money, original :100 after : 90 , 10
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+client.js - Received 35 from player 2 of room 1
+Splitting money, original :110 after : 75 , 35
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 3 starts...
+client.js - Received 100 from player 1 of room 1
+Splitting money, original :145 after : 45 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 4 starts...
+client.js - Received 35 from player 2 of room 1
+Splitting money, original :245 after : 210 , 35
+server.js - Updating room...
+server.js - Ends game at room 1
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:fdJ-TRRkRZdMmV3_AAAC
+server.js - removing client:8GHYDkwtgTu-UEELAAAD
+server.js - Server is resetting...
+server.js - Request for /httptest.php received.
+server.js - Request for /search received.

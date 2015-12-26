@@ -1,0 +1,265 @@
+Option log level is not valid. Please refer to the README.
+server.js - Server has started.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - add new client:cVNtdW1jyF_HPYtnAAAA
+server.js - Sending status to room 1 oppo is Nogard
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+server.js - clinum is 1
+server.js - Total Room is 1
+client.js - [uname:HSIEHFF,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:cVNtdW1jyF_HPYtnAAAA] has login
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+client.js - Received 100 from player 1 of room 1
+Splitting money, original :200 after : 100 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 3 starts...
+Splitting money, original :200 after : 0 , 200
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 4 starts...
+server.js - add new client:PW9auSK_nP_BSV2WAAAB
+server.js - Sending status to room 2 oppo is Kris
+server.js - Starts game at room 2
+server.js - Round 1 starts...
+server.js - clinum is 2
+server.js - Total Room is 2
+client.js - [uname:ㄏ,ugen:man,udep:圖資,uage:junior,player:2,room:2,sid:PW9auSK_nP_BSV2WAAAB] has login
+client.js - Received 0 from player 1 of room 1
+Splitting money, original :300 after : 300 , 0
+server.js - Updating room...
+server.js - Ends game at room 1
+server.js - Request for /endingwinner received.
+rh.js - Request handler 'endingwinner' was called.
+server.js - removing client:cVNtdW1jyF_HPYtnAAAA
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+Splitting money, original :100 after : 31 , 69
+server.js - Updating room...
+server.js - Starts game at room 2
+server.js - Round 2 starts...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+client.js - Received 70 from player 2 of room 2
+Splitting money, original :169 after : 99 , 70
+server.js - Updating room...
+server.js - Starts game at room 2
+server.js - Round 3 starts...
+Splitting money, original :170 after : 69 , 101
+server.js - Updating room...
+server.js - Starts game at room 2
+server.js - Round 4 starts...
+client.js - Received 170 from player 2 of room 2
+Splitting money, original :201 after : 31 , 170
+server.js - Updating room...
+server.js - Ends game at room 2
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:PW9auSK_nP_BSV2WAAAB
+server.js - Server is resetting...
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:L9A4l0YipKgUw3IlAAAC
+server.js - Sending status to room 1 oppo is Nogard
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+server.js - clinum is 1
+server.js - Total Room is 1
+client.js - [uname:貓貓,ugen:woman,udep:心理系,uage:junior,player:1,room:1,sid:L9A4l0YipKgUw3IlAAAC] has login
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+client.js - Received 100 from player 1 of room 1
+Splitting money, original :200 after : 100 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 3 starts...
+Splitting money, original :200 after : 0 , 200
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 4 starts...
+client.js - Received 300 from player 1 of room 1
+Splitting money, original :300 after : 0 , 300
+server.js - Updating room...
+server.js - Ends game at room 1
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:L9A4l0YipKgUw3IlAAAC
+server.js - Server is resetting...
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:f2ZgWoPE-saavzkgAAAD
+server.js - Sending status to room 1 oppo is Nogard
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+server.js - clinum is 1
+server.js - Total Room is 1
+client.js - [uname:貓貓2,ugen:woman,udep:心理系,uage:junior,player:1,room:1,sid:f2ZgWoPE-saavzkgAAAD] has login
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+client.js - Received 100 from player 1 of room 1
+Splitting money, original :200 after : 100 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 3 starts...
+Splitting money, original :200 after : 0 , 200
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 4 starts...
+client.js - Received 300 from player 1 of room 1
+Splitting money, original :300 after : 0 , 300
+server.js - Updating room...
+server.js - Ends game at room 1
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:f2ZgWoPE-saavzkgAAAD
+server.js - Server is resetting...
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:doCoWx-hoe0hYmJZAAAE
+server.js - Sending status to room 1 oppo is Nogard
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+server.js - clinum is 1
+server.js - Total Room is 1
+client.js - [uname:心理系,ugen:woman,udep:貓貓3,uage:fresh,player:1,room:1,sid:doCoWx-hoe0hYmJZAAAE] has login
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+server.js - removing client:doCoWx-hoe0hYmJZAAAE
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:fNC0tenVqhFIdqJuAAAF
+server.js - Sending status to room 1 oppo is Nogard
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+server.js - clinum is 1
+server.js - Total Room is 1
+client.js - [uname:Andy,ugen:man,udep:心理系,uage:junior,player:1,room:1,sid:fNC0tenVqhFIdqJuAAAF] has login
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+client.js - Received 150 from player 1 of room 1
+Splitting money, original :200 after : 50 , 150
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 3 starts...
+Splitting money, original :250 after : 0 , 250
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 4 starts...
+client.js - Received 350 from player 1 of room 1
+Splitting money, original :350 after : 0 , 350
+server.js - Updating room...
+server.js - Ends game at room 1
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:fNC0tenVqhFIdqJuAAAF
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:ZSCcmtyMjkJsIPIWAAAG
+server.js - Sending status to room 1 oppo is Nogard
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+server.js - clinum is 1
+server.js - Total Room is 1
+client.js - [uname:AAA,ugen:man,udep:心理系,uage:junior,player:1,room:1,sid:ZSCcmtyMjkJsIPIWAAAG] has login
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+server.js - client ZSCcmtyMjkJsIPIWAAAG is time out or invalid, shutting down
+server.js - removing client:ZSCcmtyMjkJsIPIWAAAG
+server.js - Server is resetting...
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:lphI43nrsTGFEVRcAAAH
+server.js - Sending status to room 1 oppo is Nogard
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+server.js - clinum is 1
+server.js - Total Room is 1
+client.js - [uname:AAAS,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:lphI43nrsTGFEVRcAAAH] has login
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+server.js - removing client:lphI43nrsTGFEVRcAAAH
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:WPUDHLwzQX5GTj6KAAAI
+server.js - Sending status to room 1 oppo is Nogard
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+server.js - clinum is 1
+server.js - Total Room is 1
+client.js - [uname:AAAAA,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:WPUDHLwzQX5GTj6KAAAI] has login
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+server.js - removing client:WPUDHLwzQX5GTj6KAAAI
+server.js - Server is resetting...
