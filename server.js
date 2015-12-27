@@ -63,6 +63,7 @@
         {
             console.log("server.js - add new client:"+socket.id);
             this.clients.push(cli.newClient(this,socket));
+            this.roomcount++;
             this.rooms.push({"num":this.roomcount,"money":this.startMoney,
                 "valid":true, "rounds":0, "activate":false, "times":this.timeup});
             this.tHands.push(null);
@@ -133,7 +134,6 @@
         },
         roomInit:function()
         {        
-            this.roomcount++;
             this.clients[this.clients.length-1].roomnum = this.roomcount;
             this.opponents.push(opp.newOpponent(this.clients[this.clients.length-1].playernum));
 

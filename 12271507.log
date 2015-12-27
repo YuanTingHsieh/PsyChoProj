@@ -1,0 +1,2581 @@
+Option log level is not valid. Please refer to the README.
+server.js - Server has started.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for /favicon.ico received.
+server.js - add new client:Xs-JJu4vq2DSHs7tAAAA
+server.js - Room initing...  [uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+server.js - Sending status to [uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA] oppo is Dragon
+server.js - Starts game [uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+server.js - Round 1 starts...
+client.js - [uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]Splitting money, original :100 after : 100 , 0
+server.js - Updating room...[uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+server.js - Starts game [uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA] Received 1 from player 1 of room 1
+[uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]Splitting money, original :100 after : 99 , 1
+server.js - Updating room...[uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+server.js - Starts game [uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]Splitting money, original :101 after : 100 , 1
+server.js - Updating room...[uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+server.js - Starts game [uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+server.js - Round 4 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA] Received 10 from player 1 of room 1
+[uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]Splitting money, original :101 after : 91 , 10
+server.js - Updating room...[uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+server.js - Ends game at [uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+server.js - Request for /favicon.ico received.
+server.js - removing client:Xs-JJu4vq2DSHs7tAAAA
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:jW9bu78griCUqW_yAAAB
+server.js - Room initing...  [uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+server.js - Sending status to [uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB] oppo is Dragon
+server.js - Starts game [uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+server.js - Round 1 starts...
+client.js - [uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]Splitting money, original :100 after : 90 , 10
+server.js - Updating room...[uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+server.js - Starts game [uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB] Received 10 from player 1 of room 1
+[uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]Splitting money, original :110 after : 100 , 10
+server.js - Updating room...[uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+server.js - Starts game [uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]Splitting money, original :110 after : 100 , 10
+server.js - Updating room...[uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+server.js - Starts game [uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+server.js - Round 4 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB] Received 70 from player 1 of room 1
+[uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]Splitting money, original :110 after : 40 , 70
+server.js - Updating room...[uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+server.js - Ends game at [uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+server.js - removing client:jW9bu78griCUqW_yAAAB
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:Tr1vADbhHs9U9JH8AAAC
+server.js - Room initing...  [uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+server.js - Sending status to [uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC] oppo is Dragon
+server.js - Starts game [uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+server.js - Round 1 starts...
+client.js - [uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]Splitting money, original :100 after : 30 , 70
+server.js - Updating room...[uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+server.js - Starts game [uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC] Received 70 from player 1 of room 1
+[uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]Splitting money, original :170 after : 100 , 70
+server.js - Updating room...[uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+server.js - Starts game [uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]Splitting money, original :170 after : 100 , 70
+server.js - Updating room...[uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+server.js - Starts game [uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+server.js - Round 4 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC] Received 0 from player 1 of room 1
+[uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]Splitting money, original :170 after : 170 , 0
+server.js - Updating room...[uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+server.js - Ends game at [uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:Tr1vADbhHs9U9JH8AAAC
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for /favicon.ico received.
+server.js - add new client:mOEd8vMDnNtAh7yZAAAD
+server.js - Room initing...  [uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+server.js - Sending status to [uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD] oppo is Dragon
+server.js - Starts game [uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+server.js - Round 1 starts...
+client.js - [uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]Splitting money, original :100 after : 100 , 0
+server.js - Updating room...[uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+server.js - Starts game [uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD] Received 30 from player 1 of room 1
+[uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]Splitting money, original :100 after : 70 , 30
+server.js - Updating room...[uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+server.js - Starts game [uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]Splitting money, original :130 after : 100 , 30
+server.js - Updating room...[uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+server.js - Starts game [uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+server.js - Round 4 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD] Received 30 from player 1 of room 1
+[uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]Splitting money, original :130 after : 100 , 30
+server.js - Updating room...[uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+server.js - Ends game at [uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+server.js - removing client:mOEd8vMDnNtAh7yZAAAD
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:OkkktfvNfhUHIG96AAAE
+server.js - Room initing...  [uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+server.js - Sending status to [uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE] oppo is Dragon
+server.js - Starts game [uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+server.js - Round 1 starts...
+client.js - [uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE] has login
+cli len1roomlen1
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for /favicon.ico received.
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]Splitting money, original :100 after : 70 , 30
+server.js - Updating room...[uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+server.js - Starts game [uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE] Received 20 from player 1 of room 1
+[uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]Splitting money, original :130 after : 110 , 20
+server.js - Updating room...[uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+server.js - Starts game [uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]Splitting money, original :120 after : 100 , 20
+server.js - Updating room...[uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+server.js - Starts game [uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+server.js - Round 4 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE] Received 0 from player 1 of room 1
+[uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]Splitting money, original :120 after : 120 , 0
+server.js - Updating room...[uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+server.js - Ends game at [uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:OkkktfvNfhUHIG96AAAE
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - add new client:VOG5KwHXjqC0saYgAAAF
+server.js - Room initing...  [uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+server.js - Sending status to [uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF] oppo is Dragon
+server.js - Starts game [uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+server.js - Round 1 starts...
+client.js - [uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]Splitting money, original :100 after : 100 , 0
+server.js - Updating room...[uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+server.js - Starts game [uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF] Received 60 from player 1 of room 1
+[uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]Splitting money, original :100 after : 40 , 60
+server.js - Updating room...[uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+server.js - Starts game [uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]Splitting money, original :160 after : 100 , 60
+server.js - Updating room...[uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+server.js - Starts game [uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+server.js - Round 4 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF] Received 80 from player 1 of room 1
+[uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]Splitting money, original :160 after : 80 , 80
+server.js - Updating room...[uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+server.js - Ends game at [uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+server.js - removing client:VOG5KwHXjqC0saYgAAAF
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:sYJaiexw6toZdovaAAAG
+server.js - Room initing...  [uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+server.js - Sending status to [uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG] oppo is Dragon
+server.js - Starts game [uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+server.js - Round 1 starts...
+client.js - [uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]Splitting money, original :100 after : 20 , 80
+server.js - Updating room...[uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+server.js - Starts game [uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG] Received 80 from player 1 of room 1
+[uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]Splitting money, original :180 after : 100 , 80
+server.js - Updating room...[uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+server.js - Starts game [uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]Splitting money, original :180 after : 100 , 80
+server.js - Updating room...[uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+server.js - Starts game [uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+server.js - Round 4 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG] Received 80 from player 1 of room 1
+[uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]Splitting money, original :180 after : 100 , 80
+server.js - Updating room...[uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+server.js - Ends game at [uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:sYJaiexw6toZdovaAAAG
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - add new client:hyGNKoO5KYvlK3j5AAAH
+server.js - Room initing...  [uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+server.js - Sending status to [uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH] oppo is Dragon
+server.js - Starts game [uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+server.js - Round 1 starts...
+client.js - [uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len1roomlen1
+in timeout
+[uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]Splitting money, original :100 after : 20 , 80
+server.js - Updating room...[uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+server.js - Starts game [uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for /favicon.ico received.
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH] Received 0 from player 1 of room 1
+[uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]Splitting money, original :180 after : 180 , 0
+server.js - Updating room...[uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+server.js - Starts game [uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]Splitting money, original :100 after : 100 , 0
+server.js - Updating room...[uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+server.js - Starts game [uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+server.js - Round 4 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH] Received 0 from player 1 of room 1
+[uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]Splitting money, original :100 after : 100 , 0
+server.js - Updating room...[uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+server.js - Ends game at [uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:hyGNKoO5KYvlK3j5AAAH
+finish checking... is empty
+server.js - Server is resetting...
+server.js - add new client:ByN3awpHwXexlY3pAAAI
+server.js - Room initing...  [uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+server.js - Sending status to [uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI] oppo is Dragon
+server.js - Starts game [uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+server.js - Round 1 starts...
+client.js - [uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]Splitting money, original :100 after : 100 , 0
+server.js - Updating room...[uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+server.js - Starts game [uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI] Received 40 from player 1 of room 1
+[uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]Splitting money, original :100 after : 60 , 40
+server.js - Updating room...[uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+server.js - Starts game [uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]Splitting money, original :140 after : 100 , 40
+server.js - Updating room...[uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+server.js - Starts game [uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+server.js - Round 4 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI] Received 60 from player 1 of room 1
+[uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]Splitting money, original :140 after : 80 , 60
+server.js - Updating room...[uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+server.js - Ends game at [uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+server.js - removing client:ByN3awpHwXexlY3pAAAI
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:ZVea4Enbr0mxed7LAAAJ
+server.js - Room initing...  [uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+server.js - Sending status to [uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ] oppo is Dragon
+server.js - Starts game [uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+server.js - Round 1 starts...
+client.js - [uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]Splitting money, original :100 after : 40 , 60
+server.js - Updating room...[uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+server.js - Starts game [uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ] Received 60 from player 1 of room 1
+[uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]Splitting money, original :160 after : 100 , 60
+server.js - Updating room...[uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+server.js - Starts game [uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]Splitting money, original :160 after : 100 , 60
+server.js - Updating room...[uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+server.js - Starts game [uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+server.js - Round 4 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ] Received 70 from player 1 of room 1
+[uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]Splitting money, original :160 after : 90 , 70
+server.js - Updating room...[uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+server.js - Ends game at [uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:ZVea4Enbr0mxed7LAAAJ
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:uqyJ1LV6CMIIYtNdAAAK
+server.js - Room initing...  [uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+server.js - Sending status to [uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK] oppo is Dragon
+server.js - Starts game [uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+server.js - Round 1 starts...
+client.js - [uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]Splitting money, original :100 after : 30 , 70
+server.js - Updating room...[uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+server.js - Starts game [uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+server.js - Round 2 starts...
+cli len1roomlen1
+server.js - add new client:_1dmV9tQDMQbx_8BAAAL
+server.js - Room initing...  [uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]
+server.js - Sending status to [uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL] oppo is Nogard
+server.js - Starts game [uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]
+server.js - Round 1 starts...
+client.js - [uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL] has login
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+[uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]Splitting money, original :100 after : 0 , 100
+server.js - Updating room...[uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]
+server.js - Starts game [uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]
+server.js - Round 2 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js -[uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK] Received 120 from player 1 of room 1
+[uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]Splitting money, original :170 after : 50 , 120
+server.js - Updating room...[uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+server.js - Starts game [uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+server.js - Round 3 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js -[uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL] Received 100 from player 2 of room 2
+[uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]Splitting money, original :200 after : 100 , 100
+server.js - Updating room...[uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]
+server.js - Starts game [uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]
+server.js - Round 3 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+[uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]Splitting money, original :220 after : 100 , 120
+server.js - Updating room...[uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+server.js - Starts game [uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+server.js - Round 4 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+[uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]Splitting money, original :200 after : 0 , 200
+server.js - Updating room...[uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]
+server.js - Starts game [uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]
+server.js - Round 4 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js -[uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK] Received 100 from player 1 of room 1
+[uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]Splitting money, original :220 after : 120 , 100
+server.js - Updating room...[uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+server.js - Ends game at [uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+cli len2roomlen2
+server.js - removing client:uqyJ1LV6CMIIYtNdAAAK
+checking emp... Not empty
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js -[uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL] Received 150 from player 2 of room 2
+[uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]Splitting money, original :300 after : 150 , 150
+server.js - Updating room...[uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]
+server.js - Ends game at [uname:TWNO1,ugen:man,udep:physics,uage:junior,player:2,room:2,sid:_1dmV9tQDMQbx_8BAAAL]
+server.js - Request for /endingwinner received.
+rh.js - Request handler 'endingwinner' was called.
+server.js - removing client:_1dmV9tQDMQbx_8BAAAL
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /endingwinner received.
+rh.js - Request handler 'endingwinner' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:CkXxO9YHqbEYzyt3AAAM
+server.js - Room initing...  [uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+server.js - Sending status to [uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM] oppo is Dragon
+server.js - Starts game [uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+server.js - Round 1 starts...
+client.js - [uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM] has login
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for /favicon.ico received.
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]Splitting money, original :100 after : 0 , 100
+server.js - Updating room...[uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+server.js - Starts game [uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js -[uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM] Received 100 from player 1 of room 1
+[uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]Splitting money, original :200 after : 100 , 100
+server.js - Updating room...[uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+server.js - Starts game [uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - add new client:TrV6OmHeVFv_HLf6AAAN
+cli len2roomlen2
+server.js - Room initing...  [uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]
+server.js - Sending status to [uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN] oppo is Nogard
+server.js - Starts game [uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]
+server.js - Round 1 starts...
+client.js - [uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN] has login
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+[uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]Splitting money, original :200 after : 100 , 100
+server.js - Updating room...[uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+server.js - Starts game [uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+server.js - Round 4 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+[uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]Splitting money, original :100 after : 0 , 100
+server.js - Updating room...[uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]
+server.js - Starts game [uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]
+server.js - Round 2 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js -[uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM] Received 100 from player 1 of room 1
+[uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]Splitting money, original :200 after : 100 , 100
+server.js - Updating room...[uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+server.js - Ends game at [uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+cli len2roomlen2
+server.js - removing client:CkXxO9YHqbEYzyt3AAAM
+checking emp... Not empty
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js -[uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN] Received 50 from player 2 of room 2
+[uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]Splitting money, original :200 after : 150 , 50
+server.js - Updating room...[uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]
+server.js - Starts game [uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]
+server.js - Round 3 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+[uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]Splitting money, original :150 after : 0 , 150
+server.js - Updating room...[uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]
+server.js - Starts game [uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]
+server.js - Round 4 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js -[uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN] Received 125 from player 2 of room 2
+[uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]Splitting money, original :250 after : 125 , 125
+server.js - Updating room...[uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]
+server.js - Ends game at [uname:loser,ugen:man,udep:醫學,uage:suffer,player:2,room:2,sid:TrV6OmHeVFv_HLf6AAAN]
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:TrV6OmHeVFv_HLf6AAAN
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:ibJf7XV3DyVp9-opAAAO
+server.js - Room initing...  [uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+server.js - Sending status to [uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO] oppo is Dragon
+server.js - Starts game [uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+server.js - Round 1 starts...
+client.js - [uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+[uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]Splitting money, original :100 after : 0 , 100
+server.js - Updating room...[uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+server.js - Starts game [uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+server.js - Round 2 starts...
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - add new client:bvYRRUZ095Ozn9-LAAAP
+cli len2roomlen2
+server.js - Room initing...  [uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]
+server.js - Sending status to [uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP] oppo is Nogard
+server.js - Starts game [uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]
+server.js - Round 1 starts...
+client.js - [uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP] has login
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js -[uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO] Received 100 from player 1 of room 1
+[uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]Splitting money, original :200 after : 100 , 100
+server.js - Updating room...[uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+server.js - Starts game [uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+server.js - Round 3 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+server.js - add new client:xFS4tAl6QKCZkA5AAAAQ
+cli len3roomlen3
+server.js - Room initing...  [uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]
+server.js - Sending status to [uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ] oppo is Kris
+server.js - Starts game [uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]
+server.js - Round 1 starts...
+client.js - [uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ] has login
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+in timeout
+[uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]Splitting money, original :100 after : 0 , 100
+server.js - Updating room...[uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]
+server.js - Starts game [uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]
+server.js - Round 2 starts...
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+in timeout
+[uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]Splitting money, original :200 after : 100 , 100
+server.js - Updating room...[uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+server.js - Starts game [uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+server.js - Round 4 starts...
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+in timeout
+[uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]Splitting money, original :100 after : 50 , 50
+server.js - Updating room...[uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]
+server.js - Starts game [uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]
+server.js - Round 2 starts...
+cli len3roomlen3
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+server.js - add new client:YeHI9IjfPuSdagOpAAAR
+cli len4roomlen4
+cli len4roomlen4
+server.js - Room initing...  [uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+server.js - Sending status to [uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR] oppo is Dragon
+server.js - Starts game [uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+server.js - Round 1 starts...
+client.js - [uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR] has login
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+server.js - Request for /favicon.ico received.
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+client.js -[uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO] Received 100 from player 1 of room 1
+[uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]Splitting money, original :200 after : 100 , 100
+server.js - Updating room...[uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+server.js - Ends game at [uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+cli len4roomlen4
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+cli len4roomlen4
+server.js - removing client:ibJf7XV3DyVp9-opAAAO
+checking emp... Not empty
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+client.js -[uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP] Received 150 from player 2 of room 2
+[uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]Splitting money, original :200 after : 50 , 150
+server.js - Updating room...[uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]
+server.js - Starts game [uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]
+server.js - Round 3 starts...
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+in timeout
+[uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]Splitting money, original :100 after : 100 , 0
+server.js - Updating room...[uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+server.js - Starts game [uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+server.js - Round 2 starts...
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+client.js -[uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ] Received 85 from player 3 of room 3
+[uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]Splitting money, original :150 after : 65 , 85
+server.js - Updating room...[uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]
+server.js - Starts game [uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]
+server.js - Round 3 starts...
+cli len4roomlen4
+in timeout
+[uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]Splitting money, original :250 after : 0 , 250
+server.js - Updating room...[uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]
+server.js - Starts game [uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]
+server.js - Round 4 starts...
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+client.js -[uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR] Received 1 from player 4 of room 4
+[uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]Splitting money, original :100 after : 99 , 1
+server.js - Updating room...[uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+server.js - Starts game [uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+server.js - Round 3 starts...
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+in timeout
+[uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]Splitting money, original :185 after : 93 , 92
+server.js - Updating room...[uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]
+server.js - Starts game [uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]
+server.js - Round 4 starts...
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+client.js -[uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP] Received 350 from player 2 of room 2
+[uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]Splitting money, original :350 after : 0 , 350
+server.js - Updating room...[uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]
+server.js - Ends game at [uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]
+cli len4roomlen4
+cli len4roomlen4
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+client.js -[uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP] Received 350 from player 2 of room 2
+[uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]Splitting money, original :450 after : 100 , 350
+server.js - Updating room...[uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]
+server.js - Ends game at [uname:=),ugen:man,udep:醫學,uage:junior,player:2,room:2,sid:bvYRRUZ095Ozn9-LAAAP]
+server.js - removing client:bvYRRUZ095Ozn9-LAAAP
+checking emp... Not empty
+in timeout
+[uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]Splitting money, original :101 after : 100 , 1
+server.js - Updating room...[uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+server.js - Starts game [uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+server.js - Round 4 starts...
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+client.js -[uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ] Received 100 from player 3 of room 3
+[uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]Splitting money, original :192 after : 92 , 100
+server.js - Updating room...[uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]
+server.js - Ends game at [uname:Xman,ugen:man,udep:醫學,uage:senior,player:3,room:3,sid:xFS4tAl6QKCZkA5AAAAQ]
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+cli len4roomlen4
+server.js - removing client:xFS4tAl6QKCZkA5AAAAQ
+checking emp... Not empty
+cli len4roomlen4
+cli len4roomlen4
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+client.js -[uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR] Received 99 from player 4 of room 4
+[uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]Splitting money, original :101 after : 2 , 99
+server.js - Updating room...[uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+server.js - Ends game at [uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+server.js - removing client:YeHI9IjfPuSdagOpAAAR
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - add new client:5XJ5Wjtfxu-u5r7QAAAS
+server.js - Room initing...  [uname:深海戰鮑,ugen:woman,udep:財金系,uage:suffer,player:1,room:1,sid:5XJ5Wjtfxu-u5r7QAAAS]
+server.js - Sending status to [uname:深海戰鮑,ugen:woman,udep:財金系,uage:suffer,player:1,room:1,sid:5XJ5Wjtfxu-u5r7QAAAS] oppo is Dragon
+server.js - Starts game [uname:深海戰鮑,ugen:woman,udep:財金系,uage:suffer,player:1,room:1,sid:5XJ5Wjtfxu-u5r7QAAAS]
+server.js - Round 1 starts...
+client.js - [uname:深海戰鮑,ugen:woman,udep:財金系,uage:suffer,player:1,room:1,sid:5XJ5Wjtfxu-u5r7QAAAS] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - add new client:98xiHINDBPZ2RkdgAAAT
+cli len2roomlen2
+server.js - Room initing...  [uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]
+server.js - Sending status to [uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT] oppo is Nogard
+server.js - Starts game [uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]
+server.js - Round 1 starts...
+client.js - [uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT] has login
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+[uname:深海戰鮑,ugen:woman,udep:財金系,uage:suffer,player:1,room:1,sid:5XJ5Wjtfxu-u5r7QAAAS]Splitting money, original :100 after : 0 , 100
+server.js - Updating room...[uname:深海戰鮑,ugen:woman,udep:財金系,uage:suffer,player:1,room:1,sid:5XJ5Wjtfxu-u5r7QAAAS]
+server.js - Starts game [uname:深海戰鮑,ugen:woman,udep:財金系,uage:suffer,player:1,room:1,sid:5XJ5Wjtfxu-u5r7QAAAS]
+server.js - Round 2 starts...
+server.js - removing client:5XJ5Wjtfxu-u5r7QAAAS
+checking emp... Not empty
+cli len2roomlen2
+cli len2roomlen2
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+[uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]Splitting money, original :100 after : 0 , 100
+server.js - Updating room...[uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]
+server.js - Starts game [uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]
+server.js - Round 2 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len2roomlen2
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len2roomlen2
+cli len2roomlen2
+server.js - add new client:c7rh8fdtqxDh19gsAAAU
+server.js - Request for /favicon.ico received.
+cli len3roomlen3
+server.js - Room initing...  [uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]
+server.js - Sending status to [uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU] oppo is Kris
+server.js - Starts game [uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]
+server.js - Round 1 starts...
+client.js - [uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU] has login
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+client.js -[uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT] Received 100 from player 2 of room 2
+[uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]Splitting money, original :200 after : 100 , 100
+server.js - Updating room...[uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]
+server.js - Starts game [uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]
+server.js - Round 3 starts...
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+in timeout
+[uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]Splitting money, original :100 after : 50 , 50
+server.js - Updating room...[uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]
+server.js - Starts game [uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]
+server.js - Round 2 starts...
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+server.js - add new client:hmzoGgwXLVSiJRTVAAAV
+cli len4roomlen4
+cli len4roomlen4
+server.js - Room initing...  [uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+server.js - Sending status to [uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV] oppo is Dragon
+server.js - Starts game [uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+server.js - Round 1 starts...
+client.js - [uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV] has login
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+in timeout
+[uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]Splitting money, original :200 after : 0 , 200
+server.js - Updating room...[uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]
+server.js - Starts game [uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]
+server.js - Round 4 starts...
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+client.js -[uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU] Received 100 from player 3 of room 3
+[uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]Splitting money, original :150 after : 50 , 100
+server.js - Updating room...[uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]
+server.js - Starts game [uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]
+server.js - Round 3 starts...
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+in timeout
+[uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]Splitting money, original :100 after : 1 , 99
+server.js - Updating room...[uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+server.js - Starts game [uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+server.js - Round 2 starts...
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+client.js -[uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT] Received 150 from player 2 of room 2
+[uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]Splitting money, original :300 after : 150 , 150
+server.js - Updating room...[uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]
+server.js - Ends game at [uname:phn,ugen:woman,udep:電機系,uage:junior,player:2,room:2,sid:98xiHINDBPZ2RkdgAAAT]
+server.js - Request for /endingwinner received.
+rh.js - Request handler 'endingwinner' was called.
+cli len4roomlen4
+server.js - removing client:98xiHINDBPZ2RkdgAAAT
+checking emp... Not empty
+cli len4roomlen4
+cli len4roomlen4
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+in timeout
+[uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]Splitting money, original :200 after : 100 , 100
+server.js - Updating room...[uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]
+server.js - Starts game [uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]
+server.js - Round 4 starts...
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+client.js -[uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV] Received 58 from player 4 of room 4
+[uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]Splitting money, original :199 after : 141 , 58
+server.js - Updating room...[uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+server.js - Starts game [uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+server.js - Round 3 starts...
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+client.js -[uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU] Received 100 from player 3 of room 3
+[uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]Splitting money, original :200 after : 100 , 100
+server.js - Updating room...[uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]
+server.js - Ends game at [uname:阿雋,ugen:man,udep:物理系,uage:junior,player:3,room:3,sid:c7rh8fdtqxDh19gsAAAU]
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+cli len4roomlen4
+server.js - removing client:c7rh8fdtqxDh19gsAAAU
+checking emp... Not empty
+cli len4roomlen4
+cli len4roomlen4
+server.js - add new client:LicR8NbCnsbQUZIBAAAW
+cli len5roomlen5
+server.js - Room initing...  [uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+server.js - Sending status to [uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW] oppo is Nogard
+server.js - Starts game [uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+server.js - Round 1 starts...
+client.js - [uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW] has login
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+in timeout
+[uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]Splitting money, original :158 after : 100 , 58
+server.js - Updating room...[uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+server.js - Starts game [uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+server.js - Round 4 starts...
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+in timeout
+[uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]Splitting money, original :100 after : 0 , 100
+server.js - Updating room...[uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+server.js - Starts game [uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+server.js - Round 2 starts...
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len5roomlen5
+client.js -[uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV] Received 18 from player 4 of room 4
+[uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]Splitting money, original :158 after : 140 , 18
+server.js - Updating room...[uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+server.js - Ends game at [uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+cli len5roomlen5
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:hmzoGgwXLVSiJRTVAAAV
+checking emp... Not empty
+cli len5roomlen5
+server.js - Request for /favicon.ico received.
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+client.js -[uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW] Received 100 from player 5 of room 5
+[uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]Splitting money, original :200 after : 100 , 100
+server.js - Updating room...[uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+server.js - Starts game [uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+server.js - Round 3 starts...
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+in timeout
+[uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]Splitting money, original :200 after : 0 , 200
+server.js - Updating room...[uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+server.js - Starts game [uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+server.js - Round 4 starts...
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+client.js -[uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW] Received 150 from player 5 of room 5
+[uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]Splitting money, original :300 after : 150 , 150
+server.js - Updating room...[uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+server.js - Ends game at [uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+server.js - Request for /endingwinner received.
+rh.js - Request handler 'endingwinner' was called.
+server.js - removing client:LicR8NbCnsbQUZIBAAAW
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - add new client:iwITKQmYP_MU4DhWAAAX
+server.js - Room initing...  [uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+server.js - Sending status to [uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX] oppo is Dragon
+server.js - Starts game [uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+server.js - Round 1 starts...
+client.js - [uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX] has login
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for /favicon.ico received.
+cli len1roomlen1
+cli len1roomlen1
+server.js - add new client:WCEyvda_K6rxP3WoAAAY
+cli len2roomlen2
+server.js - Room initing...  [uname:,ugen:man,udep:,uage:undefined,player:2,room:2,sid:WCEyvda_K6rxP3WoAAAY]
+server.js - Sending status to [uname:,ugen:man,udep:,uage:undefined,player:2,room:2,sid:WCEyvda_K6rxP3WoAAAY] oppo is Nogard
+server.js - Starts game [uname:,ugen:man,udep:,uage:undefined,player:2,room:2,sid:WCEyvda_K6rxP3WoAAAY]
+server.js - Round 1 starts...
+client.js - [uname:,ugen:man,udep:,uage:undefined,player:2,room:2,sid:WCEyvda_K6rxP3WoAAAY] has login
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+[uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]Splitting money, original :100 after : 100 , 0
+server.js - Updating room...[uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+server.js - Starts game [uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+server.js - Round 2 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+[uname:,ugen:man,udep:,uage:undefined,player:2,room:2,sid:WCEyvda_K6rxP3WoAAAY]Splitting money, original :100 after : 0 , 100
+server.js - Updating room...[uname:,ugen:man,udep:,uage:undefined,player:2,room:2,sid:WCEyvda_K6rxP3WoAAAY]
+server.js - Starts game [uname:,ugen:man,udep:,uage:undefined,player:2,room:2,sid:WCEyvda_K6rxP3WoAAAY]
+server.js - Round 2 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js -[uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX] Received 50 from player 1 of room 1
+[uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]Splitting money, original :100 after : 50 , 50
+server.js - Updating room...[uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+server.js - Starts game [uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+server.js - Round 3 starts...
+cli len2roomlen2
+client.js -[uname:,ugen:man,udep:,uage:undefined,player:2,room:2,sid:WCEyvda_K6rxP3WoAAAY] Received 100 from player 2 of room 2
+[uname:,ugen:man,udep:,uage:undefined,player:2,room:2,sid:WCEyvda_K6rxP3WoAAAY]Splitting money, original :200 after : 100 , 100
+server.js - Updating room...[uname:,ugen:man,udep:,uage:undefined,player:2,room:2,sid:WCEyvda_K6rxP3WoAAAY]
+server.js - Starts game [uname:,ugen:man,udep:,uage:undefined,player:2,room:2,sid:WCEyvda_K6rxP3WoAAAY]
+server.js - Round 3 starts...
+cli len2roomlen2
+cli len2roomlen2
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+server.js - Request for /favicon.ico received.
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+server.js - removing client:WCEyvda_K6rxP3WoAAAY
+checking emp... Not empty
+cli len2roomlen2
+in timeout
+[uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]Splitting money, original :150 after : 100 , 50
+server.js - Updating room...[uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+server.js - Starts game [uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+server.js - Round 4 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+server.js - add new client:8X1kzAYYdsiTO5L7AAAZ
+cli len3roomlen3
+server.js - Room initing...  [uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]
+server.js - Sending status to [uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ] oppo is Kris
+server.js - Starts game [uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]
+server.js - Round 1 starts...
+client.js - [uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ] has login
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+client.js -[uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX] Received 150 from player 1 of room 1
+[uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]Splitting money, original :150 after : 0 , 150
+server.js - Updating room...[uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+server.js - Ends game at [uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+cli len3roomlen3
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+server.js - removing client:iwITKQmYP_MU4DhWAAAX
+checking emp... Not empty
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+in timeout
+[uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]Splitting money, original :100 after : 50 , 50
+server.js - Updating room...[uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]
+server.js - Starts game [uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]
+server.js - Round 2 starts...
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+client.js -[uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ] Received 60 from player 3 of room 3
+[uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]Splitting money, original :150 after : 90 , 60
+server.js - Updating room...[uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]
+server.js - Starts game [uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]
+server.js - Round 3 starts...
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len3roomlen3
+cli len3roomlen3
+in timeout
+[uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]Splitting money, original :160 after : 80 , 80
+server.js - Updating room...[uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]
+server.js - Starts game [uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]
+server.js - Round 4 starts...
+cli len3roomlen3
+cli len3roomlen3
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len3roomlen3
+cli len3roomlen3
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len3roomlen3
+cli len3roomlen3
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+client.js -[uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ] Received 90 from player 3 of room 3
+[uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]Splitting money, original :180 after : 90 , 90
+server.js - Updating room...[uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]
+server.js - Ends game at [uname:Penelope,ugen:woman,udep:翻譯所,uage:fresh,player:3,room:3,sid:8X1kzAYYdsiTO5L7AAAZ]
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:8X1kzAYYdsiTO5L7AAAZ
+finish checking... is empty
+server.js - Server is resetting...
+server.js - add new client:vb9yI-JAlu2oN0s3AAAa
+server.js - Room initing...  [uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+server.js - Sending status to [uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa] oppo is Dragon
+server.js - Starts game [uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+server.js - Round 1 starts...
+client.js - [uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - add new client:lp0QnucgCKcH6D2xAAAb
+cli len2roomlen2
+server.js - Room initing...  [uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]
+server.js - Sending status to [uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb] oppo is Nogard
+server.js - Starts game [uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]
+server.js - Round 1 starts...
+client.js - [uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb] has login
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+[uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]Splitting money, original :100 after : 90 , 10
+server.js - Updating room...[uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+server.js - Starts game [uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+server.js - Round 2 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+[uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]Splitting money, original :100 after : 0 , 100
+server.js - Updating room...[uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]
+server.js - Starts game [uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]
+server.js - Round 2 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js -[uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb] Received 100 from player 2 of room 2
+[uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]Splitting money, original :200 after : 100 , 100
+server.js - Updating room...[uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]
+server.js - Starts game [uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]
+server.js - Round 3 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+[uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]Splitting money, original :200 after : 0 , 200
+server.js - Updating room...[uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]
+server.js - Starts game [uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]
+server.js - Round 4 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js -[uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb] Received 200 from player 2 of room 2
+[uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]Splitting money, original :300 after : 100 , 200
+server.js - Updating room...[uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]
+server.js - Ends game at [uname:大伯,ugen:man,udep:電機,uage:senior,player:2,room:2,sid:lp0QnucgCKcH6D2xAAAb]
+cli len2roomlen2
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - removing client:lp0QnucgCKcH6D2xAAAb
+checking emp... Not empty
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js -[uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa] Received 105 from player 1 of room 1
+[uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]Splitting money, original :110 after : 5 , 105
+server.js - Updating room...[uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+server.js - Starts game [uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+server.js - Round 3 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+server.js - add new client:R3fOQOkF7RjZW6ySAAAc
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+server.js - add new client:zd6M-v01JJXOJc0mAAAd
+cli len4roomlen4
+server.js - Room initing...  [uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]
+server.js - Sending status to [uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd] oppo is Dragon
+server.js - Starts game [uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]
+server.js - Round 1 starts...
+client.js - [uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd] has login
+in timeout
+[uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]Splitting money, original :205 after : 100 , 105
+server.js - Updating room...[uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+server.js - Starts game [uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+server.js - Round 4 starts...
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+in timeout
+[uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]Splitting money, original :100 after : 82 , 18
+server.js - Updating room...[uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]
+server.js - Starts game [uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]
+server.js - Round 2 starts...
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+client.js -[uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa] Received 0 from player 1 of room 1
+[uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]Splitting money, original :205 after : 205 , 0
+server.js - Updating room...[uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+server.js - Ends game at [uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+cli len4roomlen4
+server.js - removing client:vb9yI-JAlu2oN0s3AAAa
+checking emp... Not empty
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+server.js - Request for /favicon.ico received.
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+client.js -[uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd] Received 0 from player 4 of room 3
+[uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]Splitting money, original :118 after : 118 , 0
+server.js - Updating room...[uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]
+server.js - Starts game [uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]
+server.js - Round 3 starts...
+cli len4roomlen4
+cli len4roomlen4
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+cli len4roomlen4
+server.js - add new client:A4xeRYnuTzIq1b5IAAAe
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+in timeout
+[uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]Splitting money, original :100 after : 100 , 0
+server.js - Updating room...[uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]
+server.js - Starts game [uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]
+server.js - Round 4 starts...
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+cli len5roomlen5
+client.js -[uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd] Received 0 from player 4 of room 3
+[uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]Splitting money, original :100 after : 100 , 0
+server.js - Updating room...[uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]
+server.js - Ends game at [uname:阿魯巴,ugen:man,udep:電機系,uage:junior,player:4,room:3,sid:zd6M-v01JJXOJc0mAAAd]
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+server.js - removing client:zd6M-v01JJXOJc0mAAAd
+checking emp... Not empty
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - removing client:R3fOQOkF7RjZW6ySAAAc
+
+TypeError: Cannot set property 'valid' of undefined
+    at Object.Server.removeClientByID (/home/YuanTingHsieh/psycho/server.js:91:62)
+    at Object.Client.doDisconnect (/home/YuanTingHsieh/psycho/clientoserver.js:41:22)
+    at Socket.<anonymous> (/home/YuanTingHsieh/psycho/clientoserver.js:30:57)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.emit (/home/YuanTingHsieh/psycho/node_modules/socket.io/lib/socket.js:129:10)
+    at Socket.onclose (/home/YuanTingHsieh/psycho/node_modules/socket.io/lib/socket.js:418:8)
+    at Client.onclose (/home/YuanTingHsieh/psycho/node_modules/socket.io/lib/client.js:230:12)
+    at Socket.EventEmitter.emit (events.js:117:20)
+    at Socket.onClose (/home/YuanTingHsieh/psycho/node_modules/socket.io/node_modules/engine.io/lib/socket.js:248:10)
+    at null.<anonymous> (/home/YuanTingHsieh/psycho/node_modules/socket.io/node_modules/engine.io/lib/socket.js:130:10)

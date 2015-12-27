@@ -1598,3 +1598,613 @@ P2 increase 100
 P1 has 0
 P2 has 322
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 1 is given out
+P1 is [uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 99
+P2 increase 1
+P1 has 99
+P2 has 101
+
+Rounds 2
+God send 101
+Decision 1 is given out
+P1 is [uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 1
+P2 increase 100
+P1 has 100
+P2 has 201
+
+Rounds 3
+God send 101
+Decision 10 is given out
+P1 is [uname:54321,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:Xs-JJu4vq2DSHs7tAAAA]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 91
+P2 increase 10
+P1 has 191
+P2 has 211
+
+Rounds 0
+God send 100
+Decision 10 is given out
+P1 is [uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 10
+P2 increase 90
+P1 has 10
+P2 has 301
+
+Rounds 1
+God send 110
+Decision 10 is given out
+P1 is [uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 10
+P1 has 110
+P2 has 311
+
+Rounds 2
+God send 110
+Decision 10 is given out
+P1 is [uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 10
+P2 increase 100
+P1 has 120
+P2 has 411
+
+Rounds 3
+God send 110
+Decision 70 is given out
+P1 is [uname:kang,ugen:man,udep:政治公行,uage:junior,player:1,room:1,sid:jW9bu78griCUqW_yAAAB]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 40
+P2 increase 70
+P1 has 160
+P2 has 481
+
+Rounds 0
+God send 100
+Decision 70 is given out
+P1 is [uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 70
+P2 increase 30
+P1 has 70
+P2 has 511
+
+Rounds 1
+God send 170
+Decision 70 is given out
+P1 is [uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 70
+P1 has 170
+P2 has 581
+
+Rounds 2
+God send 170
+Decision 70 is given out
+P1 is [uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 70
+P2 increase 100
+P1 has 240
+P2 has 681
+
+Rounds 3
+God send 170
+Decision 0 is given out
+P1 is [uname:我畢業了耶,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:Tr1vADbhHs9U9JH8AAAC]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 170
+P2 increase 0
+P1 has 410
+P2 has 681
+
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 781
+
+Rounds 1
+God send 100
+Decision 30 is given out
+P1 is [uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 70
+P2 increase 30
+P1 has 70
+P2 has 811
+
+Rounds 2
+God send 130
+Decision 30 is given out
+P1 is [uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 30
+P2 increase 100
+P1 has 100
+P2 has 911
+
+Rounds 3
+God send 130
+Decision 30 is given out
+P1 is [uname:kiki,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:mOEd8vMDnNtAh7yZAAAD]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 30
+P1 has 200
+P2 has 941
+
+Rounds 0
+God send 100
+Decision 30 is given out
+P1 is [uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 30
+P2 increase 70
+P1 has 30
+P2 has 1011
+
+Rounds 1
+God send 130
+Decision 20 is given out
+P1 is [uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 110
+P2 increase 20
+P1 has 140
+P2 has 1031
+
+Rounds 2
+God send 120
+Decision 20 is given out
+P1 is [uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 20
+P2 increase 100
+P1 has 160
+P2 has 1131
+
+Rounds 3
+God send 120
+Decision 0 is given out
+P1 is [uname:ra,ugen:woman,udep:心理,uage:suffer,player:1,room:1,sid:OkkktfvNfhUHIG96AAAE]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 120
+P2 increase 0
+P1 has 280
+P2 has 1131
+
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 1231
+
+Rounds 1
+God send 100
+Decision 60 is given out
+P1 is [uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 40
+P2 increase 60
+P1 has 40
+P2 has 1291
+
+Rounds 2
+God send 160
+Decision 60 is given out
+P1 is [uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 60
+P2 increase 100
+P1 has 100
+P2 has 1391
+
+Rounds 3
+God send 160
+Decision 80 is given out
+P1 is [uname:ax,ugen:man,udep:牙醫系,uage:junior,player:1,room:1,sid:VOG5KwHXjqC0saYgAAAF]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 80
+P2 increase 80
+P1 has 180
+P2 has 1471
+
+Rounds 0
+God send 100
+Decision 80 is given out
+P1 is [uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 80
+P2 increase 20
+P1 has 80
+P2 has 1491
+
+Rounds 1
+God send 180
+Decision 80 is given out
+P1 is [uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 80
+P1 has 180
+P2 has 1571
+
+Rounds 2
+God send 180
+Decision 80 is given out
+P1 is [uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 80
+P2 increase 100
+P1 has 260
+P2 has 1671
+
+Rounds 3
+God send 180
+Decision 80 is given out
+P1 is [uname:良哥,ugen:undefined,udep:電機,uage:fresh,player:1,room:1,sid:sYJaiexw6toZdovaAAAG]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 80
+P1 has 360
+P2 has 1751
+
+Rounds 0
+God send 100
+Decision 80 is given out
+P1 is [uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 80
+P2 increase 20
+P1 has 80
+P2 has 1771
+
+Rounds 1
+God send 180
+Decision 0 is given out
+P1 is [uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 180
+P2 increase 0
+P1 has 260
+P2 has 1771
+
+Rounds 2
+God send 100
+Decision 0 is given out
+P1 is [uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 0
+P2 increase 100
+P1 has 260
+P2 has 1871
+
+Rounds 3
+God send 100
+Decision 0 is given out
+P1 is [uname:無,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:hyGNKoO5KYvlK3j5AAAH]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 0
+P1 has 360
+P2 has 1871
+
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 1971
+
+Rounds 1
+God send 100
+Decision 40 is given out
+P1 is [uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 60
+P2 increase 40
+P1 has 60
+P2 has 2011
+
+Rounds 2
+God send 140
+Decision 40 is given out
+P1 is [uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 40
+P2 increase 100
+P1 has 100
+P2 has 2111
+
+Rounds 3
+God send 140
+Decision 60 is given out
+P1 is [uname:tuomi,ugen:man,udep:教育系,uage:senior,player:1,room:1,sid:ByN3awpHwXexlY3pAAAI]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 80
+P2 increase 60
+P1 has 180
+P2 has 2171
+
+Rounds 0
+God send 100
+Decision 60 is given out
+P1 is [uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 60
+P2 increase 40
+P1 has 60
+P2 has 2211
+
+Rounds 1
+God send 160
+Decision 60 is given out
+P1 is [uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 60
+P1 has 160
+P2 has 2271
+
+Rounds 2
+God send 160
+Decision 60 is given out
+P1 is [uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 60
+P2 increase 100
+P1 has 220
+P2 has 2371
+
+Rounds 3
+God send 160
+Decision 70 is given out
+P1 is [uname:mnkey,ugen:man,udep:體育系,uage:junior,player:1,room:1,sid:ZVea4Enbr0mxed7LAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 90
+P2 increase 70
+P1 has 310
+P2 has 2441
+
+Rounds 0
+God send 100
+Decision 70 is given out
+P1 is [uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 70
+P2 increase 30
+P1 has 70
+P2 has 2471
+
+Rounds 1
+God send 170
+Decision 120 is given out
+P1 is [uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 50
+P2 increase 120
+P1 has 120
+P2 has 2591
+
+Rounds 2
+God send 220
+Decision 120 is given out
+P1 is [uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 120
+P2 increase 100
+P1 has 240
+P2 has 2691
+
+Rounds 3
+God send 220
+Decision 100 is given out
+P1 is [uname:Amber,ugen:woman,udep:醫學系,uage:junior,player:1,room:1,sid:uqyJ1LV6CMIIYtNdAAAK]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 120
+P2 increase 100
+P1 has 360
+P2 has 2791
+
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 2791
+
+Rounds 1
+God send 200
+Decision 100 is given out
+P1 is [uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 2891
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 300
+P2 has 2991
+
+Rounds 3
+God send 200
+Decision 100 is given out
+P1 is [uname:北醫徐太宇,ugen:man,udep:,uage:junior,player:1,room:1,sid:CkXxO9YHqbEYzyt3AAAM]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 400
+P2 has 3091
+
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 3091
+
+Rounds 1
+God send 200
+Decision 100 is given out
+P1 is [uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 3191
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 300
+P2 has 3291
+
+Rounds 3
+God send 200
+Decision 100 is given out
+P1 is [uname:Butterfly,ugen:man,udep:國貿系,uage:junior,player:1,room:1,sid:ibJf7XV3DyVp9-opAAAO]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 400
+P2 has 3391
+
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:深海戰鮑,ugen:woman,udep:財金系,uage:suffer,player:1,room:1,sid:5XJ5Wjtfxu-u5r7QAAAS]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 3391
+
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 3491
+
+Rounds 1
+God send 100
+Decision 50 is given out
+P1 is [uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 3541
+
+Rounds 2
+God send 150
+Decision 50 is given out
+P1 is [uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 3641
+
+Rounds 3
+God send 150
+Decision 150 is given out
+P1 is [uname:NO.1Taiwan,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:iwITKQmYP_MU4DhWAAAX]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 0
+P2 increase 150
+P1 has 100
+P2 has 3791
+
+Rounds 0
+God send 100
+Decision 10 is given out
+P1 is [uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 10
+P2 increase 90
+P1 has 10
+P2 has 3881
+
+Rounds 1
+God send 110
+Decision 105 is given out
+P1 is [uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 5
+P2 increase 105
+P1 has 15
+P2 has 3986
+
+Rounds 2
+God send 205
+Decision 105 is given out
+P1 is [uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 105
+P2 increase 100
+P1 has 120
+P2 has 4086
+
+Rounds 3
+God send 205
+Decision 0 is given out
+P1 is [uname:小白癡,ugen:man,udep:物理,uage:junior,player:1,room:1,sid:vb9yI-JAlu2oN0s3AAAa]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 205
+P2 increase 0
+P1 has 325
+P2 has 4086
+

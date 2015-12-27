@@ -268,3 +268,83 @@ P2 increase 80
 P1 has 320
 P2 has 910
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 1 is given out
+P1 is [uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 99
+P2 increase 1
+P1 has 99
+P2 has 101
+
+Rounds 2
+God send 101
+Decision 1 is given out
+P1 is [uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 1
+P2 increase 100
+P1 has 100
+P2 has 201
+
+Rounds 3
+God send 101
+Decision 99 is given out
+P1 is [uname:利比多．洛伊德,ugen:man,udep:醫學系,uage:senior,player:4,room:4,sid:YeHI9IjfPuSdagOpAAAR]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 2
+P2 increase 99
+P1 has 102
+P2 has 300
+
+Rounds 0
+God send 100
+Decision 99 is given out
+P1 is [uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 99
+P2 increase 1
+P1 has 99
+P2 has 301
+
+Rounds 1
+God send 199
+Decision 58 is given out
+P1 is [uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 141
+P2 increase 58
+P1 has 240
+P2 has 359
+
+Rounds 2
+God send 158
+Decision 58 is given out
+P1 is [uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 58
+P2 increase 100
+P1 has 298
+P2 has 459
+
+Rounds 3
+God send 158
+Decision 18 is given out
+P1 is [uname:小強,ugen:woman,udep:哲學系,uage:junior,player:4,room:4,sid:hmzoGgwXLVSiJRTVAAAV]
+P2 is [oppotype:0,name:Dragon,playwith:1]
+P1 increase 140
+P2 increase 18
+P1 has 438
+P2 has 477
+

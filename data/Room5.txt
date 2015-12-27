@@ -118,3 +118,43 @@ P2 increase 200
 P1 has 100
 P2 has 350
 
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+P2 is [oppotype:1,name:Nogard,playwith:1]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 100 is given out
+P1 is [uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+P2 is [oppotype:1,name:Nogard,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 100
+
+Rounds 2
+God send 200
+Decision 200 is given out
+P1 is [uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+P2 is [oppotype:1,name:Nogard,playwith:1]
+P1 increase 200
+P2 increase 0
+P1 has 400
+P2 has 100
+
+Rounds 3
+God send 300
+Decision 150 is given out
+P1 is [uname:HELIOS,ugen:man,udep:財金,uage:senior,player:5,room:5,sid:LicR8NbCnsbQUZIBAAAW]
+P2 is [oppotype:1,name:Nogard,playwith:1]
+P1 increase 150
+P2 increase 150
+P1 has 550
+P2 has 250
+
