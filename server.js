@@ -16,7 +16,7 @@
         this.tHands = [];
         this.tmHands = [];
         //config
-        this.totalRound = 4;
+        this.totalRound = 10;
         this.startMoney = 100;
         this.timeup = 60;
         

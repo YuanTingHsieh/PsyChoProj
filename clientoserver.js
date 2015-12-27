@@ -107,9 +107,9 @@
         },
         doEndGame:function()
         {
-            if (this.money < 266)
+            if (this.money < 1166)
                 this.so.emit('endgame',{'level':'loser'});
-            else if (this.money < 533)
+            else if (this.money < 2333)
                 this.so.emit('endgame',{'level':'smart'});
             else
                 this.so.emit('endgame',{'level':'winner'});

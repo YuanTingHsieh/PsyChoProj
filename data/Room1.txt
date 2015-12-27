@@ -2208,3 +2208,2183 @@ P2 increase 0
 P1 has 325
 P2 has 4086
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:TTT,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:wkKmu8u86E0BpE_NAAAA]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 9 is given out
+P1 is [uname:TTT,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:wkKmu8u86E0BpE_NAAAA]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 141
+P2 increase 9
+P1 has 191
+P2 has 59
+
+Rounds 2
+God send 109
+Decision 54 is given out
+P1 is [uname:TTT,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:wkKmu8u86E0BpE_NAAAA]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 54
+P2 increase 55
+P1 has 245
+P2 has 114
+
+Rounds 3
+God send 154
+Decision 9 is given out
+P1 is [uname:TTT,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:wkKmu8u86E0BpE_NAAAA]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 145
+P2 increase 9
+P1 has 390
+P2 has 123
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:黃黃,ugen:woman,udep:獸醫系,uage:junior,player:1,room:1,sid:hOqzARcpuCC-uYOoAAAC]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 173
+
+Rounds 1
+God send 150
+Decision 80 is given out
+P1 is [uname:黃黃,ugen:woman,udep:獸醫系,uage:junior,player:1,room:1,sid:hOqzARcpuCC-uYOoAAAC]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 70
+P2 increase 80
+P1 has 120
+P2 has 253
+
+Rounds 2
+God send 180
+Decision 90 is given out
+P1 is [uname:黃黃,ugen:woman,udep:獸醫系,uage:junior,player:1,room:1,sid:hOqzARcpuCC-uYOoAAAC]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 90
+P2 increase 90
+P1 has 210
+P2 has 343
+
+Rounds 3
+God send 190
+Decision 100 is given out
+P1 is [uname:黃黃,ugen:woman,udep:獸醫系,uage:junior,player:1,room:1,sid:hOqzARcpuCC-uYOoAAAC]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 90
+P2 increase 100
+P1 has 300
+P2 has 443
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:123,ugen:man,udep:心理,uage:suffer,player:1,room:1,sid:s84_YUHdCkK5-EbLAAAE]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 493
+
+Rounds 1
+God send 150
+Decision 150 is given out
+P1 is [uname:123,ugen:man,udep:心理,uage:suffer,player:1,room:1,sid:s84_YUHdCkK5-EbLAAAE]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 150
+P1 has 50
+P2 has 643
+
+Rounds 2
+God send 250
+Decision 125 is given out
+P1 is [uname:123,ugen:man,udep:心理,uage:suffer,player:1,room:1,sid:s84_YUHdCkK5-EbLAAAE]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 125
+P2 increase 125
+P1 has 175
+P2 has 768
+
+Rounds 3
+God send 225
+Decision 150 is given out
+P1 is [uname:123,ugen:man,udep:心理,uage:suffer,player:1,room:1,sid:s84_YUHdCkK5-EbLAAAE]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 150
+P1 has 250
+P2 has 918
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:321,ugen:man,udep:6541,uage:senior,player:1,room:1,sid:RsciLWRSQwh5-w2QAAAF]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 968
+
+Rounds 1
+God send 150
+Decision 0 is given out
+P1 is [uname:321,ugen:man,udep:6541,uage:senior,player:1,room:1,sid:RsciLWRSQwh5-w2QAAAF]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 150
+P2 increase 0
+P1 has 200
+P2 has 968
+
+Rounds 2
+God send 100
+Decision 50 is given out
+P1 is [uname:321,ugen:man,udep:6541,uage:senior,player:1,room:1,sid:RsciLWRSQwh5-w2QAAAF]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 250
+P2 has 1018
+
+Rounds 3
+God send 150
+Decision 0 is given out
+P1 is [uname:321,ugen:man,udep:6541,uage:senior,player:1,room:1,sid:RsciLWRSQwh5-w2QAAAF]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 150
+P2 increase 0
+P1 has 400
+P2 has 1018
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:我強,ugen:man,udep:心理系,uage:fresh,player:1,room:1,sid:LRgy_PbcwPiWkgtdAAAI]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 1068
+
+Rounds 1
+God send 150
+Decision 150 is given out
+P1 is [uname:我強,ugen:man,udep:心理系,uage:fresh,player:1,room:1,sid:LRgy_PbcwPiWkgtdAAAI]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 150
+P1 has 50
+P2 has 1218
+
+Rounds 2
+God send 250
+Decision 125 is given out
+P1 is [uname:我強,ugen:man,udep:心理系,uage:fresh,player:1,room:1,sid:LRgy_PbcwPiWkgtdAAAI]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 125
+P2 increase 125
+P1 has 175
+P2 has 1343
+
+Rounds 3
+God send 225
+Decision 225 is given out
+P1 is [uname:我強,ugen:man,udep:心理系,uage:fresh,player:1,room:1,sid:LRgy_PbcwPiWkgtdAAAI]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 225
+P1 has 175
+P2 has 1568
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:我強,ugen:man,udep:心理,uage:fresh,player:1,room:1,sid:MCG8JN3x7JkViquFAAAJ]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 1618
+
+Rounds 1
+God send 150
+Decision 150 is given out
+P1 is [uname:我強,ugen:man,udep:心理,uage:fresh,player:1,room:1,sid:MCG8JN3x7JkViquFAAAJ]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 150
+P1 has 50
+P2 has 1768
+
+Rounds 2
+God send 250
+Decision 125 is given out
+P1 is [uname:我強,ugen:man,udep:心理,uage:fresh,player:1,room:1,sid:MCG8JN3x7JkViquFAAAJ]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 125
+P2 increase 125
+P1 has 175
+P2 has 1893
+
+Rounds 3
+God send 225
+Decision 0 is given out
+P1 is [uname:我強,ugen:man,udep:心理,uage:fresh,player:1,room:1,sid:MCG8JN3x7JkViquFAAAJ]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 225
+P2 increase 0
+P1 has 400
+P2 has 1893
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:123,ugen:woman,udep:psy,uage:senior,player:1,room:1,sid:JEU9BNATVrvLwuLTAAAK]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 1943
+
+Rounds 1
+God send 150
+Decision 50 is given out
+P1 is [uname:123,ugen:woman,udep:psy,uage:senior,player:1,room:1,sid:JEU9BNATVrvLwuLTAAAK]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 50
+P1 has 150
+P2 has 1993
+
+Rounds 2
+God send 150
+Decision 75 is given out
+P1 is [uname:123,ugen:woman,udep:psy,uage:senior,player:1,room:1,sid:JEU9BNATVrvLwuLTAAAK]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 225
+P2 has 2068
+
+Rounds 3
+God send 175
+Decision 75 is given out
+P1 is [uname:123,ugen:woman,udep:psy,uage:senior,player:1,room:1,sid:JEU9BNATVrvLwuLTAAAK]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 75
+P1 has 325
+P2 has 2143
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:1,ugen:man,udep:1,uage:fresh,player:1,room:1,sid:08YenxnOeK6rwfnqAAAL]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 2193
+
+Rounds 1
+God send 150
+Decision 0 is given out
+P1 is [uname:1,ugen:man,udep:1,uage:fresh,player:1,room:1,sid:08YenxnOeK6rwfnqAAAL]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 150
+P2 increase 0
+P1 has 200
+P2 has 2193
+
+Rounds 2
+God send 100
+Decision 50 is given out
+P1 is [uname:1,ugen:man,udep:1,uage:fresh,player:1,room:1,sid:08YenxnOeK6rwfnqAAAL]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 250
+P2 has 2243
+
+Rounds 3
+God send 150
+Decision 0 is given out
+P1 is [uname:1,ugen:man,udep:1,uage:fresh,player:1,room:1,sid:08YenxnOeK6rwfnqAAAL]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 150
+P2 increase 0
+P1 has 400
+P2 has 2243
+
+Rounds 4
+God send 100
+Decision 0 is given out
+P1 is [uname:1,ugen:man,udep:1,uage:fresh,player:1,room:1,sid:08YenxnOeK6rwfnqAAAL]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 100
+P1 has 400
+P2 has 2343
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:TINA,ugen:woman,udep:心理系,uage:suffer,player:1,room:1,sid:bX5S4BdztaSSuVJxAAAM]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 2393
+
+Rounds 1
+God send 150
+Decision 50 is given out
+P1 is [uname:TINA,ugen:woman,udep:心理系,uage:suffer,player:1,room:1,sid:bX5S4BdztaSSuVJxAAAM]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 50
+P1 has 150
+P2 has 2443
+
+Rounds 2
+God send 150
+Decision 75 is given out
+P1 is [uname:TINA,ugen:woman,udep:心理系,uage:suffer,player:1,room:1,sid:bX5S4BdztaSSuVJxAAAM]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 225
+P2 has 2518
+
+Rounds 3
+God send 175
+Decision 75 is given out
+P1 is [uname:TINA,ugen:woman,udep:心理系,uage:suffer,player:1,room:1,sid:bX5S4BdztaSSuVJxAAAM]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 75
+P1 has 325
+P2 has 2593
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:Jimmy,ugen:man,udep:電子系,uage:junior,player:1,room:1,sid:1GDzHrkn7NVHwp4nAAAN]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 2643
+
+Rounds 1
+God send 150
+Decision 150 is given out
+P1 is [uname:Jimmy,ugen:man,udep:電子系,uage:junior,player:1,room:1,sid:1GDzHrkn7NVHwp4nAAAN]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 150
+P1 has 50
+P2 has 2793
+
+Rounds 2
+God send 250
+Decision 125 is given out
+P1 is [uname:Jimmy,ugen:man,udep:電子系,uage:junior,player:1,room:1,sid:1GDzHrkn7NVHwp4nAAAN]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 125
+P2 increase 125
+P1 has 175
+P2 has 2918
+
+Rounds 3
+God send 225
+Decision 0 is given out
+P1 is [uname:Jimmy,ugen:man,udep:電子系,uage:junior,player:1,room:1,sid:1GDzHrkn7NVHwp4nAAAN]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 225
+P2 increase 0
+P1 has 400
+P2 has 2918
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:don2,ugen:man,udep:已畢業,uage:senior,player:1,room:1,sid:iTvgnqkH0cesZyFyAAAP]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 2968
+
+Rounds 1
+God send 150
+Decision 100 is given out
+P1 is [uname:don2,ugen:man,udep:已畢業,uage:senior,player:1,room:1,sid:iTvgnqkH0cesZyFyAAAP]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 3068
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:don2,ugen:man,udep:已畢業,uage:senior,player:1,room:1,sid:iTvgnqkH0cesZyFyAAAP]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 3168
+
+Rounds 3
+God send 200
+Decision 0 is given out
+P1 is [uname:don2,ugen:man,udep:已畢業,uage:senior,player:1,room:1,sid:iTvgnqkH0cesZyFyAAAP]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 200
+P2 increase 0
+P1 has 400
+P2 has 3168
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:Xuan,ugen:man,udep:物理,uage:fresh,player:1,room:1,sid:SE8S8JI_y0DMACDrAAAQ]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 3218
+
+Rounds 1
+God send 150
+Decision 50 is given out
+P1 is [uname:Xuan,ugen:man,udep:物理,uage:fresh,player:1,room:1,sid:SE8S8JI_y0DMACDrAAAQ]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 50
+P1 has 150
+P2 has 3268
+
+Rounds 2
+God send 150
+Decision 75 is given out
+P1 is [uname:Xuan,ugen:man,udep:物理,uage:fresh,player:1,room:1,sid:SE8S8JI_y0DMACDrAAAQ]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 225
+P2 has 3343
+
+Rounds 3
+God send 175
+Decision 175 is given out
+P1 is [uname:Xuan,ugen:man,udep:物理,uage:fresh,player:1,room:1,sid:SE8S8JI_y0DMACDrAAAQ]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 175
+P1 has 225
+P2 has 3518
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:柚果粒半糖少冰,ugen:woman,udep:數學,uage:junior,player:1,room:1,sid:W8R-5h2AbPQmt6jFAAAS]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 3568
+
+Rounds 1
+God send 150
+Decision 100 is given out
+P1 is [uname:柚果粒半糖少冰,ugen:woman,udep:數學,uage:junior,player:1,room:1,sid:W8R-5h2AbPQmt6jFAAAS]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 3668
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:柚果粒半糖少冰,ugen:woman,udep:數學,uage:junior,player:1,room:1,sid:W8R-5h2AbPQmt6jFAAAS]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 3768
+
+Rounds 3
+God send 200
+Decision 150 is given out
+P1 is [uname:柚果粒半糖少冰,ugen:woman,udep:數學,uage:junior,player:1,room:1,sid:W8R-5h2AbPQmt6jFAAAS]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 150
+P1 has 250
+P2 has 3918
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:ddd,ugen:man,udep:社工系,uage:suffer,player:1,room:1,sid:bK5Jmncg6W3i3VrAAAAV]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 3968
+
+Rounds 1
+God send 150
+Decision 50 is given out
+P1 is [uname:ddd,ugen:man,udep:社工系,uage:suffer,player:1,room:1,sid:bK5Jmncg6W3i3VrAAAAV]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 50
+P1 has 150
+P2 has 4018
+
+Rounds 2
+God send 150
+Decision 75 is given out
+P1 is [uname:ddd,ugen:man,udep:社工系,uage:suffer,player:1,room:1,sid:bK5Jmncg6W3i3VrAAAAV]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 225
+P2 has 4093
+
+Rounds 3
+God send 175
+Decision 0 is given out
+P1 is [uname:ddd,ugen:man,udep:社工系,uage:suffer,player:1,room:1,sid:bK5Jmncg6W3i3VrAAAAV]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 175
+P2 increase 0
+P1 has 400
+P2 has 4093
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:elvis,ugen:woman,udep:心理系,uage:junior,player:1,room:1,sid:vJFQmQg53v93ARLFAAAW]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 4143
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:elvis,ugen:woman,udep:心理系,uage:junior,player:1,room:1,sid:vJFQmQg53v93ARLFAAAW]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 4218
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:elvis,ugen:woman,udep:心理系,uage:junior,player:1,room:1,sid:vJFQmQg53v93ARLFAAAW]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 4306
+
+Rounds 3
+God send 187
+Decision 92 is given out
+P1 is [uname:elvis,ugen:woman,udep:心理系,uage:junior,player:1,room:1,sid:vJFQmQg53v93ARLFAAAW]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 95
+P2 increase 92
+P1 has 307
+P2 has 4398
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:Fishsnake,ugen:man,udep:生科三,uage:junior,player:1,room:1,sid:ajYCcNcIptmeIkcCAAAX]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 4448
+
+Rounds 1
+God send 150
+Decision 50 is given out
+P1 is [uname:Fishsnake,ugen:man,udep:生科三,uage:junior,player:1,room:1,sid:ajYCcNcIptmeIkcCAAAX]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 50
+P1 has 150
+P2 has 4498
+
+Rounds 2
+God send 150
+Decision 75 is given out
+P1 is [uname:Fishsnake,ugen:man,udep:生科三,uage:junior,player:1,room:1,sid:ajYCcNcIptmeIkcCAAAX]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 225
+P2 has 4573
+
+Rounds 3
+God send 175
+Decision 75 is given out
+P1 is [uname:Fishsnake,ugen:man,udep:生科三,uage:junior,player:1,room:1,sid:ajYCcNcIptmeIkcCAAAX]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 75
+P1 has 325
+P2 has 4648
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:拉拉拉拉拉,ugen:man,udep:材料,uage:fresh,player:1,room:1,sid:qsUQtwyjkxFem0a-AAAY]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 4698
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:拉拉拉拉拉,ugen:man,udep:材料,uage:fresh,player:1,room:1,sid:qsUQtwyjkxFem0a-AAAY]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 4773
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:拉拉拉拉拉,ugen:man,udep:材料,uage:fresh,player:1,room:1,sid:qsUQtwyjkxFem0a-AAAY]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 4861
+
+Rounds 3
+God send 187
+Decision 0 is given out
+P1 is [uname:拉拉拉拉拉,ugen:man,udep:材料,uage:fresh,player:1,room:1,sid:qsUQtwyjkxFem0a-AAAY]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 187
+P2 increase 0
+P1 has 399
+P2 has 4861
+
+Rounds 4
+God send 100
+Decision 0 is given out
+P1 is [uname:拉拉拉拉拉,ugen:man,udep:材料,uage:fresh,player:1,room:1,sid:qsUQtwyjkxFem0a-AAAY]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 100
+P1 has 399
+P2 has 4961
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:ting4182,ugen:woman,udep:醫學系,uage:senior,player:1,room:1,sid:6gGnKWjjq2ouID5XAAAd]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 5011
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:ting4182,ugen:woman,udep:醫學系,uage:senior,player:1,room:1,sid:6gGnKWjjq2ouID5XAAAd]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 5086
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:ting4182,ugen:woman,udep:醫學系,uage:senior,player:1,room:1,sid:6gGnKWjjq2ouID5XAAAd]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 5174
+
+Rounds 3
+God send 187
+Decision 87 is given out
+P1 is [uname:ting4182,ugen:woman,udep:醫學系,uage:senior,player:1,room:1,sid:6gGnKWjjq2ouID5XAAAd]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 87
+P1 has 312
+P2 has 5261
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:吳宗奇,ugen:man,udep:東方哈佛,uage:junior,player:1,room:1,sid:eNgur8Zvl8B5uF6_AAAe]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 5311
+
+Rounds 1
+God send 150
+Decision 150 is given out
+P1 is [uname:吳宗奇,ugen:man,udep:東方哈佛,uage:junior,player:1,room:1,sid:eNgur8Zvl8B5uF6_AAAe]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 150
+P1 has 50
+P2 has 5461
+
+Rounds 2
+God send 250
+Decision 125 is given out
+P1 is [uname:吳宗奇,ugen:man,udep:東方哈佛,uage:junior,player:1,room:1,sid:eNgur8Zvl8B5uF6_AAAe]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 125
+P2 increase 125
+P1 has 175
+P2 has 5586
+
+Rounds 3
+God send 225
+Decision 175 is given out
+P1 is [uname:吳宗奇,ugen:man,udep:東方哈佛,uage:junior,player:1,room:1,sid:eNgur8Zvl8B5uF6_AAAe]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 175
+P1 has 225
+P2 has 5761
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:阿鈞,ugen:man,udep:電子,uage:junior,player:1,room:1,sid:2RENeygV2xbk6OTjAAAf]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 5811
+
+Rounds 1
+God send 150
+Decision 70 is given out
+P1 is [uname:阿鈞,ugen:man,udep:電子,uage:junior,player:1,room:1,sid:2RENeygV2xbk6OTjAAAf]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 80
+P2 increase 70
+P1 has 130
+P2 has 5881
+
+Rounds 2
+God send 170
+Decision 85 is given out
+P1 is [uname:阿鈞,ugen:man,udep:電子,uage:junior,player:1,room:1,sid:2RENeygV2xbk6OTjAAAf]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 85
+P2 increase 85
+P1 has 215
+P2 has 5966
+
+Rounds 3
+God send 185
+Decision 85 is given out
+P1 is [uname:阿鈞,ugen:man,udep:電子,uage:junior,player:1,room:1,sid:2RENeygV2xbk6OTjAAAf]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 85
+P1 has 315
+P2 has 6051
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:Cathy,ugen:woman,udep:醫學系,uage:senior,player:1,room:1,sid:GY47mSwfg9JX5VGmAAAg]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 6101
+
+Rounds 1
+God send 150
+Decision 100 is given out
+P1 is [uname:Cathy,ugen:woman,udep:醫學系,uage:senior,player:1,room:1,sid:GY47mSwfg9JX5VGmAAAg]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 6201
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:Cathy,ugen:woman,udep:醫學系,uage:senior,player:1,room:1,sid:GY47mSwfg9JX5VGmAAAg]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 6301
+
+Rounds 3
+God send 200
+Decision 200 is given out
+P1 is [uname:Cathy,ugen:woman,udep:醫學系,uage:senior,player:1,room:1,sid:GY47mSwfg9JX5VGmAAAg]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 200
+P1 has 200
+P2 has 6501
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:小陳,ugen:man,udep:國企,uage:suffer,player:1,room:1,sid:7dEelMG1gAMfW8hCAAAh]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 6551
+
+Rounds 1
+God send 150
+Decision 100 is given out
+P1 is [uname:小陳,ugen:man,udep:國企,uage:suffer,player:1,room:1,sid:7dEelMG1gAMfW8hCAAAh]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 6651
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:小陳,ugen:man,udep:國企,uage:suffer,player:1,room:1,sid:7dEelMG1gAMfW8hCAAAh]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 6751
+
+Rounds 3
+God send 200
+Decision 100 is given out
+P1 is [uname:小陳,ugen:man,udep:國企,uage:suffer,player:1,room:1,sid:7dEelMG1gAMfW8hCAAAh]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 300
+P2 has 6851
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:我懂了,ugen:man,udep:國企,uage:suffer,player:1,room:1,sid:oTZCWRuIc2SkcWOWAAAi]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 6901
+
+Rounds 1
+God send 150
+Decision 150 is given out
+P1 is [uname:我懂了,ugen:man,udep:國企,uage:suffer,player:1,room:1,sid:oTZCWRuIc2SkcWOWAAAi]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 150
+P1 has 50
+P2 has 7051
+
+Rounds 2
+God send 250
+Decision 125 is given out
+P1 is [uname:我懂了,ugen:man,udep:國企,uage:suffer,player:1,room:1,sid:oTZCWRuIc2SkcWOWAAAi]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 125
+P2 increase 125
+P1 has 175
+P2 has 7176
+
+Rounds 3
+God send 225
+Decision 225 is given out
+P1 is [uname:我懂了,ugen:man,udep:國企,uage:suffer,player:1,room:1,sid:oTZCWRuIc2SkcWOWAAAi]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 225
+P1 has 175
+P2 has 7401
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:AS,ugen:man,udep:PHYSICS,uage:junior,player:1,room:1,sid:P4_eMDNbSZAtGrfhAAAj]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 7451
+
+Rounds 1
+God send 150
+Decision 80 is given out
+P1 is [uname:AS,ugen:man,udep:PHYSICS,uage:junior,player:1,room:1,sid:P4_eMDNbSZAtGrfhAAAj]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 70
+P2 increase 80
+P1 has 120
+P2 has 7531
+
+Rounds 2
+God send 180
+Decision 90 is given out
+P1 is [uname:AS,ugen:man,udep:PHYSICS,uage:junior,player:1,room:1,sid:P4_eMDNbSZAtGrfhAAAj]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 90
+P2 increase 90
+P1 has 210
+P2 has 7621
+
+Rounds 3
+God send 190
+Decision 95 is given out
+P1 is [uname:AS,ugen:man,udep:PHYSICS,uage:junior,player:1,room:1,sid:P4_eMDNbSZAtGrfhAAAj]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 95
+P2 increase 95
+P1 has 305
+P2 has 7716
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:殘念的人生,ugen:man,udep:醫,uage:junior,player:1,room:1,sid:kAZMPggRzmWijHqlAAAk]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 7766
+
+Rounds 1
+God send 150
+Decision 50 is given out
+P1 is [uname:殘念的人生,ugen:man,udep:醫,uage:junior,player:1,room:1,sid:kAZMPggRzmWijHqlAAAk]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 50
+P1 has 150
+P2 has 7816
+
+Rounds 2
+God send 150
+Decision 75 is given out
+P1 is [uname:殘念的人生,ugen:man,udep:醫,uage:junior,player:1,room:1,sid:kAZMPggRzmWijHqlAAAk]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 225
+P2 has 7891
+
+Rounds 3
+God send 175
+Decision 90 is given out
+P1 is [uname:殘念的人生,ugen:man,udep:醫,uage:junior,player:1,room:1,sid:kAZMPggRzmWijHqlAAAk]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 85
+P2 increase 90
+P1 has 310
+P2 has 7981
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:臭鼬,ugen:man,udep:電機系,uage:junior,player:1,room:1,sid:6Zetnez02C1EogGGAAAm]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 8031
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:臭鼬,ugen:man,udep:電機系,uage:junior,player:1,room:1,sid:6Zetnez02C1EogGGAAAm]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 8106
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:臭鼬,ugen:man,udep:電機系,uage:junior,player:1,room:1,sid:6Zetnez02C1EogGGAAAm]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 8194
+
+Rounds 3
+God send 187
+Decision 106 is given out
+P1 is [uname:臭鼬,ugen:man,udep:電機系,uage:junior,player:1,room:1,sid:6Zetnez02C1EogGGAAAm]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 81
+P2 increase 106
+P1 has 293
+P2 has 8300
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:nobita,ugen:man,udep:生科系,uage:fresh,player:1,room:1,sid:O1UYd_MDQ6nNDRxaAAAp]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 8350
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:nobita,ugen:man,udep:生科系,uage:fresh,player:1,room:1,sid:O1UYd_MDQ6nNDRxaAAAp]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 8425
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:nobita,ugen:man,udep:生科系,uage:fresh,player:1,room:1,sid:O1UYd_MDQ6nNDRxaAAAp]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 8513
+
+Rounds 3
+God send 187
+Decision 100 is given out
+P1 is [uname:nobita,ugen:man,udep:生科系,uage:fresh,player:1,room:1,sid:O1UYd_MDQ6nNDRxaAAAp]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 87
+P2 increase 100
+P1 has 299
+P2 has 8613
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:原力覺醒,ugen:man,udep:建築系,uage:junior,player:1,room:1,sid:2ant0VNKaUk5XYV_AAAq]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 8663
+
+Rounds 1
+God send 150
+Decision 150 is given out
+P1 is [uname:原力覺醒,ugen:man,udep:建築系,uage:junior,player:1,room:1,sid:2ant0VNKaUk5XYV_AAAq]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 150
+P1 has 50
+P2 has 8813
+
+Rounds 2
+God send 250
+Decision 125 is given out
+P1 is [uname:原力覺醒,ugen:man,udep:建築系,uage:junior,player:1,room:1,sid:2ant0VNKaUk5XYV_AAAq]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 125
+P2 increase 125
+P1 has 175
+P2 has 8938
+
+Rounds 3
+God send 225
+Decision 1 is given out
+P1 is [uname:原力覺醒,ugen:man,udep:建築系,uage:junior,player:1,room:1,sid:2ant0VNKaUk5XYV_AAAq]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 224
+P2 increase 1
+P1 has 399
+P2 has 8939
+
+Rounds 4
+God send 101
+Decision 1 is given out
+P1 is [uname:原力覺醒,ugen:man,udep:建築系,uage:junior,player:1,room:1,sid:2ant0VNKaUk5XYV_AAAq]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 1
+P2 increase 100
+P1 has 400
+P2 has 9039
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:厚厚,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:7gzk5qRi96pFQO5NAAAr]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 9089
+
+Rounds 1
+God send 150
+Decision 50 is given out
+P1 is [uname:厚厚,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:7gzk5qRi96pFQO5NAAAr]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 50
+P1 has 150
+P2 has 9139
+
+Rounds 2
+God send 150
+Decision 75 is given out
+P1 is [uname:厚厚,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:7gzk5qRi96pFQO5NAAAr]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 225
+P2 has 9214
+
+Rounds 3
+God send 175
+Decision 100 is given out
+P1 is [uname:厚厚,ugen:man,udep:心理系,uage:senior,player:1,room:1,sid:7gzk5qRi96pFQO5NAAAr]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 100
+P1 has 300
+P2 has 9314
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:Neloo,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:u3hgj51C95I3SZEWAAAs]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 9364
+
+Rounds 1
+God send 150
+Decision 100 is given out
+P1 is [uname:Neloo,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:u3hgj51C95I3SZEWAAAs]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 9464
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:Neloo,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:u3hgj51C95I3SZEWAAAs]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 9564
+
+Rounds 3
+God send 200
+Decision 0 is given out
+P1 is [uname:Neloo,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:u3hgj51C95I3SZEWAAAs]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 200
+P2 increase 0
+P1 has 400
+P2 has 9564
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:Neloo,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:pw4wFrjyF9e_tVvvAAAt]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 9614
+
+Rounds 1
+God send 150
+Decision 150 is given out
+P1 is [uname:Neloo,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:pw4wFrjyF9e_tVvvAAAt]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 150
+P1 has 50
+P2 has 9764
+
+Rounds 2
+God send 250
+Decision 125 is given out
+P1 is [uname:Neloo,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:pw4wFrjyF9e_tVvvAAAt]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 125
+P2 increase 125
+P1 has 175
+P2 has 9889
+
+Rounds 3
+God send 225
+Decision 0 is given out
+P1 is [uname:Neloo,ugen:man,udep:心理,uage:junior,player:1,room:1,sid:pw4wFrjyF9e_tVvvAAAt]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 225
+P2 increase 0
+P1 has 400
+P2 has 9889
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:red,ugen:woman,udep:醫學系,uage:senior,player:1,room:1,sid:7lbPTqP5oKyX5UnRAAAv]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 9939
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:red,ugen:woman,udep:醫學系,uage:senior,player:1,room:1,sid:7lbPTqP5oKyX5UnRAAAv]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 10014
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:red,ugen:woman,udep:醫學系,uage:senior,player:1,room:1,sid:7lbPTqP5oKyX5UnRAAAv]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 10102
+
+Rounds 3
+God send 187
+Decision 94 is given out
+P1 is [uname:red,ugen:woman,udep:醫學系,uage:senior,player:1,room:1,sid:7lbPTqP5oKyX5UnRAAAv]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 93
+P2 increase 94
+P1 has 305
+P2 has 10196
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:阿鄧,ugen:woman,udep:生化科技,uage:junior,player:1,room:1,sid:kJnThjH5O0woNbNpAAAw]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 10246
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:阿鄧,ugen:woman,udep:生化科技,uage:junior,player:1,room:1,sid:kJnThjH5O0woNbNpAAAw]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 10321
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:阿鄧,ugen:woman,udep:生化科技,uage:junior,player:1,room:1,sid:kJnThjH5O0woNbNpAAAw]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 10409
+
+Rounds 3
+God send 187
+Decision 95 is given out
+P1 is [uname:阿鄧,ugen:woman,udep:生化科技,uage:junior,player:1,room:1,sid:kJnThjH5O0woNbNpAAAw]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 92
+P2 increase 95
+P1 has 304
+P2 has 10504
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:777,ugen:woman,udep:,uage:undefined,player:1,room:1,sid:0xTBfKlSQbwBgFA1AAAx]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 10554
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:777,ugen:woman,udep:,uage:undefined,player:1,room:1,sid:0xTBfKlSQbwBgFA1AAAx]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 10629
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:777,ugen:woman,udep:,uage:undefined,player:1,room:1,sid:0xTBfKlSQbwBgFA1AAAx]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 10717
+
+Rounds 3
+God send 187
+Decision 94 is given out
+P1 is [uname:777,ugen:woman,udep:,uage:undefined,player:1,room:1,sid:0xTBfKlSQbwBgFA1AAAx]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 93
+P2 increase 94
+P1 has 305
+P2 has 10811
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:Cht,ugen:woman,udep:物理,uage:senior,player:1,room:1,sid:WvbG087HRMw4nk31AAAy]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 10861
+
+Rounds 1
+God send 150
+Decision 100 is given out
+P1 is [uname:Cht,ugen:woman,udep:物理,uage:senior,player:1,room:1,sid:WvbG087HRMw4nk31AAAy]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 10961
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:Cht,ugen:woman,udep:物理,uage:senior,player:1,room:1,sid:WvbG087HRMw4nk31AAAy]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 11061
+
+Rounds 3
+God send 200
+Decision 100 is given out
+P1 is [uname:Cht,ugen:woman,udep:物理,uage:senior,player:1,room:1,sid:WvbG087HRMw4nk31AAAy]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 300
+P2 has 11161
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:0.0,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:627P-Jt7S9XPOeoGAAAz]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 11211
+
+Rounds 1
+God send 150
+Decision 49 is given out
+P1 is [uname:0.0,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:627P-Jt7S9XPOeoGAAAz]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 101
+P2 increase 49
+P1 has 151
+P2 has 11260
+
+Rounds 2
+God send 149
+Decision 74 is given out
+P1 is [uname:0.0,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:627P-Jt7S9XPOeoGAAAz]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 74
+P2 increase 75
+P1 has 225
+P2 has 11335
+
+Rounds 3
+God send 174
+Decision 37 is given out
+P1 is [uname:0.0,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:627P-Jt7S9XPOeoGAAAz]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 137
+P2 increase 37
+P1 has 362
+P2 has 11372
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:Audrey,ugen:woman,udep:土木,uage:senior,player:1,room:1,sid:BpS1Zs2gXisett0RAAA0]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 11422
+
+Rounds 1
+God send 150
+Decision 80 is given out
+P1 is [uname:Audrey,ugen:woman,udep:土木,uage:senior,player:1,room:1,sid:BpS1Zs2gXisett0RAAA0]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 70
+P2 increase 80
+P1 has 120
+P2 has 11502
+
+Rounds 2
+God send 180
+Decision 90 is given out
+P1 is [uname:Audrey,ugen:woman,udep:土木,uage:senior,player:1,room:1,sid:BpS1Zs2gXisett0RAAA0]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 90
+P2 increase 90
+P1 has 210
+P2 has 11592
+
+Rounds 3
+God send 190
+Decision 90 is given out
+P1 is [uname:Audrey,ugen:woman,udep:土木,uage:senior,player:1,room:1,sid:BpS1Zs2gXisett0RAAA0]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 90
+P1 has 310
+P2 has 11682
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:默默地堅持,ugen:man,udep:醫學系,uage:senior,player:1,room:1,sid:_1X9zeIeYC1YL4h4AAA1]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 11732
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:默默地堅持,ugen:man,udep:醫學系,uage:senior,player:1,room:1,sid:_1X9zeIeYC1YL4h4AAA1]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 11807
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:默默地堅持,ugen:man,udep:醫學系,uage:senior,player:1,room:1,sid:_1X9zeIeYC1YL4h4AAA1]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 11895
+
+Rounds 3
+God send 187
+Decision 0 is given out
+P1 is [uname:默默地堅持,ugen:man,udep:醫學系,uage:senior,player:1,room:1,sid:_1X9zeIeYC1YL4h4AAA1]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 187
+P2 increase 0
+P1 has 399
+P2 has 11895
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:X.X,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:O8rVCrrtW9tj4ELuAAA2]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 11945
+
+Rounds 1
+God send 150
+Decision 150 is given out
+P1 is [uname:X.X,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:O8rVCrrtW9tj4ELuAAA2]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 150
+P1 has 50
+P2 has 12095
+
+Rounds 2
+God send 250
+Decision 125 is given out
+P1 is [uname:X.X,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:O8rVCrrtW9tj4ELuAAA2]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 125
+P2 increase 125
+P1 has 175
+P2 has 12220
+
+Rounds 3
+God send 225
+Decision 0 is given out
+P1 is [uname:X.X,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:O8rVCrrtW9tj4ELuAAA2]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 225
+P2 increase 0
+P1 has 400
+P2 has 12220
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:OOO,ugen:man,udep:醫學,uage:suffer,player:1,room:1,sid:sI6J6_N_XWw4TMjcAAA4]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 12270
+
+Rounds 1
+God send 150
+Decision 60 is given out
+P1 is [uname:OOO,ugen:man,udep:醫學,uage:suffer,player:1,room:1,sid:sI6J6_N_XWw4TMjcAAA4]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 90
+P2 increase 60
+P1 has 140
+P2 has 12330
+
+Rounds 2
+God send 160
+Decision 80 is given out
+P1 is [uname:OOO,ugen:man,udep:醫學,uage:suffer,player:1,room:1,sid:sI6J6_N_XWw4TMjcAAA4]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 80
+P2 increase 80
+P1 has 220
+P2 has 12410
+
+Rounds 3
+God send 180
+Decision 100 is given out
+P1 is [uname:OOO,ugen:man,udep:醫學,uage:suffer,player:1,room:1,sid:sI6J6_N_XWw4TMjcAAA4]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 80
+P2 increase 100
+P1 has 300
+P2 has 12510
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:erfishic,ugen:man,udep:醫學系,uage:senior,player:1,room:1,sid:I8Bq4PVCT-AFdZJjAAA5]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 12560
+
+Rounds 1
+God send 150
+Decision 150 is given out
+P1 is [uname:erfishic,ugen:man,udep:醫學系,uage:senior,player:1,room:1,sid:I8Bq4PVCT-AFdZJjAAA5]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 150
+P1 has 50
+P2 has 12710
+
+Rounds 2
+God send 250
+Decision 125 is given out
+P1 is [uname:erfishic,ugen:man,udep:醫學系,uage:senior,player:1,room:1,sid:I8Bq4PVCT-AFdZJjAAA5]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 125
+P2 increase 125
+P1 has 175
+P2 has 12835
+
+Rounds 3
+God send 225
+Decision 0 is given out
+P1 is [uname:erfishic,ugen:man,udep:醫學系,uage:senior,player:1,room:1,sid:I8Bq4PVCT-AFdZJjAAA5]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 225
+P2 increase 0
+P1 has 400
+P2 has 12835
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:lee,ugen:man,udep:med01,uage:senior,player:1,room:1,sid:9hs-aksrz8U0720xAAA6]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 12885
+
+Rounds 1
+God send 150
+Decision 10 is given out
+P1 is [uname:lee,ugen:man,udep:med01,uage:senior,player:1,room:1,sid:9hs-aksrz8U0720xAAA6]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 140
+P2 increase 10
+P1 has 190
+P2 has 12895
+
+Rounds 2
+God send 110
+Decision 55 is given out
+P1 is [uname:lee,ugen:man,udep:med01,uage:senior,player:1,room:1,sid:9hs-aksrz8U0720xAAA6]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 55
+P2 increase 55
+P1 has 245
+P2 has 12950
+
+Rounds 3
+God send 155
+Decision 55 is given out
+P1 is [uname:lee,ugen:man,udep:med01,uage:senior,player:1,room:1,sid:9hs-aksrz8U0720xAAA6]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 55
+P1 has 345
+P2 has 13005
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:lHdndQnlVpg7Lg7PAAA8]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 13055
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:安安你好,ugen:man,udep:物理學系,uage:junior,player:1,room:1,sid:ieVAWntkBwI6G_fJAABD]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 13105
+
+Rounds 1
+God send 150
+Decision 140 is given out
+P1 is [uname:安安你好,ugen:man,udep:物理學系,uage:junior,player:1,room:1,sid:ieVAWntkBwI6G_fJAABD]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 10
+P2 increase 140
+P1 has 60
+P2 has 13245
+
+Rounds 2
+God send 240
+Decision 120 is given out
+P1 is [uname:安安你好,ugen:man,udep:物理學系,uage:junior,player:1,room:1,sid:ieVAWntkBwI6G_fJAABD]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 120
+P2 increase 120
+P1 has 180
+P2 has 13365
+
+Rounds 3
+God send 220
+Decision 150 is given out
+P1 is [uname:安安你好,ugen:man,udep:物理學系,uage:junior,player:1,room:1,sid:ieVAWntkBwI6G_fJAABD]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 70
+P2 increase 150
+P1 has 250
+P2 has 13515
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:OO,ugen:woman,udep:心理系,uage:junior,player:1,room:1,sid:XdKGVmHaPtmExoJtAABH]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 13565
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:OO,ugen:woman,udep:心理系,uage:junior,player:1,room:1,sid:XdKGVmHaPtmExoJtAABH]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 13640
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:OO,ugen:woman,udep:心理系,uage:junior,player:1,room:1,sid:XdKGVmHaPtmExoJtAABH]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 13728
+
+Rounds 3
+God send 187
+Decision 98 is given out
+P1 is [uname:OO,ugen:woman,udep:心理系,uage:junior,player:1,room:1,sid:XdKGVmHaPtmExoJtAABH]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 89
+P2 increase 98
+P1 has 301
+P2 has 13826
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:最後一次><,ugen:man,udep:心理系,uage:junior,player:1,room:1,sid:9kCm1NDHLlQLeVBJAABM]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 13876
+
+Rounds 1
+God send 150
+Decision 150 is given out
+P1 is [uname:最後一次><,ugen:man,udep:心理系,uage:junior,player:1,room:1,sid:9kCm1NDHLlQLeVBJAABM]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 150
+P1 has 50
+P2 has 14026
+
+Rounds 2
+God send 250
+Decision 125 is given out
+P1 is [uname:最後一次><,ugen:man,udep:心理系,uage:junior,player:1,room:1,sid:9kCm1NDHLlQLeVBJAABM]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 125
+P2 increase 125
+P1 has 175
+P2 has 14151
+
+Rounds 3
+God send 225
+Decision 0 is given out
+P1 is [uname:最後一次><,ugen:man,udep:心理系,uage:junior,player:1,room:1,sid:9kCm1NDHLlQLeVBJAABM]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 225
+P2 increase 0
+P1 has 400
+P2 has 14151
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:senior,player:1,room:1,sid:JBhpodvCSdIRZ6TmAABO]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 14201
+
+Rounds 1
+God send 150
+Decision 100 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:senior,player:1,room:1,sid:JBhpodvCSdIRZ6TmAABO]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 14301
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:senior,player:1,room:1,sid:JBhpodvCSdIRZ6TmAABO]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 14401
+
+Rounds 3
+God send 200
+Decision 100 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:senior,player:1,room:1,sid:JBhpodvCSdIRZ6TmAABO]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 300
+P2 has 14501
+
+Rounds 4
+God send 200
+Decision 100 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:senior,player:1,room:1,sid:JBhpodvCSdIRZ6TmAABO]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 400
+P2 has 14601
+
+Rounds 5
+God send 200
+Decision 100 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:senior,player:1,room:1,sid:JBhpodvCSdIRZ6TmAABO]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 500
+P2 has 14701
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:q,ugen:man,udep:re,uage:suffer,player:1,room:1,sid:2nET0_tcGKTtsZzkAABQ]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 14751
+
+Rounds 1
+God send 150
+Decision 0 is given out
+P1 is [uname:q,ugen:man,udep:re,uage:suffer,player:1,room:1,sid:2nET0_tcGKTtsZzkAABQ]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 150
+P2 increase 0
+P1 has 200
+P2 has 14751
+
+Rounds 2
+God send 100
+Decision 50 is given out
+P1 is [uname:q,ugen:man,udep:re,uage:suffer,player:1,room:1,sid:2nET0_tcGKTtsZzkAABQ]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 250
+P2 has 14801
+
+Rounds 3
+God send 150
+Decision 0 is given out
+P1 is [uname:q,ugen:man,udep:re,uage:suffer,player:1,room:1,sid:2nET0_tcGKTtsZzkAABQ]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 150
+P2 increase 0
+P1 has 400
+P2 has 14801
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:大雞雞,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:fWm-rrq-7em2QNyZAABS]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 14851
+
+Rounds 1
+God send 150
+Decision 99 is given out
+P1 is [uname:大雞雞,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:fWm-rrq-7em2QNyZAABS]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 51
+P2 increase 99
+P1 has 101
+P2 has 14950
+
+Rounds 2
+God send 199
+Decision 99 is given out
+P1 is [uname:大雞雞,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:fWm-rrq-7em2QNyZAABS]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 99
+P2 increase 100
+P1 has 200
+P2 has 15050
+
+Rounds 3
+God send 199
+Decision 198 is given out
+P1 is [uname:大雞雞,ugen:man,udep:醫學,uage:junior,player:1,room:1,sid:fWm-rrq-7em2QNyZAABS]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 1
+P2 increase 198
+P1 has 201
+P2 has 15248
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:b3101ill,ugen:man,udep:醫學,uage:senior,player:1,room:1,sid:snNC_JJmlD4SKw9DAABT]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 15298
+
+Rounds 1
+God send 150
+Decision 70 is given out
+P1 is [uname:b3101ill,ugen:man,udep:醫學,uage:senior,player:1,room:1,sid:snNC_JJmlD4SKw9DAABT]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 80
+P2 increase 70
+P1 has 130
+P2 has 15368
+
+Rounds 2
+God send 170
+Decision 85 is given out
+P1 is [uname:b3101ill,ugen:man,udep:醫學,uage:senior,player:1,room:1,sid:snNC_JJmlD4SKw9DAABT]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 85
+P2 increase 85
+P1 has 215
+P2 has 15453
+
+Rounds 3
+God send 185
+Decision 90 is given out
+P1 is [uname:b3101ill,ugen:man,udep:醫學,uage:senior,player:1,room:1,sid:snNC_JJmlD4SKw9DAABT]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 95
+P2 increase 90
+P1 has 310
+P2 has 15543
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:靛,ugen:woman,udep:法律,uage:suffer,player:1,room:1,sid:4_dWeTPLmRyIuV7uAABY]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 15593
+
+Rounds 1
+God send 150
+Decision 100 is given out
+P1 is [uname:靛,ugen:woman,udep:法律,uage:suffer,player:1,room:1,sid:4_dWeTPLmRyIuV7uAABY]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 15693
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:靛,ugen:woman,udep:法律,uage:suffer,player:1,room:1,sid:4_dWeTPLmRyIuV7uAABY]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 15793
+
+Rounds 3
+God send 200
+Decision 100 is given out
+P1 is [uname:靛,ugen:woman,udep:法律,uage:suffer,player:1,room:1,sid:4_dWeTPLmRyIuV7uAABY]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 100
+P1 has 300
+P2 has 15893
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:SG1V4NHb72rG_e_TAABa]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 15943
+
+Rounds 1
+God send 150
+Decision 0 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:SG1V4NHb72rG_e_TAABa]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 150
+P2 increase 0
+P1 has 200
+P2 has 15943
+
+Rounds 2
+God send 100
+Decision 50 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:SG1V4NHb72rG_e_TAABa]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 250
+P2 has 15993
+
+Rounds 3
+God send 150
+Decision 0 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:SG1V4NHb72rG_e_TAABa]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 150
+P2 increase 0
+P1 has 400
+P2 has 15993
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:aa,ugen:woman,udep:yi xve,uage:senior,player:1,room:1,sid:2gdthCw-Qnz6huB9AABb]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 16043
+
+Rounds 1
+God send 150
+Decision 50 is given out
+P1 is [uname:aa,ugen:woman,udep:yi xve,uage:senior,player:1,room:1,sid:2gdthCw-Qnz6huB9AABb]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 50
+P1 has 150
+P2 has 16093
+
+Rounds 2
+God send 150
+Decision 75 is given out
+P1 is [uname:aa,ugen:woman,udep:yi xve,uage:senior,player:1,room:1,sid:2gdthCw-Qnz6huB9AABb]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 75
+P2 increase 75
+P1 has 225
+P2 has 16168
+
+Rounds 3
+God send 175
+Decision 175 is given out
+P1 is [uname:aa,ugen:woman,udep:yi xve,uage:senior,player:1,room:1,sid:2gdthCw-Qnz6huB9AABb]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 0
+P2 increase 175
+P1 has 225
+P2 has 16343
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:不合作 <3,ugen:man,udep:MED,uage:suffer,player:1,room:1,sid:31cIJZIgTFyh9w9MAABd]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 16393
+
+Rounds 1
+God send 150
+Decision 60 is given out
+P1 is [uname:不合作 <3,ugen:man,udep:MED,uage:suffer,player:1,room:1,sid:31cIJZIgTFyh9w9MAABd]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 90
+P2 increase 60
+P1 has 140
+P2 has 16453
+
+Rounds 2
+God send 160
+Decision 80 is given out
+P1 is [uname:不合作 <3,ugen:man,udep:MED,uage:suffer,player:1,room:1,sid:31cIJZIgTFyh9w9MAABd]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 80
+P2 increase 80
+P1 has 220
+P2 has 16533
+
+Rounds 3
+God send 180
+Decision 80 is given out
+P1 is [uname:不合作 <3,ugen:man,udep:MED,uage:suffer,player:1,room:1,sid:31cIJZIgTFyh9w9MAABd]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 100
+P2 increase 80
+P1 has 320
+P2 has 16613
+
