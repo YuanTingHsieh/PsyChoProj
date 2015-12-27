@@ -1,0 +1,897 @@
+Option log level is not valid. Please refer to the README.
+server.js - Server has started.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - add new client:sMfMz_hCZ8_8QSGMAAAA
+server.js - clinum is 1
+server.js - Total Room is 1
+server.js - Sending status to room 1 oppo is Dragon
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+client.js - [uname:game_idiot,ugen:man,udep:電機,uage:senior,player:1,room:1,sid:sMfMz_hCZ8_8QSGMAAAA] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+Splitting money, original :100 after : 100 , 0
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+server.js - add new client:EQDN0GspiJCft2OBAAAB
+server.js - clinum is 2
+server.js - Total Room is 2
+server.js - Sending status to room 2 oppo is Nogard
+server.js - Starts game at room 2
+server.js - Round 1 starts...
+client.js - [uname:garylin,ugen:man,udep:心理系,uage:fresh,player:2,room:2,sid:EQDN0GspiJCft2OBAAAB] has login
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js - Received 50 from player 1 of room 1
+Splitting money, original :100 after : 50 , 50
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 3 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Starts game at room 2
+server.js - Round 2 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+Splitting money, original :150 after : 100 , 50
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 4 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js - Received 0 from player 1 of room 1
+Splitting money, original :150 after : 150 , 0
+server.js - Updating room...
+server.js - Ends game at room 1
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+cli len2roomlen2
+cli len2roomlen2
+server.js - removing client:sMfMz_hCZ8_8QSGMAAAA
+checking emp... Not empty
+cli len2roomlen2
+cli len2roomlen2
+client.js - Received 150 from player 2 of room 2
+Splitting money, original :200 after : 50 , 150
+server.js - Updating room...
+server.js - Starts game at room 2
+server.js - Round 3 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+in timeout
+Splitting money, original :250 after : 0 , 250
+server.js - Updating room...
+server.js - Starts game at room 2
+server.js - Round 4 starts...
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+cli len2roomlen2
+client.js - Received 350 from player 2 of room 2
+Splitting money, original :350 after : 0 , 350
+server.js - Updating room...
+server.js - Ends game at room 2
+server.js - Request for /endingsmart received.
+rh.js - Request handler 'endingsmart' was called.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:oFmROcNrTZyjEzDpAAAC
+server.js - clinum is 3
+server.js - Total Room is 3
+server.js - Sending status to room 3 oppo is Nogard
+server.js - Starts game at room 3
+server.js - Round 1 starts...
+client.js - [uname:,ugen:undefined,udep:,uage:undefined,player:3,room:3,sid:oFmROcNrTZyjEzDpAAAC] has login
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+in timeout
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Starts game at room 3
+server.js - Round 2 starts...
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+client.js - Received 0 from player 3 of room 3
+Splitting money, original :200 after : 200 , 0
+server.js - Updating room...
+server.js - Starts game at room 3
+server.js - Round 3 starts...
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+in timeout
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Starts game at room 3
+server.js - Round 4 starts...
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+client.js - Received 0 from player 3 of room 3
+Splitting money, original :200 after : 200 , 0
+server.js - Updating room...
+server.js - Ends game at room 3
+server.js - Request for /endingwinner received.
+rh.js - Request handler 'endingwinner' was called.
+server.js - removing client:oFmROcNrTZyjEzDpAAAC
+checking emp... Not empty
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - removing client:EQDN0GspiJCft2OBAAAB
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:7subSJMyOLPAgm2KAAAD
+server.js - clinum is 1
+server.js - Total Room is 1
+server.js - Sending status to room 1 oppo is Dragon
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+client.js - [uname:,ugen:undefined,udep:,uage:undefined,player:1,room:1,sid:7subSJMyOLPAgm2KAAAD] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+Splitting money, original :100 after : 100 , 0
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js - Received 0 from player 1 of room 1
+Splitting money, original :100 after : 100 , 0
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+Splitting money, original :100 after : 100 , 0
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 4 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js - Received 0 from player 1 of room 1
+Splitting money, original :100 after : 100 , 0
+server.js - Updating room...
+server.js - Ends game at room 1
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+server.js - removing client:7subSJMyOLPAgm2KAAAD
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:T4A9VRloNrdrlWfRAAAE
+server.js - clinum is 1
+server.js - Total Room is 1
+server.js - Sending status to room 1 oppo is Dragon
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+client.js - [uname:Cheng,ugen:man,udep:心理,uage:suffer,player:1,room:1,sid:T4A9VRloNrdrlWfRAAAE] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+Splitting money, original :100 after : 100 , 0
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js - Received 0 from player 1 of room 1
+Splitting money, original :100 after : 100 , 0
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+Splitting money, original :100 after : 100 , 0
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 4 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js - Received 0 from player 1 of room 1
+Splitting money, original :100 after : 100 , 0
+server.js - Updating room...
+server.js - Ends game at room 1
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+server.js - removing client:T4A9VRloNrdrlWfRAAAE
+finish checking... is empty
+server.js - Server is resetting...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:QKazqF_buUL5cDb8AAAF
+server.js - clinum is 1
+server.js - Total Room is 1
+server.js - Sending status to room 1 oppo is Dragon
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+client.js - [uname:喵,ugen:woman,udep:資工系,uage:junior,player:1,room:1,sid:QKazqF_buUL5cDb8AAAF] has login
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+Splitting money, original :100 after : 100 , 0
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js - Received 0 from player 1 of room 1
+Splitting money, original :100 after : 100 , 0
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 3 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+in timeout
+Splitting money, original :100 after : 100 , 0
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 4 starts...
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+cli len1roomlen1
+client.js - Received 100 from player 1 of room 1
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Ends game at room 1
+server.js - Request for /endingloser received.
+rh.js - Request handler 'endingloser' was called.
+server.js - removing client:QKazqF_buUL5cDb8AAAF
+finish checking... is empty
+server.js - Server is resetting...
+server.js - add new client:VDxXlE3uZSqmh_VuAAAG
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:V7xbyuB9WgLDnh3zAAAH
+server.js - clinum is 2
+server.js - Total Room is 1
+server.js - Sending status to room 1 oppo is Nogard
+server.js - Starts game at room 1
+server.js - Round 1 starts...
+client.js - [uname:,ugen:woman,udep:,uage:junior,player:2,room:1,sid:V7xbyuB9WgLDnh3zAAAH] has login
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+in timeout
+Splitting money, original :100 after : 0 , 100
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 2 starts...
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+client.js - Received 200 from player 2 of room 1
+Splitting money, original :200 after : 0 , 200
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 3 starts...
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+in timeout
+Splitting money, original :300 after : 0 , 300
+server.js - Updating room...
+server.js - Starts game at room 1
+server.js - Round 4 starts...
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+cli len2roomlen1
+client.js - Received 0 from player 2 of room 1
+Splitting money, original :400 after : 400 , 0
+server.js - Updating room...
+server.js - Ends game at room 1
+server.js - Request for /endingwinner received.
+rh.js - Request handler 'endingwinner' was called.
+server.js - removing client:V7xbyuB9WgLDnh3zAAAH
+checking emp... Not empty
+server.js - removing client:VDxXlE3uZSqmh_VuAAAG
+
+TypeError: Cannot set property 'valid' of undefined
+    at Object.Server.removeClientByID (/home/YuanTingHsieh/psycho/server.js:87:62)
+    at Object.Client.doDisconnect (/home/YuanTingHsieh/psycho/clientoserver.js:41:22)
+    at Socket.<anonymous> (/home/YuanTingHsieh/psycho/clientoserver.js:30:57)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.emit (/home/YuanTingHsieh/psycho/node_modules/socket.io/lib/socket.js:129:10)
+    at Socket.onclose (/home/YuanTingHsieh/psycho/node_modules/socket.io/lib/socket.js:418:8)
+    at Client.onclose (/home/YuanTingHsieh/psycho/node_modules/socket.io/lib/client.js:230:12)
+    at Socket.EventEmitter.emit (events.js:117:20)
+    at Socket.onClose (/home/YuanTingHsieh/psycho/node_modules/socket.io/node_modules/engine.io/lib/socket.js:248:10)
+    at null.<anonymous> (/home/YuanTingHsieh/psycho/node_modules/socket.io/node_modules/engine.io/lib/socket.js:130:10)

@@ -63,6 +63,10 @@
         {
             console.log("server.js - add new client:"+socket.id);
             this.clients.push(cli.newClient(this,socket));
+            this.rooms.push({"num":this.roomcount,"money":this.startMoney,
+                "valid":true, "rounds":0, "activate":false, "times":this.timeup});
+            this.tHands.push(null);
+            this.tmHands.push(null);
             
         },
         removeClientByID:function(sID)
@@ -133,12 +137,7 @@
             this.clients[this.clients.length-1].roomnum = this.roomcount;
             this.opponents.push(opp.newOpponent(this.clients[this.clients.length-1].playernum));
 
-            this.rooms.push({"num":this.roomcount,"money":this.startMoney,
-                "valid":true, "rounds":0, "activate":false, "times":this.timeup});
-            this.tHands.push(null);
-            this.tmHands.push(null);
-            console.log("server.js - clinum is "+this.clients.length);
-            console.log("server.js - Total Room is "+this.rooms.length);
+            console.log("server.js - Room initing...  "+this.clients[this.clients.length-1].toString());
             this.sendStatus(this.clients[this.clients.length-1],true,this.rooms.length,this.opponents[this.clients.length-1].optname);
         
 
@@ -151,7 +150,7 @@
         sendStatus:function(client, stat, roomnum, opponame)
         {
             client.doGameready(stat, roomnum, opponame);
-            console.log("server.js - Sending status to room "+roomnum+" oppo is "+opponame);
+            console.log("server.js - Sending status to "+client.toString()+" oppo is "+opponame);
             this.startGame(client);
         },
         startGame:function(client)
@@ -162,7 +161,7 @@
                     return;
                 }
                 //this.rooms[client.roomnum-1].rounds++;
-                console.log("server.js - Starts game at room "+client.roomnum);
+                console.log("server.js - Starts game "+client.toString());
                 this.rooms[client.roomnum-1].activate=false;
                 this.startOneRound(client);
         },
@@ -173,7 +172,6 @@
                 nowround = this.rooms[client.roomnum-1].rounds,
                 nowplayer = client.playernum;
             console.log("server.js - Round "+(nowround+1)+" starts...");
-            //console.log("nowplayer in startOneRound is "+nowplayer);
             this.rooms[nowroom-1].times = this.timeup;
             var self = this;
             if(nowround%2===0)
@@ -194,7 +192,6 @@
                 this.clients[nowplayer-1].isYourTurn(true);
             }
             this.tHands[nowroom-1] = setInterval(function(){
-                //console.log("server.js - Interval is running...");
                 //if( (self.rooms[nowroom-1].times<0)  )
 		if (self.clients.length==0)
 		{console.log("Error handled");return;}
@@ -202,20 +199,19 @@
                 {                                            
 			console.log("cli len"+self.clients.length+"roomlen"+self.rooms.length); 
                     self.clients[nowplayer-1].dosendTime(self.rooms[nowroom-1].times);                   
-			console.log("cli len"+self.clients.length+"roomlen"+self.rooms.length); 
                     self.rooms[nowroom-1].times--;
                 }
             },1000)
         },
         endTimeout:function(client)
         {
-            console.log("server.js - client "+client.so.id+" is time out or invalid, shutting down");
+            console.log("server.js - client "+client.toString()+" is time out or invalid, shutting down");
             
             this.removeClientByID(client.so.id);
         },
         endGame:function(client)
         {
-            console.log("server.js - Ends game at room "+client.roomnum);
+            console.log("server.js - Ends game at "+client.toString());
             this.rooms[client.roomnum-1].valid=false;    
             this.clients[client.playernum-1].doEndGame();
                 
@@ -227,7 +223,7 @@
             this.rooms[client.roomnum-1].activate=true; 
             var nowplayer = client.playernum;
             var x = parseInt(this.rooms[client.roomnum-1].money); 
-            console.log("Splitting money, original :"+x+" after : "+(x- m_receive  )+" , "+m_receive);
+            console.log(client.toString()+"Splitting money, original :"+x+" after : "+(x- m_receive  )+" , "+m_receive);
             if (this.rooms[client.roomnum-1].rounds%2 ==1)
             {
                 this.clients[nowplayer-1].doSerToCli(x - m_receive );
@@ -270,7 +266,7 @@
         },
         updateRoom:function(m_receive, client)
         {
-            console.log("server.js - Updating room...");
+            console.log("server.js - Updating room..."+client.toString());
             var roomn = client.roomnum;
             this.rooms[roomn-1].money = this.startMoney+parseInt(m_receive);
             this.rooms[roomn-1].rounds += 1;

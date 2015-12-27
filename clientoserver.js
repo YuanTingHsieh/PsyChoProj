@@ -52,8 +52,6 @@
                 var isExists = false;
                 //this.roomnum = this.srv.roomcount;
                 this.playernum = this.srv.clients.length;
-                //console.log("client.js - Client "+this.user.uname+" has login as player "
-                //    +this.srv.clicount+" in room "+this.srv.roomcount);
                 
                 //通知客戶端;
                 if(!isExists)
@@ -80,7 +78,7 @@
         },
         doClitoSer:function(data)
         {
-            console.log("client.js - Received "+data.val
+            console.log("client.js -"+this.toString()+" Received "+data.val
                 +" from player "+this.playernum+" of room "+(this.roomnum));
             this.srv.roomsplitMoney(data.val, this);
         },
