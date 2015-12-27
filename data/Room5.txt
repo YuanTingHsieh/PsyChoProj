@@ -668,3 +668,103 @@ P2 increase 130
 P1 has 449
 P2 has 709
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:5,room:5,sid:duMf8kgOn7VJiJEdAAAE]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 100 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:5,room:5,sid:duMf8kgOn7VJiJEdAAAE]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 200
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:5,room:5,sid:duMf8kgOn7VJiJEdAAAE]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 100
+P1 has 100
+P2 has 300
+
+Rounds 3
+God send 200
+Decision 150 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:5,room:5,sid:duMf8kgOn7VJiJEdAAAE]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 150
+P1 has 150
+P2 has 450
+
+Rounds 4
+God send 250
+Decision 150 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:5,room:5,sid:duMf8kgOn7VJiJEdAAAE]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 150
+P2 increase 100
+P1 has 300
+P2 has 550
+
+Rounds 5
+God send 250
+Decision 200 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:5,room:5,sid:duMf8kgOn7VJiJEdAAAE]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 200
+P1 has 350
+P2 has 750
+
+Rounds 6
+God send 300
+Decision 200 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:5,room:5,sid:duMf8kgOn7VJiJEdAAAE]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 200
+P2 increase 100
+P1 has 550
+P2 has 850
+
+Rounds 7
+God send 300
+Decision 200 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:5,room:5,sid:duMf8kgOn7VJiJEdAAAE]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 200
+P1 has 650
+P2 has 1050
+
+Rounds 8
+God send 300
+Decision 200 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:5,room:5,sid:duMf8kgOn7VJiJEdAAAE]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 200
+P2 increase 100
+P1 has 850
+P2 has 1150
+
+Rounds 9
+God send 300
+Decision 0 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:5,room:5,sid:duMf8kgOn7VJiJEdAAAE]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 300
+P2 increase 0
+P1 has 1150
+P2 has 1150
+

@@ -198,3 +198,23 @@ P2 increase 150
 P1 has 540
 P2 has 840
 
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:啊啊,ugen:man,udep:醫學系,uage:junior,player:20,room:20,sid:T99qHbJuseHXUq3gAAAT]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 50 is given out
+P1 is [uname:啊啊,ugen:man,udep:醫學系,uage:junior,player:20,room:20,sid:T99qHbJuseHXUq3gAAAT]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 150
+P2 increase 50
+P1 has 250
+P2 has 50
+

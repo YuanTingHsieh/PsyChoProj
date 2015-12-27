@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:魚,ugen:man,udep:,uage:suffer,player:76,room:76,sid:UjGwA0pNgN-CNma7AABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 199 is given out
+P1 is [uname:魚,ugen:man,udep:,uage:suffer,player:76,room:76,sid:UjGwA0pNgN-CNma7AABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 1
+P2 increase 199
+P1 has 101
+P2 has 199
+
+Rounds 2
+God send 299
+Decision 299 is given out
+P1 is [uname:魚,ugen:man,udep:,uage:suffer,player:76,room:76,sid:UjGwA0pNgN-CNma7AABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 299
+P2 increase 0
+P1 has 400
+P2 has 199
+
+Rounds 3
+God send 399
+Decision 398 is given out
+P1 is [uname:魚,ugen:man,udep:,uage:suffer,player:76,room:76,sid:UjGwA0pNgN-CNma7AABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 1
+P2 increase 398
+P1 has 401
+P2 has 597
+
+Rounds 4
+God send 498
+Decision 498 is given out
+P1 is [uname:魚,ugen:man,udep:,uage:suffer,player:76,room:76,sid:UjGwA0pNgN-CNma7AABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 498
+P2 increase 0
+P1 has 899
+P2 has 597
+
+Rounds 5
+God send 598
+Decision 597 is given out
+P1 is [uname:魚,ugen:man,udep:,uage:suffer,player:76,room:76,sid:UjGwA0pNgN-CNma7AABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 1
+P2 increase 597
+P1 has 900
+P2 has 1194
+
+Rounds 6
+God send 697
+Decision 697 is given out
+P1 is [uname:魚,ugen:man,udep:,uage:suffer,player:76,room:76,sid:UjGwA0pNgN-CNma7AABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 697
+P2 increase 0
+P1 has 1597
+P2 has 1194
+
+Rounds 7
+God send 797
+Decision 796 is given out
+P1 is [uname:魚,ugen:man,udep:,uage:suffer,player:76,room:76,sid:UjGwA0pNgN-CNma7AABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 1
+P2 increase 796
+P1 has 1598
+P2 has 1990
+
+Rounds 8
+God send 896
+Decision 896 is given out
+P1 is [uname:魚,ugen:man,udep:,uage:suffer,player:76,room:76,sid:UjGwA0pNgN-CNma7AABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 896
+P2 increase 0
+P1 has 2494
+P2 has 1990
+
+Rounds 9
+God send 996
+Decision 0 is given out
+P1 is [uname:魚,ugen:man,udep:,uage:suffer,player:76,room:76,sid:UjGwA0pNgN-CNma7AABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 996
+P2 increase 0
+P1 has 3490
+P2 has 1990
+

@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:R,ugen:man,udep:醫學系,uage:senior,player:77,room:77,sid:CfWo21EJMcVx-e72AABM]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 50 is given out
+P1 is [uname:R,ugen:man,udep:醫學系,uage:senior,player:77,room:77,sid:CfWo21EJMcVx-e72AABM]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 150
+
+Rounds 2
+God send 150
+Decision 50 is given out
+P1 is [uname:R,ugen:man,udep:醫學系,uage:senior,player:77,room:77,sid:CfWo21EJMcVx-e72AABM]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 250
+
+Rounds 3
+God send 150
+Decision 75 is given out
+P1 is [uname:R,ugen:man,udep:醫學系,uage:senior,player:77,room:77,sid:CfWo21EJMcVx-e72AABM]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 75
+P2 increase 75
+P1 has 175
+P2 has 325
+
+Rounds 4
+God send 175
+Decision 75 is given out
+P1 is [uname:R,ugen:man,udep:醫學系,uage:senior,player:77,room:77,sid:CfWo21EJMcVx-e72AABM]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 75
+P2 increase 100
+P1 has 250
+P2 has 425
+
+Rounds 5
+God send 175
+Decision 125 is given out
+P1 is [uname:R,ugen:man,udep:醫學系,uage:senior,player:77,room:77,sid:CfWo21EJMcVx-e72AABM]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 125
+P1 has 300
+P2 has 550
+
+Rounds 6
+God send 225
+Decision 125 is given out
+P1 is [uname:R,ugen:man,udep:醫學系,uage:senior,player:77,room:77,sid:CfWo21EJMcVx-e72AABM]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 125
+P2 increase 100
+P1 has 425
+P2 has 650
+
+Rounds 7
+God send 225
+Decision 110 is given out
+P1 is [uname:R,ugen:man,udep:醫學系,uage:senior,player:77,room:77,sid:CfWo21EJMcVx-e72AABM]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 115
+P2 increase 110
+P1 has 540
+P2 has 760
+
+Rounds 8
+God send 210
+Decision 110 is given out
+P1 is [uname:R,ugen:man,udep:醫學系,uage:senior,player:77,room:77,sid:CfWo21EJMcVx-e72AABM]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 110
+P2 increase 100
+P1 has 650
+P2 has 860
+
+Rounds 9
+God send 210
+Decision 105 is given out
+P1 is [uname:R,ugen:man,udep:醫學系,uage:senior,player:77,room:77,sid:CfWo21EJMcVx-e72AABM]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 105
+P2 increase 105
+P1 has 755
+P2 has 965
+

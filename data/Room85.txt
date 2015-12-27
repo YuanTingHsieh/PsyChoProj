@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:帥氣A狗孟,ugen:man,udep:政治系公行組,uage:suffer,player:85,room:85,sid:p_cuZuiKe-20lHiyAABU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 50 is given out
+P1 is [uname:帥氣A狗孟,ugen:man,udep:政治系公行組,uage:suffer,player:85,room:85,sid:p_cuZuiKe-20lHiyAABU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 50
+P1 has 150
+P2 has 100
+
+Rounds 2
+God send 150
+Decision 75 is given out
+P1 is [uname:帥氣A狗孟,ugen:man,udep:政治系公行組,uage:suffer,player:85,room:85,sid:p_cuZuiKe-20lHiyAABU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 75
+P1 has 225
+P2 has 175
+
+Rounds 3
+God send 175
+Decision 50 is given out
+P1 is [uname:帥氣A狗孟,ugen:man,udep:政治系公行組,uage:suffer,player:85,room:85,sid:p_cuZuiKe-20lHiyAABU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 125
+P2 increase 50
+P1 has 350
+P2 has 225
+
+Rounds 4
+God send 150
+Decision 75 is given out
+P1 is [uname:帥氣A狗孟,ugen:man,udep:政治系公行組,uage:suffer,player:85,room:85,sid:p_cuZuiKe-20lHiyAABU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 75
+P1 has 425
+P2 has 300
+
+Rounds 5
+God send 175
+Decision 75 is given out
+P1 is [uname:帥氣A狗孟,ugen:man,udep:政治系公行組,uage:suffer,player:85,room:85,sid:p_cuZuiKe-20lHiyAABU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 75
+P1 has 525
+P2 has 375
+
+Rounds 6
+God send 175
+Decision 87 is given out
+P1 is [uname:帥氣A狗孟,ugen:man,udep:政治系公行組,uage:suffer,player:85,room:85,sid:p_cuZuiKe-20lHiyAABU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 87
+P2 increase 88
+P1 has 612
+P2 has 463
+
+Rounds 7
+God send 187
+Decision 87 is given out
+P1 is [uname:帥氣A狗孟,ugen:man,udep:政治系公行組,uage:suffer,player:85,room:85,sid:p_cuZuiKe-20lHiyAABU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 87
+P1 has 712
+P2 has 550
+
+Rounds 8
+God send 187
+Decision 93 is given out
+P1 is [uname:帥氣A狗孟,ugen:man,udep:政治系公行組,uage:suffer,player:85,room:85,sid:p_cuZuiKe-20lHiyAABU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 93
+P2 increase 94
+P1 has 805
+P2 has 644
+
+Rounds 9
+God send 193
+Decision 193 is given out
+P1 is [uname:帥氣A狗孟,ugen:man,udep:政治系公行組,uage:suffer,player:85,room:85,sid:p_cuZuiKe-20lHiyAABU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 0
+P2 increase 193
+P1 has 805
+P2 has 837
+

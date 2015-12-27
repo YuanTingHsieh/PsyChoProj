@@ -198,3 +198,103 @@ P2 increase 150
 P1 has 850
 P2 has 1075
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:Sparklehorse,ugen:man,udep:農化,uage:fresh,player:37,room:37,sid:Qsm9AFvpdoUgzz6bAAAk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 25 is given out
+P1 is [uname:Sparklehorse,ugen:man,udep:農化,uage:fresh,player:37,room:37,sid:Qsm9AFvpdoUgzz6bAAAk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 75
+P2 increase 25
+P1 has 75
+P2 has 125
+
+Rounds 2
+God send 125
+Decision 25 is given out
+P1 is [uname:Sparklehorse,ugen:man,udep:農化,uage:fresh,player:37,room:37,sid:Qsm9AFvpdoUgzz6bAAAk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 25
+P2 increase 100
+P1 has 100
+P2 has 225
+
+Rounds 3
+God send 125
+Decision 25 is given out
+P1 is [uname:Sparklehorse,ugen:man,udep:農化,uage:fresh,player:37,room:37,sid:Qsm9AFvpdoUgzz6bAAAk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 25
+P1 has 200
+P2 has 250
+
+Rounds 4
+God send 125
+Decision 25 is given out
+P1 is [uname:Sparklehorse,ugen:man,udep:農化,uage:fresh,player:37,room:37,sid:Qsm9AFvpdoUgzz6bAAAk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 25
+P2 increase 100
+P1 has 225
+P2 has 350
+
+Rounds 5
+God send 125
+Decision 50 is given out
+P1 is [uname:Sparklehorse,ugen:man,udep:農化,uage:fresh,player:37,room:37,sid:Qsm9AFvpdoUgzz6bAAAk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 75
+P2 increase 50
+P1 has 300
+P2 has 400
+
+Rounds 6
+God send 150
+Decision 50 is given out
+P1 is [uname:Sparklehorse,ugen:man,udep:農化,uage:fresh,player:37,room:37,sid:Qsm9AFvpdoUgzz6bAAAk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 100
+P1 has 350
+P2 has 500
+
+Rounds 7
+God send 150
+Decision 75 is given out
+P1 is [uname:Sparklehorse,ugen:man,udep:農化,uage:fresh,player:37,room:37,sid:Qsm9AFvpdoUgzz6bAAAk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 75
+P2 increase 75
+P1 has 425
+P2 has 575
+
+Rounds 8
+God send 175
+Decision 75 is given out
+P1 is [uname:Sparklehorse,ugen:man,udep:農化,uage:fresh,player:37,room:37,sid:Qsm9AFvpdoUgzz6bAAAk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 75
+P2 increase 100
+P1 has 500
+P2 has 675
+
+Rounds 9
+God send 175
+Decision 75 is given out
+P1 is [uname:Sparklehorse,ugen:man,udep:農化,uage:fresh,player:37,room:37,sid:Qsm9AFvpdoUgzz6bAAAk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 75
+P1 has 600
+P2 has 750
+

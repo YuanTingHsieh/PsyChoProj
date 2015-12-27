@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:lin,ugen:woman,udep:,uage:fresh,player:196,room:196,sid:tCLfjvpPcmgzWRZ5AADD]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 40 is given out
+P1 is [uname:lin,ugen:woman,udep:,uage:fresh,player:196,room:196,sid:tCLfjvpPcmgzWRZ5AADD]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 60
+P2 increase 40
+P1 has 60
+P2 has 140
+
+Rounds 2
+God send 140
+Decision 40 is given out
+P1 is [uname:lin,ugen:woman,udep:,uage:fresh,player:196,room:196,sid:tCLfjvpPcmgzWRZ5AADD]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 40
+P2 increase 100
+P1 has 100
+P2 has 240
+
+Rounds 3
+God send 140
+Decision 20 is given out
+P1 is [uname:lin,ugen:woman,udep:,uage:fresh,player:196,room:196,sid:tCLfjvpPcmgzWRZ5AADD]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 120
+P2 increase 20
+P1 has 220
+P2 has 260
+
+Rounds 4
+God send 120
+Decision 20 is given out
+P1 is [uname:lin,ugen:woman,udep:,uage:fresh,player:196,room:196,sid:tCLfjvpPcmgzWRZ5AADD]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 20
+P2 increase 100
+P1 has 240
+P2 has 360
+
+Rounds 5
+God send 120
+Decision 10 is given out
+P1 is [uname:lin,ugen:woman,udep:,uage:fresh,player:196,room:196,sid:tCLfjvpPcmgzWRZ5AADD]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 110
+P2 increase 10
+P1 has 350
+P2 has 370
+
+Rounds 6
+God send 110
+Decision 10 is given out
+P1 is [uname:lin,ugen:woman,udep:,uage:fresh,player:196,room:196,sid:tCLfjvpPcmgzWRZ5AADD]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 10
+P2 increase 100
+P1 has 360
+P2 has 470
+
+Rounds 7
+God send 110
+Decision 80 is given out
+P1 is [uname:lin,ugen:woman,udep:,uage:fresh,player:196,room:196,sid:tCLfjvpPcmgzWRZ5AADD]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 30
+P2 increase 80
+P1 has 390
+P2 has 550
+
+Rounds 8
+God send 180
+Decision 80 is given out
+P1 is [uname:lin,ugen:woman,udep:,uage:fresh,player:196,room:196,sid:tCLfjvpPcmgzWRZ5AADD]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 80
+P2 increase 100
+P1 has 470
+P2 has 650
+
+Rounds 9
+God send 180
+Decision 80 is given out
+P1 is [uname:lin,ugen:woman,udep:,uage:fresh,player:196,room:196,sid:tCLfjvpPcmgzWRZ5AADD]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 80
+P1 has 570
+P2 has 730
+

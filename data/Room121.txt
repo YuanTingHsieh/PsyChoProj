@@ -1,0 +1,140 @@
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 40 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 60
+P2 increase 40
+P1 has 60
+P2 has 140
+
+Rounds 2
+God send 140
+Decision 40 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 40
+P2 increase 100
+P1 has 100
+P2 has 240
+
+Rounds 3
+God send 140
+Decision 0 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 140
+P2 increase 0
+P1 has 240
+P2 has 240
+
+Rounds 4
+God send 100
+Decision 0 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 240
+P2 has 340
+
+Rounds 5
+God send 100
+Decision 100 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 240
+P2 has 440
+
+Rounds 6
+God send 200
+Decision 100 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 100
+P1 has 340
+P2 has 540
+
+Rounds 7
+God send 200
+Decision 100 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 100
+P1 has 440
+P2 has 640
+
+Rounds 8
+God send 200
+Decision 100 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 100
+P1 has 540
+P2 has 740
+
+Rounds 9
+God send 200
+Decision 0 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 200
+P2 increase 0
+P1 has 740
+P2 has 740
+
+Rounds 10
+God send 100
+Decision 0 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 740
+P2 has 840
+
+Rounds 11
+God send 100
+Decision 0 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 0
+P1 has 840
+P2 has 840
+
+Rounds 12
+God send 100
+Decision 0 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 840
+P2 has 940
+
+Rounds 13
+God send 100
+Decision 0 is given out
+P1 is [uname:勇黑,ugen:man,udep:電資,uage:fresh,player:121,room:121,sid:2wEDkIkutq8wcl2jAAB4]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 0
+P1 has 940
+P2 has 940
+

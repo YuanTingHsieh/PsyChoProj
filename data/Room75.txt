@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:75,room:75,sid:1AWwLlmjjOGNYEHeAABK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 100 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:75,room:75,sid:1AWwLlmjjOGNYEHeAABK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 150
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:75,room:75,sid:1AWwLlmjjOGNYEHeAABK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 250
+
+Rounds 3
+God send 200
+Decision 100 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:75,room:75,sid:1AWwLlmjjOGNYEHeAABK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 300
+P2 has 350
+
+Rounds 4
+God send 200
+Decision 100 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:75,room:75,sid:1AWwLlmjjOGNYEHeAABK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 400
+P2 has 450
+
+Rounds 5
+God send 200
+Decision 159 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:75,room:75,sid:1AWwLlmjjOGNYEHeAABK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 41
+P2 increase 159
+P1 has 441
+P2 has 609
+
+Rounds 6
+God send 259
+Decision 129 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:75,room:75,sid:1AWwLlmjjOGNYEHeAABK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 129
+P2 increase 130
+P1 has 570
+P2 has 739
+
+Rounds 7
+God send 229
+Decision 150 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:75,room:75,sid:1AWwLlmjjOGNYEHeAABK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 79
+P2 increase 150
+P1 has 649
+P2 has 889
+
+Rounds 8
+God send 250
+Decision 125 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:75,room:75,sid:1AWwLlmjjOGNYEHeAABK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 125
+P2 increase 125
+P1 has 774
+P2 has 1014
+
+Rounds 9
+God send 225
+Decision 0 is given out
+P1 is [uname:歌手一號,ugen:man,udep:經濟系,uage:suffer,player:75,room:75,sid:1AWwLlmjjOGNYEHeAABK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 225
+P2 increase 0
+P1 has 999
+P2 has 1014
+

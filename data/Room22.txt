@@ -128,3 +128,103 @@ P2 increase 0
 P1 has 400
 P2 has 1
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:宇,ugen:man,udep:地質系,uage:suffer,player:22,room:22,sid:CSrD-FA0g8Pl8qTBAAAV]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 100 is given out
+P1 is [uname:宇,ugen:man,udep:地質系,uage:suffer,player:22,room:22,sid:CSrD-FA0g8Pl8qTBAAAV]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 150
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:宇,ugen:man,udep:地質系,uage:suffer,player:22,room:22,sid:CSrD-FA0g8Pl8qTBAAAV]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 250
+
+Rounds 3
+God send 200
+Decision 150 is given out
+P1 is [uname:宇,ugen:man,udep:地質系,uage:suffer,player:22,room:22,sid:CSrD-FA0g8Pl8qTBAAAV]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 150
+P1 has 250
+P2 has 400
+
+Rounds 4
+God send 250
+Decision 125 is given out
+P1 is [uname:宇,ugen:man,udep:地質系,uage:suffer,player:22,room:22,sid:CSrD-FA0g8Pl8qTBAAAV]
+P2 is [oppotype:2,name:Kris]
+P1 increase 125
+P2 increase 125
+P1 has 375
+P2 has 525
+
+Rounds 5
+God send 225
+Decision 150 is given out
+P1 is [uname:宇,ugen:man,udep:地質系,uage:suffer,player:22,room:22,sid:CSrD-FA0g8Pl8qTBAAAV]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 150
+P1 has 450
+P2 has 675
+
+Rounds 6
+God send 250
+Decision 125 is given out
+P1 is [uname:宇,ugen:man,udep:地質系,uage:suffer,player:22,room:22,sid:CSrD-FA0g8Pl8qTBAAAV]
+P2 is [oppotype:2,name:Kris]
+P1 increase 125
+P2 increase 125
+P1 has 575
+P2 has 800
+
+Rounds 7
+God send 225
+Decision 125 is given out
+P1 is [uname:宇,ugen:man,udep:地質系,uage:suffer,player:22,room:22,sid:CSrD-FA0g8Pl8qTBAAAV]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 125
+P1 has 675
+P2 has 925
+
+Rounds 8
+God send 225
+Decision 112 is given out
+P1 is [uname:宇,ugen:man,udep:地質系,uage:suffer,player:22,room:22,sid:CSrD-FA0g8Pl8qTBAAAV]
+P2 is [oppotype:2,name:Kris]
+P1 increase 112
+P2 increase 113
+P1 has 787
+P2 has 1038
+
+Rounds 9
+God send 212
+Decision 0 is given out
+P1 is [uname:宇,ugen:man,udep:地質系,uage:suffer,player:22,room:22,sid:CSrD-FA0g8Pl8qTBAAAV]
+P2 is [oppotype:2,name:Kris]
+P1 increase 212
+P2 increase 0
+P1 has 999
+P2 has 1038
+

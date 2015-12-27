@@ -48,3 +48,103 @@ P2 increase 163
 P1 has 337
 P2 has 713
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:芝山金城武,ugen:man,udep:佛學系,uage:senior,player:51,room:51,sid:a3KRLg6SxkQ337mDAAAy]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 49 is given out
+P1 is [uname:芝山金城武,ugen:man,udep:佛學系,uage:senior,player:51,room:51,sid:a3KRLg6SxkQ337mDAAAy]
+P2 is [oppotype:2,name:Kris]
+P1 increase 101
+P2 increase 49
+P1 has 151
+P2 has 99
+
+Rounds 2
+God send 149
+Decision 74 is given out
+P1 is [uname:芝山金城武,ugen:man,udep:佛學系,uage:senior,player:51,room:51,sid:a3KRLg6SxkQ337mDAAAy]
+P2 is [oppotype:2,name:Kris]
+P1 increase 74
+P2 increase 75
+P1 has 225
+P2 has 174
+
+Rounds 3
+God send 174
+Decision 50 is given out
+P1 is [uname:芝山金城武,ugen:man,udep:佛學系,uage:senior,player:51,room:51,sid:a3KRLg6SxkQ337mDAAAy]
+P2 is [oppotype:2,name:Kris]
+P1 increase 124
+P2 increase 50
+P1 has 349
+P2 has 224
+
+Rounds 4
+God send 150
+Decision 75 is given out
+P1 is [uname:芝山金城武,ugen:man,udep:佛學系,uage:senior,player:51,room:51,sid:a3KRLg6SxkQ337mDAAAy]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 75
+P1 has 424
+P2 has 299
+
+Rounds 5
+God send 175
+Decision 75 is given out
+P1 is [uname:芝山金城武,ugen:man,udep:佛學系,uage:senior,player:51,room:51,sid:a3KRLg6SxkQ337mDAAAy]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 75
+P1 has 524
+P2 has 374
+
+Rounds 6
+God send 175
+Decision 87 is given out
+P1 is [uname:芝山金城武,ugen:man,udep:佛學系,uage:senior,player:51,room:51,sid:a3KRLg6SxkQ337mDAAAy]
+P2 is [oppotype:2,name:Kris]
+P1 increase 87
+P2 increase 88
+P1 has 611
+P2 has 462
+
+Rounds 7
+God send 187
+Decision 60 is given out
+P1 is [uname:芝山金城武,ugen:man,udep:佛學系,uage:senior,player:51,room:51,sid:a3KRLg6SxkQ337mDAAAy]
+P2 is [oppotype:2,name:Kris]
+P1 increase 127
+P2 increase 60
+P1 has 738
+P2 has 522
+
+Rounds 8
+God send 160
+Decision 80 is given out
+P1 is [uname:芝山金城武,ugen:man,udep:佛學系,uage:senior,player:51,room:51,sid:a3KRLg6SxkQ337mDAAAy]
+P2 is [oppotype:2,name:Kris]
+P1 increase 80
+P2 increase 80
+P1 has 818
+P2 has 602
+
+Rounds 9
+God send 180
+Decision 60 is given out
+P1 is [uname:芝山金城武,ugen:man,udep:佛學系,uage:senior,player:51,room:51,sid:a3KRLg6SxkQ337mDAAAy]
+P2 is [oppotype:2,name:Kris]
+P1 increase 120
+P2 increase 60
+P1 has 938
+P2 has 662
+

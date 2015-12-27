@@ -1,0 +1,30 @@
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:Io ,ugen:man,udep:Pp,uage:junior,player:107,room:107,sid:o68Ulln7euaITvSzAABq]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 200 is given out
+P1 is [uname:Io ,ugen:man,udep:Pp,uage:junior,player:107,room:107,sid:o68Ulln7euaITvSzAABq]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 0
+P2 increase 200
+P1 has 100
+P2 has 200
+
+Rounds 2
+God send 300
+Decision 300 is given out
+P1 is [uname:Io ,ugen:man,udep:Pp,uage:junior,player:107,room:107,sid:o68Ulln7euaITvSzAABq]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 300
+P2 increase 0
+P1 has 400
+P2 has 200
+

@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:ㄧㄌ,ugen:woman,udep:法律,uage:suffer,player:100,room:100,sid:nr-BrHganE4kj3AxAABj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 150 is given out
+P1 is [uname:ㄧㄌ,ugen:woman,udep:法律,uage:suffer,player:100,room:100,sid:nr-BrHganE4kj3AxAABj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 50
+P2 increase 150
+P1 has 150
+P2 has 150
+
+Rounds 2
+God send 250
+Decision 250 is given out
+P1 is [uname:ㄧㄌ,ugen:woman,udep:法律,uage:suffer,player:100,room:100,sid:nr-BrHganE4kj3AxAABj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 250
+P2 increase 0
+P1 has 400
+P2 has 150
+
+Rounds 3
+God send 350
+Decision 300 is given out
+P1 is [uname:ㄧㄌ,ugen:woman,udep:法律,uage:suffer,player:100,room:100,sid:nr-BrHganE4kj3AxAABj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 50
+P2 increase 300
+P1 has 450
+P2 has 450
+
+Rounds 4
+God send 400
+Decision 400 is given out
+P1 is [uname:ㄧㄌ,ugen:woman,udep:法律,uage:suffer,player:100,room:100,sid:nr-BrHganE4kj3AxAABj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 400
+P2 increase 0
+P1 has 850
+P2 has 450
+
+Rounds 5
+God send 500
+Decision 400 is given out
+P1 is [uname:ㄧㄌ,ugen:woman,udep:法律,uage:suffer,player:100,room:100,sid:nr-BrHganE4kj3AxAABj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 400
+P1 has 950
+P2 has 850
+
+Rounds 6
+God send 500
+Decision 500 is given out
+P1 is [uname:ㄧㄌ,ugen:woman,udep:法律,uage:suffer,player:100,room:100,sid:nr-BrHganE4kj3AxAABj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 500
+P2 increase 0
+P1 has 1450
+P2 has 850
+
+Rounds 7
+God send 600
+Decision 550 is given out
+P1 is [uname:ㄧㄌ,ugen:woman,udep:法律,uage:suffer,player:100,room:100,sid:nr-BrHganE4kj3AxAABj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 50
+P2 increase 550
+P1 has 1500
+P2 has 1400
+
+Rounds 8
+God send 650
+Decision 650 is given out
+P1 is [uname:ㄧㄌ,ugen:woman,udep:法律,uage:suffer,player:100,room:100,sid:nr-BrHganE4kj3AxAABj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 650
+P2 increase 0
+P1 has 2150
+P2 has 1400
+
+Rounds 9
+God send 750
+Decision 700 is given out
+P1 is [uname:ㄧㄌ,ugen:woman,udep:法律,uage:suffer,player:100,room:100,sid:nr-BrHganE4kj3AxAABj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 50
+P2 increase 700
+P1 has 2200
+P2 has 2100
+

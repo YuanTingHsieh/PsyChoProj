@@ -1,0 +1,110 @@
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:東,ugen:woman,udep:農化,uage:senior,player:229,room:229,sid:_F36XBI9DnmTDmWpAADk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 50 is given out
+P1 is [uname:東,ugen:woman,udep:農化,uage:senior,player:229,room:229,sid:_F36XBI9DnmTDmWpAADk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 150
+
+Rounds 2
+God send 150
+Decision 50 is given out
+P1 is [uname:東,ugen:woman,udep:農化,uage:senior,player:229,room:229,sid:_F36XBI9DnmTDmWpAADk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 250
+
+Rounds 3
+God send 150
+Decision 100 is given out
+P1 is [uname:東,ugen:woman,udep:農化,uage:senior,player:229,room:229,sid:_F36XBI9DnmTDmWpAADk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 100
+P1 has 150
+P2 has 350
+
+Rounds 4
+God send 200
+Decision 100 is given out
+P1 is [uname:東,ugen:woman,udep:農化,uage:senior,player:229,room:229,sid:_F36XBI9DnmTDmWpAADk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 100
+P1 has 250
+P2 has 450
+
+Rounds 5
+God send 200
+Decision 150 is given out
+P1 is [uname:東,ugen:woman,udep:農化,uage:senior,player:229,room:229,sid:_F36XBI9DnmTDmWpAADk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 150
+P1 has 300
+P2 has 600
+
+Rounds 6
+God send 250
+Decision 150 is given out
+P1 is [uname:東,ugen:woman,udep:農化,uage:senior,player:229,room:229,sid:_F36XBI9DnmTDmWpAADk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 150
+P2 increase 100
+P1 has 450
+P2 has 700
+
+Rounds 7
+God send 250
+Decision 50 is given out
+P1 is [uname:東,ugen:woman,udep:農化,uage:senior,player:229,room:229,sid:_F36XBI9DnmTDmWpAADk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 200
+P2 increase 50
+P1 has 650
+P2 has 750
+
+Rounds 8
+God send 150
+Decision 50 is given out
+P1 is [uname:東,ugen:woman,udep:農化,uage:senior,player:229,room:229,sid:_F36XBI9DnmTDmWpAADk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 100
+P1 has 700
+P2 has 850
+
+Rounds 9
+God send 150
+Decision 150 is given out
+P1 is [uname:東,ugen:woman,udep:農化,uage:senior,player:229,room:229,sid:_F36XBI9DnmTDmWpAADk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 150
+P1 has 700
+P2 has 1000
+
+Rounds 10
+God send 250
+Decision 150 is given out
+P1 is [uname:東,ugen:woman,udep:農化,uage:senior,player:229,room:229,sid:_F36XBI9DnmTDmWpAADk]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 150
+P2 increase 100
+P1 has 850
+P2 has 1100
+

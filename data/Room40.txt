@@ -98,3 +98,103 @@ P2 increase 150
 P1 has 750
 P2 has 1050
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:jimzy,ugen:man,udep:哲學系,uage:suffer,player:40,room:40,sid:wVMshlQ8N_qoleKZAAAn]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:jimzy,ugen:man,udep:哲學系,uage:suffer,player:40,room:40,sid:wVMshlQ8N_qoleKZAAAn]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 125
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:jimzy,ugen:man,udep:哲學系,uage:suffer,player:40,room:40,sid:wVMshlQ8N_qoleKZAAAn]
+P2 is [oppotype:2,name:Kris]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 213
+
+Rounds 3
+God send 187
+Decision 93 is given out
+P1 is [uname:jimzy,ugen:man,udep:哲學系,uage:suffer,player:40,room:40,sid:wVMshlQ8N_qoleKZAAAn]
+P2 is [oppotype:2,name:Kris]
+P1 increase 94
+P2 increase 93
+P1 has 306
+P2 has 306
+
+Rounds 4
+God send 193
+Decision 96 is given out
+P1 is [uname:jimzy,ugen:man,udep:哲學系,uage:suffer,player:40,room:40,sid:wVMshlQ8N_qoleKZAAAn]
+P2 is [oppotype:2,name:Kris]
+P1 increase 96
+P2 increase 97
+P1 has 402
+P2 has 403
+
+Rounds 5
+God send 196
+Decision 196 is given out
+P1 is [uname:jimzy,ugen:man,udep:哲學系,uage:suffer,player:40,room:40,sid:wVMshlQ8N_qoleKZAAAn]
+P2 is [oppotype:2,name:Kris]
+P1 increase 0
+P2 increase 196
+P1 has 402
+P2 has 599
+
+Rounds 6
+God send 296
+Decision 148 is given out
+P1 is [uname:jimzy,ugen:man,udep:哲學系,uage:suffer,player:40,room:40,sid:wVMshlQ8N_qoleKZAAAn]
+P2 is [oppotype:2,name:Kris]
+P1 increase 148
+P2 increase 148
+P1 has 550
+P2 has 747
+
+Rounds 7
+God send 248
+Decision 248 is given out
+P1 is [uname:jimzy,ugen:man,udep:哲學系,uage:suffer,player:40,room:40,sid:wVMshlQ8N_qoleKZAAAn]
+P2 is [oppotype:2,name:Kris]
+P1 increase 0
+P2 increase 248
+P1 has 550
+P2 has 995
+
+Rounds 8
+God send 348
+Decision 174 is given out
+P1 is [uname:jimzy,ugen:man,udep:哲學系,uage:suffer,player:40,room:40,sid:wVMshlQ8N_qoleKZAAAn]
+P2 is [oppotype:2,name:Kris]
+P1 increase 174
+P2 increase 174
+P1 has 724
+P2 has 1169
+
+Rounds 9
+God send 274
+Decision 274 is given out
+P1 is [uname:jimzy,ugen:man,udep:哲學系,uage:suffer,player:40,room:40,sid:wVMshlQ8N_qoleKZAAAn]
+P2 is [oppotype:2,name:Kris]
+P1 increase 0
+P2 increase 274
+P1 has 724
+P2 has 1443
+

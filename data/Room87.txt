@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:ryan,ugen:man,udep:醫學系,uage:fresh,player:87,room:87,sid:Ov9mmyThvw5JTXn5AABW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 30 is given out
+P1 is [uname:ryan,ugen:man,udep:醫學系,uage:fresh,player:87,room:87,sid:Ov9mmyThvw5JTXn5AABW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 120
+P2 increase 30
+P1 has 170
+P2 has 80
+
+Rounds 2
+God send 130
+Decision 65 is given out
+P1 is [uname:ryan,ugen:man,udep:醫學系,uage:fresh,player:87,room:87,sid:Ov9mmyThvw5JTXn5AABW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 65
+P2 increase 65
+P1 has 235
+P2 has 145
+
+Rounds 3
+God send 165
+Decision 65 is given out
+P1 is [uname:ryan,ugen:man,udep:醫學系,uage:fresh,player:87,room:87,sid:Ov9mmyThvw5JTXn5AABW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 65
+P1 has 335
+P2 has 210
+
+Rounds 4
+God send 165
+Decision 82 is given out
+P1 is [uname:ryan,ugen:man,udep:醫學系,uage:fresh,player:87,room:87,sid:Ov9mmyThvw5JTXn5AABW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 82
+P2 increase 83
+P1 has 417
+P2 has 293
+
+Rounds 5
+God send 182
+Decision 100 is given out
+P1 is [uname:ryan,ugen:man,udep:醫學系,uage:fresh,player:87,room:87,sid:Ov9mmyThvw5JTXn5AABW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 82
+P2 increase 100
+P1 has 499
+P2 has 393
+
+Rounds 6
+God send 200
+Decision 100 is given out
+P1 is [uname:ryan,ugen:man,udep:醫學系,uage:fresh,player:87,room:87,sid:Ov9mmyThvw5JTXn5AABW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 599
+P2 has 493
+
+Rounds 7
+God send 200
+Decision 200 is given out
+P1 is [uname:ryan,ugen:man,udep:醫學系,uage:fresh,player:87,room:87,sid:Ov9mmyThvw5JTXn5AABW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 0
+P2 increase 200
+P1 has 599
+P2 has 693
+
+Rounds 8
+God send 300
+Decision 150 is given out
+P1 is [uname:ryan,ugen:man,udep:醫學系,uage:fresh,player:87,room:87,sid:Ov9mmyThvw5JTXn5AABW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 150
+P2 increase 150
+P1 has 749
+P2 has 843
+
+Rounds 9
+God send 250
+Decision 175 is given out
+P1 is [uname:ryan,ugen:man,udep:醫學系,uage:fresh,player:87,room:87,sid:Ov9mmyThvw5JTXn5AABW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 175
+P1 has 824
+P2 has 1018
+

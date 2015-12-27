@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:君君,ugen:man,udep:獸醫,uage:fresh,player:171,room:171,sid:2Mblh3BTPlPDScjEAACq]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 150 is given out
+P1 is [uname:君君,ugen:man,udep:獸醫,uage:fresh,player:171,room:171,sid:2Mblh3BTPlPDScjEAACq]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 50
+P2 increase 150
+P1 has 150
+P2 has 150
+
+Rounds 2
+God send 250
+Decision 250 is given out
+P1 is [uname:君君,ugen:man,udep:獸醫,uage:fresh,player:171,room:171,sid:2Mblh3BTPlPDScjEAACq]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 250
+P2 increase 0
+P1 has 400
+P2 has 150
+
+Rounds 3
+God send 350
+Decision 200 is given out
+P1 is [uname:君君,ugen:man,udep:獸醫,uage:fresh,player:171,room:171,sid:2Mblh3BTPlPDScjEAACq]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 150
+P2 increase 200
+P1 has 550
+P2 has 350
+
+Rounds 4
+God send 300
+Decision 300 is given out
+P1 is [uname:君君,ugen:man,udep:獸醫,uage:fresh,player:171,room:171,sid:2Mblh3BTPlPDScjEAACq]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 300
+P2 increase 0
+P1 has 850
+P2 has 350
+
+Rounds 5
+God send 400
+Decision 200 is given out
+P1 is [uname:君君,ugen:man,udep:獸醫,uage:fresh,player:171,room:171,sid:2Mblh3BTPlPDScjEAACq]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 200
+P1 has 1050
+P2 has 550
+
+Rounds 6
+God send 300
+Decision 300 is given out
+P1 is [uname:君君,ugen:man,udep:獸醫,uage:fresh,player:171,room:171,sid:2Mblh3BTPlPDScjEAACq]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 300
+P2 increase 0
+P1 has 1350
+P2 has 550
+
+Rounds 7
+God send 400
+Decision 250 is given out
+P1 is [uname:君君,ugen:man,udep:獸醫,uage:fresh,player:171,room:171,sid:2Mblh3BTPlPDScjEAACq]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 150
+P2 increase 250
+P1 has 1500
+P2 has 800
+
+Rounds 8
+God send 350
+Decision 350 is given out
+P1 is [uname:君君,ugen:man,udep:獸醫,uage:fresh,player:171,room:171,sid:2Mblh3BTPlPDScjEAACq]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 350
+P2 increase 0
+P1 has 1850
+P2 has 800
+
+Rounds 9
+God send 450
+Decision 400 is given out
+P1 is [uname:君君,ugen:man,udep:獸醫,uage:fresh,player:171,room:171,sid:2Mblh3BTPlPDScjEAACq]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 50
+P2 increase 400
+P1 has 1900
+P2 has 1200
+

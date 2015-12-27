@@ -1,0 +1,10 @@
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:K,ugen:woman,udep:社會系,uage:junior,player:147,room:147,sid:tHPxDFhSgcernf4JAACS]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
