@@ -1,0 +1,10 @@
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:~~~,ugen:man,udep:化工,uage:suffer,player:8,room:8,sid:_HqdSNE8MW7VueIuAAAO]
+P2 is [oppotype:2,name:Kris,playwith:1]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+

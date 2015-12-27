@@ -1,0 +1,106 @@
+Option log level is not valid. Please refer to the README.
+server.js - Server has started.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /favicon.ico received.
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+server.js - add new client:iIK2qY4ziL1zEUwvAAAA
+client.js - [uname:我真帥,ugen:man,udep:國企,uage:undefined,player:1,room:0,sid:iIK2qY4ziL1zEUwvAAAA] has login
+server.js - Room initing...  [uname:我真帥,ugen:man,udep:國企,uage:undefined,player:1,room:1,sid:iIK2qY4ziL1zEUwvAAAA]
+server.js - Sending status to [uname:我真帥,ugen:man,udep:國企,uage:undefined,player:1,room:1,sid:iIK2qY4ziL1zEUwvAAAA] oppo is Nogard
+server.js - Starts game [uname:我真帥,ugen:man,udep:國企,uage:undefined,player:1,room:1,sid:iIK2qY4ziL1zEUwvAAAA]
+server.js - Round 1 starts...
+cli len1roomlen1
+server.js - add new client:Q_3MUPxfmuX2izmrAAAB
+server.js - add new client:siKl2QZ6ZIvZh-19AAAC
+client.js - [uname:paul,ugen:man,udep:電機所,uage:suffer,player:3,room:0,sid:Q_3MUPxfmuX2izmrAAAB] has login
+server.js - Room initing...  [uname:paul,ugen:man,udep:電機所,uage:suffer,player:3,room:3,sid:Q_3MUPxfmuX2izmrAAAB]
+Missing error handler on `socket`.
+TypeError: Cannot read property 'optname' of undefined
+    at Object.Server.roomInit (/home/YuanTingHsieh/psycho/server.js:143:96)
+    at Object.Client.doLogin (/home/YuanTingHsieh/psycho/clientoserver.js:62:30)
+    at Socket.<anonymous> (/home/YuanTingHsieh/psycho/clientoserver.js:32:59)
+    at Socket.EventEmitter.emit (events.js:98:17)
+    at Socket.onevent (/home/YuanTingHsieh/psycho/node_modules/socket.io/lib/socket.js:330:8)
+    at Socket.onpacket (/home/YuanTingHsieh/psycho/node_modules/socket.io/lib/socket.js:290:12)
+    at Client.ondecoded (/home/YuanTingHsieh/psycho/node_modules/socket.io/lib/client.js:193:14)
+    at Decoder.Emitter.emit (/home/YuanTingHsieh/psycho/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)
+    at Decoder.add (/home/YuanTingHsieh/psycho/node_modules/socket.io/node_modules/socket.io-parser/index.js:247:12)
+    at Client.ondata (/home/YuanTingHsieh/psycho/node_modules/socket.io/lib/client.js:175:18)
+server.js - removing client:Q_3MUPxfmuX2izmrAAAB
+checking emp... Not empty
+cli len3roomlen3
+client.js - [uname:TTT,ugen:undefined,udep:,uage:undefined,player:3,room:0,sid:siKl2QZ6ZIvZh-19AAAC] has login
+server.js - Room initing...  [uname:TTT,ugen:undefined,udep:,uage:undefined,player:3,room:3,sid:siKl2QZ6ZIvZh-19AAAC]
+server.js - Sending status to [uname:TTT,ugen:undefined,udep:,uage:undefined,player:3,room:3,sid:siKl2QZ6ZIvZh-19AAAC] oppo is Dragon
+server.js - Starts game [uname:TTT,ugen:undefined,udep:,uage:undefined,player:3,room:3,sid:siKl2QZ6ZIvZh-19AAAC]
+server.js - Round 1 starts...
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+server.js - Request for /favicon.ico received.
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+in timeout
+[uname:我真帥,ugen:man,udep:國企,uage:undefined,player:1,room:1,sid:iIK2qY4ziL1zEUwvAAAA]Splitting money, original :100 after : 0 , 100
+server.js - Updating room...[uname:我真帥,ugen:man,udep:國企,uage:undefined,player:1,room:1,sid:iIK2qY4ziL1zEUwvAAAA]
+server.js - Starts game [uname:我真帥,ugen:man,udep:國企,uage:undefined,player:1,room:1,sid:iIK2qY4ziL1zEUwvAAAA]
+server.js - Round 2 starts...
+cli len3roomlen3
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+in timeout
+cli len3roomlen3
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+server.js - Request for /favicon.ico received.
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+server.js - Request for /favicon.ico received.
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+server.js - Request for /game received.
+rh.js - Request handler 'game' was called.
+cli len3roomlen3
+cli len3roomlen3
+server.js - Request for / received.
+rh.js - Request handler 'start' was called.
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+cli len3roomlen3
+server.js - removing client:siKl2QZ6ZIvZh-19AAAC
+checking emp... Not empty
+cli len3roomlen3
+cli len3roomlen3

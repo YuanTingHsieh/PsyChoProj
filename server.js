@@ -132,13 +132,15 @@
             this.tmHands = [];
             
         },
-        roomInit:function()
-        {        
-            this.clients[this.clients.length-1].roomnum = this.roomcount;
-            this.opponents.push(opp.newOpponent(this.clients[this.clients.length-1].playernum));
+        roomInit:function(client)
+        {       
+		if (client.playernum ==0) 
+		{this.sendMessage(client,"Sorry, something goes wrong, please reconnect.");return;}
+            client.roomnum = this.rooms.length;
+            this.opponents.push(opp.newOpponent(client.playernum));
 
-            console.log("server.js - Room initing...  "+this.clients[this.clients.length-1].toString());
-            this.sendStatus(this.clients[this.clients.length-1],true,this.rooms.length,this.opponents[this.clients.length-1].optname);
+            console.log("server.js - Room initing...  "+client.toString());
+            this.sendStatus(client,true,this.rooms.length,this.opponents[this.clients.length-1].optname);
         
 
         },
@@ -184,7 +186,7 @@
                             self.roomsplitMoney(self.opponents[nowplayer-1].decMon(nowround,self.rooms[nowroom-1].money),self.clients[nowplayer-1])
                     }
 			else{return;}
-                },12000)
+                },10000)
                 
             }
             else
@@ -197,9 +199,13 @@
 		{console.log("Error handled");return;}
 		else
                 {                                            
-			console.log("cli len"+self.clients.length+"roomlen"+self.rooms.length); 
-                    self.clients[nowplayer-1].dosendTime(self.rooms[nowroom-1].times);                   
-                    self.rooms[nowroom-1].times--;
+			console.log("cli len"+self.clients.length+"roomlen"+self.rooms.length);
+			if(self.clients[nowplayer-1]!="") 
+                    {self.clients[nowplayer-1].dosendTime(self.rooms[nowroom-1].times);                   }
+			else{return;}
+			if(self.rooms.length!=0)
+                   { self.rooms[nowroom-1].times--;}
+			else{return;}
                 }
             },1000)
         },

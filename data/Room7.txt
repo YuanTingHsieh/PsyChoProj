@@ -78,3 +78,143 @@ P2 increase 400
 P1 has 400
 P2 has 600
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:維尼,ugen:man,udep:輪機工程學系,uage:fresh,player:7,room:7,sid:bwcGo9xaDa9lhjg9AAAG]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 0 is given out
+P1 is [uname:維尼,ugen:man,udep:輪機工程學系,uage:fresh,player:7,room:7,sid:bwcGo9xaDa9lhjg9AAAG]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 100
+
+Rounds 2
+God send 100
+Decision 0 is given out
+P1 is [uname:維尼,ugen:man,udep:輪機工程學系,uage:fresh,player:7,room:7,sid:bwcGo9xaDa9lhjg9AAAG]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 0
+P2 increase 100
+P1 has 100
+P2 has 200
+
+Rounds 3
+God send 100
+Decision 0 is given out
+P1 is [uname:維尼,ugen:man,udep:輪機工程學系,uage:fresh,player:7,room:7,sid:bwcGo9xaDa9lhjg9AAAG]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 100
+P2 increase 0
+P1 has 200
+P2 has 200
+
+Rounds 4
+God send 100
+Decision 0 is given out
+P1 is [uname:維尼,ugen:man,udep:輪機工程學系,uage:fresh,player:7,room:7,sid:bwcGo9xaDa9lhjg9AAAG]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 0
+P2 increase 100
+P1 has 200
+P2 has 300
+
+Rounds 5
+God send 100
+Decision 0 is given out
+P1 is [uname:維尼,ugen:man,udep:輪機工程學系,uage:fresh,player:7,room:7,sid:bwcGo9xaDa9lhjg9AAAG]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 100
+P2 increase 0
+P1 has 300
+P2 has 300
+
+Rounds 6
+God send 100
+Decision 0 is given out
+P1 is [uname:維尼,ugen:man,udep:輪機工程學系,uage:fresh,player:7,room:7,sid:bwcGo9xaDa9lhjg9AAAG]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 0
+P2 increase 100
+P1 has 300
+P2 has 400
+
+Rounds 7
+God send 100
+Decision 0 is given out
+P1 is [uname:維尼,ugen:man,udep:輪機工程學系,uage:fresh,player:7,room:7,sid:bwcGo9xaDa9lhjg9AAAG]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 100
+P2 increase 0
+P1 has 400
+P2 has 400
+
+Rounds 8
+God send 100
+Decision 0 is given out
+P1 is [uname:維尼,ugen:man,udep:輪機工程學系,uage:fresh,player:7,room:7,sid:bwcGo9xaDa9lhjg9AAAG]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 0
+P2 increase 100
+P1 has 400
+P2 has 500
+
+Rounds 9
+God send 100
+Decision 100 is given out
+P1 is [uname:維尼,ugen:man,udep:輪機工程學系,uage:fresh,player:7,room:7,sid:bwcGo9xaDa9lhjg9AAAG]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 0
+P2 increase 100
+P1 has 400
+P2 has 600
+
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:QAQloserQAQ,ugen:man,udep:法律,uage:suffer,player:7,room:7,sid:tNme2FcvOckQ9h14AAAN]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 600
+
+Rounds 1
+God send 200
+Decision 101 is given out
+P1 is [uname:QAQloserQAQ,ugen:man,udep:法律,uage:suffer,player:7,room:7,sid:tNme2FcvOckQ9h14AAAN]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 99
+P2 increase 101
+P1 has 199
+P2 has 701
+
+Rounds 2
+God send 201
+Decision 101 is given out
+P1 is [uname:QAQloserQAQ,ugen:man,udep:法律,uage:suffer,player:7,room:7,sid:tNme2FcvOckQ9h14AAAN]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 101
+P2 increase 100
+P1 has 300
+P2 has 801
+
+Rounds 3
+God send 201
+Decision 101 is given out
+P1 is [uname:QAQloserQAQ,ugen:man,udep:法律,uage:suffer,player:7,room:7,sid:tNme2FcvOckQ9h14AAAN]
+P2 is [oppotype:0,name:Dragon,playwith:7]
+P1 increase 100
+P2 increase 101
+P1 has 400
+P2 has 902
+

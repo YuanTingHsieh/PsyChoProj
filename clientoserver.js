@@ -52,14 +52,14 @@
                 var isExists = false;
                 //this.roomnum = this.srv.roomcount;
                 this.playernum = this.srv.clients.length;
-                
+                var self =this; 
                 //通知客戶端;
                 if(!isExists)
                 {
                     //callback to be 0
                     fn(0);
-                    this.srv.roomInit();
                     console.log("client.js - "+this.toString()+" has login");           
+                    this.srv.roomInit(self);
                 }
                 else 
                 {               
