@@ -98,3 +98,103 @@ P2 increase 150
 P1 has 650
 P2 has 950
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:123,ugen:woman,udep:000,uage:junior,player:123,room:123,sid:6dXpdGZX-WC74vzdAAB6]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 0 is given out
+P1 is [uname:123,ugen:woman,udep:000,uage:junior,player:123,room:123,sid:6dXpdGZX-WC74vzdAAB6]
+P2 is [oppotype:2,name:Kris]
+P1 increase 150
+P2 increase 0
+P1 has 200
+P2 has 50
+
+Rounds 2
+God send 100
+Decision 50 is given out
+P1 is [uname:123,ugen:woman,udep:000,uage:junior,player:123,room:123,sid:6dXpdGZX-WC74vzdAAB6]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 250
+P2 has 100
+
+Rounds 3
+God send 150
+Decision 0 is given out
+P1 is [uname:123,ugen:woman,udep:000,uage:junior,player:123,room:123,sid:6dXpdGZX-WC74vzdAAB6]
+P2 is [oppotype:2,name:Kris]
+P1 increase 150
+P2 increase 0
+P1 has 400
+P2 has 100
+
+Rounds 4
+God send 100
+Decision 50 is given out
+P1 is [uname:123,ugen:woman,udep:000,uage:junior,player:123,room:123,sid:6dXpdGZX-WC74vzdAAB6]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 450
+P2 has 150
+
+Rounds 5
+God send 150
+Decision 0 is given out
+P1 is [uname:123,ugen:woman,udep:000,uage:junior,player:123,room:123,sid:6dXpdGZX-WC74vzdAAB6]
+P2 is [oppotype:2,name:Kris]
+P1 increase 150
+P2 increase 0
+P1 has 600
+P2 has 150
+
+Rounds 6
+God send 100
+Decision 50 is given out
+P1 is [uname:123,ugen:woman,udep:000,uage:junior,player:123,room:123,sid:6dXpdGZX-WC74vzdAAB6]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 650
+P2 has 200
+
+Rounds 7
+God send 150
+Decision 0 is given out
+P1 is [uname:123,ugen:woman,udep:000,uage:junior,player:123,room:123,sid:6dXpdGZX-WC74vzdAAB6]
+P2 is [oppotype:2,name:Kris]
+P1 increase 150
+P2 increase 0
+P1 has 800
+P2 has 200
+
+Rounds 8
+God send 100
+Decision 50 is given out
+P1 is [uname:123,ugen:woman,udep:000,uage:junior,player:123,room:123,sid:6dXpdGZX-WC74vzdAAB6]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 850
+P2 has 250
+
+Rounds 9
+God send 150
+Decision 0 is given out
+P1 is [uname:123,ugen:woman,udep:000,uage:junior,player:123,room:123,sid:6dXpdGZX-WC74vzdAAB6]
+P2 is [oppotype:2,name:Kris]
+P1 increase 150
+P2 increase 0
+P1 has 1000
+P2 has 250
+

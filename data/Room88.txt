@@ -98,3 +98,13 @@ P2 increase 0
 P1 has 1000
 P2 has 1075
 
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:風,ugen:man,udep:電機系,uage:fresh,player:88,room:88,sid:GnSs3olz-qkW2svsAABX]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+

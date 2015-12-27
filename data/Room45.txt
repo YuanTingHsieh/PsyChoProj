@@ -198,3 +198,103 @@ P2 increase 0
 P1 has 900
 P2 has 900
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:45,room:45,sid:s40gX4Drxl7mLk6UAAAs]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 80 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:45,room:45,sid:s40gX4Drxl7mLk6UAAAs]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 20
+P2 increase 80
+P1 has 20
+P2 has 180
+
+Rounds 2
+God send 180
+Decision 80 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:45,room:45,sid:s40gX4Drxl7mLk6UAAAs]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 80
+P2 increase 100
+P1 has 100
+P2 has 280
+
+Rounds 3
+God send 180
+Decision 90 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:45,room:45,sid:s40gX4Drxl7mLk6UAAAs]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 90
+P2 increase 90
+P1 has 190
+P2 has 370
+
+Rounds 4
+God send 190
+Decision 90 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:45,room:45,sid:s40gX4Drxl7mLk6UAAAs]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 90
+P2 increase 100
+P1 has 280
+P2 has 470
+
+Rounds 5
+God send 190
+Decision 190 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:45,room:45,sid:s40gX4Drxl7mLk6UAAAs]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 190
+P1 has 280
+P2 has 660
+
+Rounds 6
+God send 290
+Decision 190 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:45,room:45,sid:s40gX4Drxl7mLk6UAAAs]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 190
+P2 increase 100
+P1 has 470
+P2 has 760
+
+Rounds 7
+God send 290
+Decision 290 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:45,room:45,sid:s40gX4Drxl7mLk6UAAAs]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 290
+P1 has 470
+P2 has 1050
+
+Rounds 8
+God send 390
+Decision 290 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:45,room:45,sid:s40gX4Drxl7mLk6UAAAs]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 290
+P2 increase 100
+P1 has 760
+P2 has 1150
+
+Rounds 9
+God send 390
+Decision 390 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:45,room:45,sid:s40gX4Drxl7mLk6UAAAs]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 390
+P1 has 760
+P2 has 1540
+

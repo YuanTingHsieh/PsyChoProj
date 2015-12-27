@@ -308,3 +308,373 @@ P2 increase 500
 P1 has 2000
 P2 has 1500
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:XX,ugen:man,udep:,uage:fresh,player:11,room:11,sid:RdNHxQWWyjJh8vgEAAAK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 60 is given out
+P1 is [uname:XX,ugen:man,udep:,uage:fresh,player:11,room:11,sid:RdNHxQWWyjJh8vgEAAAK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 90
+P2 increase 60
+P1 has 140
+P2 has 110
+
+Rounds 2
+God send 160
+Decision 80 is given out
+P1 is [uname:XX,ugen:man,udep:,uage:fresh,player:11,room:11,sid:RdNHxQWWyjJh8vgEAAAK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 80
+P2 increase 80
+P1 has 220
+P2 has 190
+
+Rounds 3
+God send 180
+Decision 100 is given out
+P1 is [uname:XX,ugen:man,udep:,uage:fresh,player:11,room:11,sid:RdNHxQWWyjJh8vgEAAAK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 80
+P2 increase 100
+P1 has 300
+P2 has 290
+
+Rounds 4
+God send 200
+Decision 100 is given out
+P1 is [uname:XX,ugen:man,udep:,uage:fresh,player:11,room:11,sid:RdNHxQWWyjJh8vgEAAAK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 400
+P2 has 390
+
+Rounds 5
+God send 200
+Decision 100 is given out
+P1 is [uname:XX,ugen:man,udep:,uage:fresh,player:11,room:11,sid:RdNHxQWWyjJh8vgEAAAK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 500
+P2 has 490
+
+Rounds 6
+God send 200
+Decision 100 is given out
+P1 is [uname:XX,ugen:man,udep:,uage:fresh,player:11,room:11,sid:RdNHxQWWyjJh8vgEAAAK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 600
+P2 has 590
+
+Rounds 7
+God send 200
+Decision 100 is given out
+P1 is [uname:XX,ugen:man,udep:,uage:fresh,player:11,room:11,sid:RdNHxQWWyjJh8vgEAAAK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 700
+P2 has 690
+
+Rounds 8
+God send 200
+Decision 100 is given out
+P1 is [uname:XX,ugen:man,udep:,uage:fresh,player:11,room:11,sid:RdNHxQWWyjJh8vgEAAAK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 800
+P2 has 790
+
+Rounds 9
+God send 200
+Decision 100 is given out
+P1 is [uname:XX,ugen:man,udep:,uage:fresh,player:11,room:11,sid:RdNHxQWWyjJh8vgEAAAK]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 900
+P2 has 890
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:壞叔,ugen:man,udep:歷史系,uage:suffer,player:11,room:11,sid:s7ri6j3BgkqDmVqaAACc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 940
+
+Rounds 1
+God send 150
+Decision 150 is given out
+P1 is [uname:壞叔,ugen:man,udep:歷史系,uage:suffer,player:11,room:11,sid:s7ri6j3BgkqDmVqaAACc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 0
+P2 increase 150
+P1 has 50
+P2 has 1090
+
+Rounds 2
+God send 250
+Decision 125 is given out
+P1 is [uname:壞叔,ugen:man,udep:歷史系,uage:suffer,player:11,room:11,sid:s7ri6j3BgkqDmVqaAACc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 125
+P2 increase 125
+P1 has 175
+P2 has 1215
+
+Rounds 3
+God send 225
+Decision 1 is given out
+P1 is [uname:壞叔,ugen:man,udep:歷史系,uage:suffer,player:11,room:11,sid:s7ri6j3BgkqDmVqaAACc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 224
+P2 increase 1
+P1 has 399
+P2 has 1216
+
+Rounds 4
+God send 101
+Decision 50 is given out
+P1 is [uname:壞叔,ugen:man,udep:歷史系,uage:suffer,player:11,room:11,sid:s7ri6j3BgkqDmVqaAACc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 51
+P1 has 449
+P2 has 1267
+
+Rounds 5
+God send 150
+Decision 100 is given out
+P1 is [uname:壞叔,ugen:man,udep:歷史系,uage:suffer,player:11,room:11,sid:s7ri6j3BgkqDmVqaAACc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 100
+P1 has 499
+P2 has 1367
+
+Rounds 6
+God send 200
+Decision 100 is given out
+P1 is [uname:壞叔,ugen:man,udep:歷史系,uage:suffer,player:11,room:11,sid:s7ri6j3BgkqDmVqaAACc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 599
+P2 has 1467
+
+Rounds 7
+God send 200
+Decision 100 is given out
+P1 is [uname:壞叔,ugen:man,udep:歷史系,uage:suffer,player:11,room:11,sid:s7ri6j3BgkqDmVqaAACc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 699
+P2 has 1567
+
+Rounds 8
+God send 200
+Decision 100 is given out
+P1 is [uname:壞叔,ugen:man,udep:歷史系,uage:suffer,player:11,room:11,sid:s7ri6j3BgkqDmVqaAACc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 799
+P2 has 1667
+
+Rounds 9
+God send 200
+Decision 1 is given out
+P1 is [uname:壞叔,ugen:man,udep:歷史系,uage:suffer,player:11,room:11,sid:s7ri6j3BgkqDmVqaAACc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 199
+P2 increase 1
+P1 has 998
+P2 has 1668
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:哈哈哈,ugen:man,udep:經濟系,uage:suffer,player:11,room:11,sid:c_ggUPJykIkW3L_VAAC0]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 1718
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:哈哈哈,ugen:man,udep:經濟系,uage:suffer,player:11,room:11,sid:c_ggUPJykIkW3L_VAAC0]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 1793
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:哈哈哈,ugen:man,udep:經濟系,uage:suffer,player:11,room:11,sid:c_ggUPJykIkW3L_VAAC0]
+P2 is [oppotype:2,name:Kris]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 1881
+
+Rounds 3
+God send 187
+Decision 87 is given out
+P1 is [uname:哈哈哈,ugen:man,udep:經濟系,uage:suffer,player:11,room:11,sid:c_ggUPJykIkW3L_VAAC0]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 87
+P1 has 312
+P2 has 1968
+
+Rounds 4
+God send 187
+Decision 93 is given out
+P1 is [uname:哈哈哈,ugen:man,udep:經濟系,uage:suffer,player:11,room:11,sid:c_ggUPJykIkW3L_VAAC0]
+P2 is [oppotype:2,name:Kris]
+P1 increase 93
+P2 increase 94
+P1 has 405
+P2 has 2062
+
+Rounds 5
+God send 193
+Decision 50 is given out
+P1 is [uname:哈哈哈,ugen:man,udep:經濟系,uage:suffer,player:11,room:11,sid:c_ggUPJykIkW3L_VAAC0]
+P2 is [oppotype:2,name:Kris]
+P1 increase 143
+P2 increase 50
+P1 has 548
+P2 has 2112
+
+Rounds 6
+God send 150
+Decision 75 is given out
+P1 is [uname:哈哈哈,ugen:man,udep:經濟系,uage:suffer,player:11,room:11,sid:c_ggUPJykIkW3L_VAAC0]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 75
+P1 has 623
+P2 has 2187
+
+Rounds 7
+God send 175
+Decision 75 is given out
+P1 is [uname:哈哈哈,ugen:man,udep:經濟系,uage:suffer,player:11,room:11,sid:c_ggUPJykIkW3L_VAAC0]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 75
+P1 has 723
+P2 has 2262
+
+Rounds 8
+God send 175
+Decision 87 is given out
+P1 is [uname:哈哈哈,ugen:man,udep:經濟系,uage:suffer,player:11,room:11,sid:c_ggUPJykIkW3L_VAAC0]
+P2 is [oppotype:2,name:Kris]
+P1 increase 87
+P2 increase 88
+P1 has 810
+P2 has 2350
+
+Rounds 9
+God send 187
+Decision 0 is given out
+P1 is [uname:哈哈哈,ugen:man,udep:經濟系,uage:suffer,player:11,room:11,sid:c_ggUPJykIkW3L_VAAC0]
+P2 is [oppotype:2,name:Kris]
+P1 increase 187
+P2 increase 0
+P1 has 997
+P2 has 2350
+
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:gg,ugen:man,udep:me,uage:senior,player:11,room:11,sid:RPCVH2HLICKV8WuIAADG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 2400
+
+Rounds 1
+God send 150
+Decision 100 is given out
+P1 is [uname:gg,ugen:man,udep:me,uage:senior,player:11,room:11,sid:RPCVH2HLICKV8WuIAADG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 2500
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:gg,ugen:man,udep:me,uage:senior,player:11,room:11,sid:RPCVH2HLICKV8WuIAADG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 2600
+
+Rounds 3
+God send 200
+Decision 133 is given out
+P1 is [uname:gg,ugen:man,udep:me,uage:senior,player:11,room:11,sid:RPCVH2HLICKV8WuIAADG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 67
+P2 increase 133
+P1 has 267
+P2 has 2733
+
+Rounds 4
+God send 233
+Decision 116 is given out
+P1 is [uname:gg,ugen:man,udep:me,uage:senior,player:11,room:11,sid:RPCVH2HLICKV8WuIAADG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 116
+P2 increase 117
+P1 has 383
+P2 has 2850
+
+Rounds 5
+God send 216
+Decision 216 is given out
+P1 is [uname:gg,ugen:man,udep:me,uage:senior,player:11,room:11,sid:RPCVH2HLICKV8WuIAADG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 0
+P2 increase 216
+P1 has 383
+P2 has 3066
+
+Rounds 6
+God send 316
+Decision 158 is given out
+P1 is [uname:gg,ugen:man,udep:me,uage:senior,player:11,room:11,sid:RPCVH2HLICKV8WuIAADG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 158
+P2 increase 158
+P1 has 541
+P2 has 3224
+

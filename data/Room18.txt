@@ -98,3 +98,103 @@ P2 increase 0
 P1 has 2300
 P2 has 800
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:2,ugen:man,udep:法律,uage:junior,player:18,room:18,sid:KMg2DAjHB2ysQOyNAAAR]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 50 is given out
+P1 is [uname:2,ugen:man,udep:法律,uage:junior,player:18,room:18,sid:KMg2DAjHB2ysQOyNAAAR]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 50
+P1 has 150
+P2 has 100
+
+Rounds 2
+God send 150
+Decision 75 is given out
+P1 is [uname:2,ugen:man,udep:法律,uage:junior,player:18,room:18,sid:KMg2DAjHB2ysQOyNAAAR]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 75
+P1 has 225
+P2 has 175
+
+Rounds 3
+God send 175
+Decision 90 is given out
+P1 is [uname:2,ugen:man,udep:法律,uage:junior,player:18,room:18,sid:KMg2DAjHB2ysQOyNAAAR]
+P2 is [oppotype:2,name:Kris]
+P1 increase 85
+P2 increase 90
+P1 has 310
+P2 has 265
+
+Rounds 4
+God send 190
+Decision 95 is given out
+P1 is [uname:2,ugen:man,udep:法律,uage:junior,player:18,room:18,sid:KMg2DAjHB2ysQOyNAAAR]
+P2 is [oppotype:2,name:Kris]
+P1 increase 95
+P2 increase 95
+P1 has 405
+P2 has 360
+
+Rounds 5
+God send 195
+Decision 97 is given out
+P1 is [uname:2,ugen:man,udep:法律,uage:junior,player:18,room:18,sid:KMg2DAjHB2ysQOyNAAAR]
+P2 is [oppotype:2,name:Kris]
+P1 increase 98
+P2 increase 97
+P1 has 503
+P2 has 457
+
+Rounds 6
+God send 197
+Decision 98 is given out
+P1 is [uname:2,ugen:man,udep:法律,uage:junior,player:18,room:18,sid:KMg2DAjHB2ysQOyNAAAR]
+P2 is [oppotype:2,name:Kris]
+P1 increase 98
+P2 increase 99
+P1 has 601
+P2 has 556
+
+Rounds 7
+God send 198
+Decision 99 is given out
+P1 is [uname:2,ugen:man,udep:法律,uage:junior,player:18,room:18,sid:KMg2DAjHB2ysQOyNAAAR]
+P2 is [oppotype:2,name:Kris]
+P1 increase 99
+P2 increase 99
+P1 has 700
+P2 has 655
+
+Rounds 8
+God send 199
+Decision 99 is given out
+P1 is [uname:2,ugen:man,udep:法律,uage:junior,player:18,room:18,sid:KMg2DAjHB2ysQOyNAAAR]
+P2 is [oppotype:2,name:Kris]
+P1 increase 99
+P2 increase 100
+P1 has 799
+P2 has 755
+
+Rounds 9
+God send 199
+Decision 99 is given out
+P1 is [uname:2,ugen:man,udep:法律,uage:junior,player:18,room:18,sid:KMg2DAjHB2ysQOyNAAAR]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 99
+P1 has 899
+P2 has 854
+

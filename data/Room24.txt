@@ -198,3 +198,13 @@ P2 increase 200
 P1 has 800
 P2 has 1275
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:阿翔,ugen:man,udep:資管,uage:fresh,player:24,room:24,sid:kxDPyG70Sj2VulyTAAAX]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+

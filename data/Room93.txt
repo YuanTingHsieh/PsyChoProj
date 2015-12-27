@@ -98,3 +98,103 @@ P2 increase 200
 P1 has 650
 P2 has 1050
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:93,room:93,sid:9n2NT_xqJWSjNwbuAABc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 50 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:93,room:93,sid:9n2NT_xqJWSjNwbuAABc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 50
+P1 has 150
+P2 has 100
+
+Rounds 2
+God send 150
+Decision 75 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:93,room:93,sid:9n2NT_xqJWSjNwbuAABc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 75
+P1 has 225
+P2 has 175
+
+Rounds 3
+God send 175
+Decision 75 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:93,room:93,sid:9n2NT_xqJWSjNwbuAABc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 75
+P1 has 325
+P2 has 250
+
+Rounds 4
+God send 175
+Decision 87 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:93,room:93,sid:9n2NT_xqJWSjNwbuAABc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 87
+P2 increase 88
+P1 has 412
+P2 has 338
+
+Rounds 5
+God send 187
+Decision 88 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:93,room:93,sid:9n2NT_xqJWSjNwbuAABc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 99
+P2 increase 88
+P1 has 511
+P2 has 426
+
+Rounds 6
+God send 188
+Decision 94 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:93,room:93,sid:9n2NT_xqJWSjNwbuAABc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 94
+P2 increase 94
+P1 has 605
+P2 has 520
+
+Rounds 7
+God send 194
+Decision 93 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:93,room:93,sid:9n2NT_xqJWSjNwbuAABc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 101
+P2 increase 93
+P1 has 706
+P2 has 613
+
+Rounds 8
+God send 193
+Decision 96 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:93,room:93,sid:9n2NT_xqJWSjNwbuAABc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 96
+P2 increase 97
+P1 has 802
+P2 has 710
+
+Rounds 9
+God send 196
+Decision 95 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:93,room:93,sid:9n2NT_xqJWSjNwbuAABc]
+P2 is [oppotype:2,name:Kris]
+P1 increase 101
+P2 increase 95
+P1 has 903
+P2 has 805
+

@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:不要用機器人忽悠我,ugen:undefined,udep:BOT系,uage:senior,player:98,room:98,sid:dWRzl4JA35SJb9vzAABh]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 0 is given out
+P1 is [uname:不要用機器人忽悠我,ugen:undefined,udep:BOT系,uage:senior,player:98,room:98,sid:dWRzl4JA35SJb9vzAABh]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 100
+
+Rounds 2
+God send 100
+Decision 0 is given out
+P1 is [uname:不要用機器人忽悠我,ugen:undefined,udep:BOT系,uage:senior,player:98,room:98,sid:dWRzl4JA35SJb9vzAABh]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 100
+P2 has 200
+
+Rounds 3
+God send 100
+Decision 80 is given out
+P1 is [uname:不要用機器人忽悠我,ugen:undefined,udep:BOT系,uage:senior,player:98,room:98,sid:dWRzl4JA35SJb9vzAABh]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 20
+P2 increase 80
+P1 has 120
+P2 has 280
+
+Rounds 4
+God send 180
+Decision 80 is given out
+P1 is [uname:不要用機器人忽悠我,ugen:undefined,udep:BOT系,uage:senior,player:98,room:98,sid:dWRzl4JA35SJb9vzAABh]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 80
+P2 increase 100
+P1 has 200
+P2 has 380
+
+Rounds 5
+God send 180
+Decision 90 is given out
+P1 is [uname:不要用機器人忽悠我,ugen:undefined,udep:BOT系,uage:senior,player:98,room:98,sid:dWRzl4JA35SJb9vzAABh]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 90
+P2 increase 90
+P1 has 290
+P2 has 470
+
+Rounds 6
+God send 190
+Decision 90 is given out
+P1 is [uname:不要用機器人忽悠我,ugen:undefined,udep:BOT系,uage:senior,player:98,room:98,sid:dWRzl4JA35SJb9vzAABh]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 90
+P2 increase 100
+P1 has 380
+P2 has 570
+
+Rounds 7
+God send 190
+Decision 1 is given out
+P1 is [uname:不要用機器人忽悠我,ugen:undefined,udep:BOT系,uage:senior,player:98,room:98,sid:dWRzl4JA35SJb9vzAABh]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 189
+P2 increase 1
+P1 has 569
+P2 has 571
+
+Rounds 8
+God send 101
+Decision 1 is given out
+P1 is [uname:不要用機器人忽悠我,ugen:undefined,udep:BOT系,uage:senior,player:98,room:98,sid:dWRzl4JA35SJb9vzAABh]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 1
+P2 increase 100
+P1 has 570
+P2 has 671
+
+Rounds 9
+God send 101
+Decision 1 is given out
+P1 is [uname:不要用機器人忽悠我,ugen:undefined,udep:BOT系,uage:senior,player:98,room:98,sid:dWRzl4JA35SJb9vzAABh]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 1
+P1 has 670
+P2 has 672
+

@@ -98,3 +98,103 @@ P2 increase 750
 P1 has 1900
 P2 has 1900
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:Jessoca,ugen:woman,udep:國企,uage:suffer,player:136,room:136,sid:c1SXJj5dWJhlbaOwAACH]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 50 is given out
+P1 is [uname:Jessoca,ugen:woman,udep:國企,uage:suffer,player:136,room:136,sid:c1SXJj5dWJhlbaOwAACH]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 150
+
+Rounds 2
+God send 150
+Decision 50 is given out
+P1 is [uname:Jessoca,ugen:woman,udep:國企,uage:suffer,player:136,room:136,sid:c1SXJj5dWJhlbaOwAACH]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 250
+
+Rounds 3
+God send 150
+Decision 50 is given out
+P1 is [uname:Jessoca,ugen:woman,udep:國企,uage:suffer,player:136,room:136,sid:c1SXJj5dWJhlbaOwAACH]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 50
+P1 has 200
+P2 has 300
+
+Rounds 4
+God send 150
+Decision 50 is given out
+P1 is [uname:Jessoca,ugen:woman,udep:國企,uage:suffer,player:136,room:136,sid:c1SXJj5dWJhlbaOwAACH]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 100
+P1 has 250
+P2 has 400
+
+Rounds 5
+God send 150
+Decision 75 is given out
+P1 is [uname:Jessoca,ugen:woman,udep:國企,uage:suffer,player:136,room:136,sid:c1SXJj5dWJhlbaOwAACH]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 75
+P2 increase 75
+P1 has 325
+P2 has 475
+
+Rounds 6
+God send 175
+Decision 75 is given out
+P1 is [uname:Jessoca,ugen:woman,udep:國企,uage:suffer,player:136,room:136,sid:c1SXJj5dWJhlbaOwAACH]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 75
+P2 increase 100
+P1 has 400
+P2 has 575
+
+Rounds 7
+God send 175
+Decision 75 is given out
+P1 is [uname:Jessoca,ugen:woman,udep:國企,uage:suffer,player:136,room:136,sid:c1SXJj5dWJhlbaOwAACH]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 75
+P1 has 500
+P2 has 650
+
+Rounds 8
+God send 175
+Decision 75 is given out
+P1 is [uname:Jessoca,ugen:woman,udep:國企,uage:suffer,player:136,room:136,sid:c1SXJj5dWJhlbaOwAACH]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 75
+P2 increase 100
+P1 has 575
+P2 has 750
+
+Rounds 9
+God send 175
+Decision 75 is given out
+P1 is [uname:Jessoca,ugen:woman,udep:國企,uage:suffer,player:136,room:136,sid:c1SXJj5dWJhlbaOwAACH]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 75
+P1 has 675
+P2 has 825
+

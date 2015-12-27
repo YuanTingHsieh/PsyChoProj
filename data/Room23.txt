@@ -248,3 +248,103 @@ P2 increase 100
 P1 has 790
 P2 has 990
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:andrea 宣 2.0,ugen:undefined,udep:財金,uage:senior,player:23,room:23,sid:8D2MNdgnr8Pu0vJqAAAW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 80 is given out
+P1 is [uname:andrea 宣 2.0,ugen:undefined,udep:財金,uage:senior,player:23,room:23,sid:8D2MNdgnr8Pu0vJqAAAW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 70
+P2 increase 80
+P1 has 120
+P2 has 130
+
+Rounds 2
+God send 180
+Decision 90 is given out
+P1 is [uname:andrea 宣 2.0,ugen:undefined,udep:財金,uage:senior,player:23,room:23,sid:8D2MNdgnr8Pu0vJqAAAW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 90
+P2 increase 90
+P1 has 210
+P2 has 220
+
+Rounds 3
+God send 190
+Decision 120 is given out
+P1 is [uname:andrea 宣 2.0,ugen:undefined,udep:財金,uage:senior,player:23,room:23,sid:8D2MNdgnr8Pu0vJqAAAW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 70
+P2 increase 120
+P1 has 280
+P2 has 340
+
+Rounds 4
+God send 220
+Decision 110 is given out
+P1 is [uname:andrea 宣 2.0,ugen:undefined,udep:財金,uage:senior,player:23,room:23,sid:8D2MNdgnr8Pu0vJqAAAW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 110
+P2 increase 110
+P1 has 390
+P2 has 450
+
+Rounds 5
+God send 210
+Decision 150 is given out
+P1 is [uname:andrea 宣 2.0,ugen:undefined,udep:財金,uage:senior,player:23,room:23,sid:8D2MNdgnr8Pu0vJqAAAW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 60
+P2 increase 150
+P1 has 450
+P2 has 600
+
+Rounds 6
+God send 250
+Decision 125 is given out
+P1 is [uname:andrea 宣 2.0,ugen:undefined,udep:財金,uage:senior,player:23,room:23,sid:8D2MNdgnr8Pu0vJqAAAW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 125
+P2 increase 125
+P1 has 575
+P2 has 725
+
+Rounds 7
+God send 225
+Decision 0 is given out
+P1 is [uname:andrea 宣 2.0,ugen:undefined,udep:財金,uage:senior,player:23,room:23,sid:8D2MNdgnr8Pu0vJqAAAW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 225
+P2 increase 0
+P1 has 800
+P2 has 725
+
+Rounds 8
+God send 100
+Decision 50 is given out
+P1 is [uname:andrea 宣 2.0,ugen:undefined,udep:財金,uage:senior,player:23,room:23,sid:8D2MNdgnr8Pu0vJqAAAW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 850
+P2 has 775
+
+Rounds 9
+God send 150
+Decision 0 is given out
+P1 is [uname:andrea 宣 2.0,ugen:undefined,udep:財金,uage:senior,player:23,room:23,sid:8D2MNdgnr8Pu0vJqAAAW]
+P2 is [oppotype:2,name:Kris]
+P1 increase 150
+P2 increase 0
+P1 has 1000
+P2 has 775
+

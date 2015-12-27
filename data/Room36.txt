@@ -268,3 +268,103 @@ P2 increase 100
 P1 has 400
 P2 has 500
 
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:Skywalker,ugen:man,udep:SW,uage:junior,player:36,room:36,sid:y1-gKRqsl623nax0AAAj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 100 is given out
+P1 is [uname:Skywalker,ugen:man,udep:SW,uage:junior,player:36,room:36,sid:y1-gKRqsl623nax0AAAj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 100
+
+Rounds 2
+God send 200
+Decision 200 is given out
+P1 is [uname:Skywalker,ugen:man,udep:SW,uage:junior,player:36,room:36,sid:y1-gKRqsl623nax0AAAj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 0
+P1 has 400
+P2 has 100
+
+Rounds 3
+God send 300
+Decision 100 is given out
+P1 is [uname:Skywalker,ugen:man,udep:SW,uage:junior,player:36,room:36,sid:y1-gKRqsl623nax0AAAj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 100
+P1 has 600
+P2 has 200
+
+Rounds 4
+God send 200
+Decision 200 is given out
+P1 is [uname:Skywalker,ugen:man,udep:SW,uage:junior,player:36,room:36,sid:y1-gKRqsl623nax0AAAj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 0
+P1 has 800
+P2 has 200
+
+Rounds 5
+God send 300
+Decision 100 is given out
+P1 is [uname:Skywalker,ugen:man,udep:SW,uage:junior,player:36,room:36,sid:y1-gKRqsl623nax0AAAj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 100
+P1 has 1000
+P2 has 300
+
+Rounds 6
+God send 200
+Decision 200 is given out
+P1 is [uname:Skywalker,ugen:man,udep:SW,uage:junior,player:36,room:36,sid:y1-gKRqsl623nax0AAAj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 0
+P1 has 1200
+P2 has 300
+
+Rounds 7
+God send 300
+Decision 100 is given out
+P1 is [uname:Skywalker,ugen:man,udep:SW,uage:junior,player:36,room:36,sid:y1-gKRqsl623nax0AAAj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 100
+P1 has 1400
+P2 has 400
+
+Rounds 8
+God send 200
+Decision 200 is given out
+P1 is [uname:Skywalker,ugen:man,udep:SW,uage:junior,player:36,room:36,sid:y1-gKRqsl623nax0AAAj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 0
+P1 has 1600
+P2 has 400
+
+Rounds 9
+God send 300
+Decision 0 is given out
+P1 is [uname:Skywalker,ugen:man,udep:SW,uage:junior,player:36,room:36,sid:y1-gKRqsl623nax0AAAj]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 300
+P2 increase 0
+P1 has 1900
+P2 has 400
+

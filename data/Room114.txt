@@ -98,3 +98,103 @@ P2 increase 0
 P1 has 2700
 P2 has 1200
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:terrence,ugen:man,udep:化工,uage:senior,player:114,room:114,sid:_pfy7U3UE1ms2PUkAABx]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:terrence,ugen:man,udep:化工,uage:senior,player:114,room:114,sid:_pfy7U3UE1ms2PUkAABx]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 125
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:terrence,ugen:man,udep:化工,uage:senior,player:114,room:114,sid:_pfy7U3UE1ms2PUkAABx]
+P2 is [oppotype:2,name:Kris]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 213
+
+Rounds 3
+God send 187
+Decision 105 is given out
+P1 is [uname:terrence,ugen:man,udep:化工,uage:senior,player:114,room:114,sid:_pfy7U3UE1ms2PUkAABx]
+P2 is [oppotype:2,name:Kris]
+P1 increase 82
+P2 increase 105
+P1 has 294
+P2 has 318
+
+Rounds 4
+God send 205
+Decision 102 is given out
+P1 is [uname:terrence,ugen:man,udep:化工,uage:senior,player:114,room:114,sid:_pfy7U3UE1ms2PUkAABx]
+P2 is [oppotype:2,name:Kris]
+P1 increase 102
+P2 increase 103
+P1 has 396
+P2 has 421
+
+Rounds 5
+God send 202
+Decision 101 is given out
+P1 is [uname:terrence,ugen:man,udep:化工,uage:senior,player:114,room:114,sid:_pfy7U3UE1ms2PUkAABx]
+P2 is [oppotype:2,name:Kris]
+P1 increase 101
+P2 increase 101
+P1 has 497
+P2 has 522
+
+Rounds 6
+God send 201
+Decision 100 is given out
+P1 is [uname:terrence,ugen:man,udep:化工,uage:senior,player:114,room:114,sid:_pfy7U3UE1ms2PUkAABx]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 101
+P1 has 597
+P2 has 623
+
+Rounds 7
+God send 200
+Decision 100 is given out
+P1 is [uname:terrence,ugen:man,udep:化工,uage:senior,player:114,room:114,sid:_pfy7U3UE1ms2PUkAABx]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 697
+P2 has 723
+
+Rounds 8
+God send 200
+Decision 100 is given out
+P1 is [uname:terrence,ugen:man,udep:化工,uage:senior,player:114,room:114,sid:_pfy7U3UE1ms2PUkAABx]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 797
+P2 has 823
+
+Rounds 9
+God send 200
+Decision 0 is given out
+P1 is [uname:terrence,ugen:man,udep:化工,uage:senior,player:114,room:114,sid:_pfy7U3UE1ms2PUkAABx]
+P2 is [oppotype:2,name:Kris]
+P1 increase 200
+P2 increase 0
+P1 has 997
+P2 has 823
+

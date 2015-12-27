@@ -98,3 +98,103 @@ P2 increase 700
 P1 has 2100
 P2 has 2000
 
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:19,room:19,sid:WKuhpmCUlaW7C7wOAAAS]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 101 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:19,room:19,sid:WKuhpmCUlaW7C7wOAAAS]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 99
+P2 increase 101
+P1 has 199
+P2 has 101
+
+Rounds 2
+God send 201
+Decision 201 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:19,room:19,sid:WKuhpmCUlaW7C7wOAAAS]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 201
+P2 increase 0
+P1 has 400
+P2 has 101
+
+Rounds 3
+God send 301
+Decision 301 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:19,room:19,sid:WKuhpmCUlaW7C7wOAAAS]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 0
+P2 increase 301
+P1 has 400
+P2 has 402
+
+Rounds 4
+God send 401
+Decision 401 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:19,room:19,sid:WKuhpmCUlaW7C7wOAAAS]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 401
+P2 increase 0
+P1 has 801
+P2 has 402
+
+Rounds 5
+God send 501
+Decision 500 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:19,room:19,sid:WKuhpmCUlaW7C7wOAAAS]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 1
+P2 increase 500
+P1 has 802
+P2 has 902
+
+Rounds 6
+God send 600
+Decision 600 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:19,room:19,sid:WKuhpmCUlaW7C7wOAAAS]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 600
+P2 increase 0
+P1 has 1402
+P2 has 902
+
+Rounds 7
+God send 700
+Decision 650 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:19,room:19,sid:WKuhpmCUlaW7C7wOAAAS]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 50
+P2 increase 650
+P1 has 1452
+P2 has 1552
+
+Rounds 8
+God send 750
+Decision 750 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:19,room:19,sid:WKuhpmCUlaW7C7wOAAAS]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 750
+P2 increase 0
+P1 has 2202
+P2 has 1552
+
+Rounds 9
+God send 850
+Decision 800 is given out
+P1 is [uname:銀貓,ugen:woman,udep:農藝系,uage:fresh,player:19,room:19,sid:WKuhpmCUlaW7C7wOAAAS]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 50
+P2 increase 800
+P1 has 2252
+P2 has 2352
+

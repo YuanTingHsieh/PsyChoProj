@@ -98,3 +98,103 @@ P2 increase 0
 P1 has 3490
 P2 has 1990
 
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:76,room:76,sid:QnRA5ezgh49OsofcAABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 50 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:76,room:76,sid:QnRA5ezgh49OsofcAABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 150
+P2 increase 50
+P1 has 250
+P2 has 50
+
+Rounds 2
+God send 150
+Decision 150 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:76,room:76,sid:QnRA5ezgh49OsofcAABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 150
+P2 increase 0
+P1 has 400
+P2 has 50
+
+Rounds 3
+God send 250
+Decision 250 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:76,room:76,sid:QnRA5ezgh49OsofcAABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 0
+P2 increase 250
+P1 has 400
+P2 has 300
+
+Rounds 4
+God send 350
+Decision 350 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:76,room:76,sid:QnRA5ezgh49OsofcAABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 350
+P2 increase 0
+P1 has 750
+P2 has 300
+
+Rounds 5
+God send 450
+Decision 450 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:76,room:76,sid:QnRA5ezgh49OsofcAABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 0
+P2 increase 450
+P1 has 750
+P2 has 750
+
+Rounds 6
+God send 550
+Decision 550 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:76,room:76,sid:QnRA5ezgh49OsofcAABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 550
+P2 increase 0
+P1 has 1300
+P2 has 750
+
+Rounds 7
+God send 650
+Decision 650 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:76,room:76,sid:QnRA5ezgh49OsofcAABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 0
+P2 increase 650
+P1 has 1300
+P2 has 1400
+
+Rounds 8
+God send 750
+Decision 750 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:76,room:76,sid:QnRA5ezgh49OsofcAABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 750
+P2 increase 0
+P1 has 2050
+P2 has 1400
+
+Rounds 9
+God send 850
+Decision 850 is given out
+P1 is [uname:毛毛,ugen:man,udep:園藝系,uage:junior,player:76,room:76,sid:QnRA5ezgh49OsofcAABL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 0
+P2 increase 850
+P1 has 2050
+P2 has 2250
+

@@ -298,3 +298,103 @@ P2 increase 150
 P1 has 849
 P2 has 1356
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:王文懿你這遊戲惹毛我了XD,ugen:man,udep:財金,uage:senior,player:35,room:35,sid:jRSx7LXotbvQonlEAAAi]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 51 is given out
+P1 is [uname:王文懿你這遊戲惹毛我了XD,ugen:man,udep:財金,uage:senior,player:35,room:35,sid:jRSx7LXotbvQonlEAAAi]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 49
+P2 increase 51
+P1 has 49
+P2 has 151
+
+Rounds 2
+God send 151
+Decision 51 is given out
+P1 is [uname:王文懿你這遊戲惹毛我了XD,ugen:man,udep:財金,uage:senior,player:35,room:35,sid:jRSx7LXotbvQonlEAAAi]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 51
+P2 increase 100
+P1 has 100
+P2 has 251
+
+Rounds 3
+God send 151
+Decision 76 is given out
+P1 is [uname:王文懿你這遊戲惹毛我了XD,ugen:man,udep:財金,uage:senior,player:35,room:35,sid:jRSx7LXotbvQonlEAAAi]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 75
+P2 increase 76
+P1 has 175
+P2 has 327
+
+Rounds 4
+God send 176
+Decision 76 is given out
+P1 is [uname:王文懿你這遊戲惹毛我了XD,ugen:man,udep:財金,uage:senior,player:35,room:35,sid:jRSx7LXotbvQonlEAAAi]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 76
+P2 increase 100
+P1 has 251
+P2 has 427
+
+Rounds 5
+God send 176
+Decision 77 is given out
+P1 is [uname:王文懿你這遊戲惹毛我了XD,ugen:man,udep:財金,uage:senior,player:35,room:35,sid:jRSx7LXotbvQonlEAAAi]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 99
+P2 increase 77
+P1 has 350
+P2 has 504
+
+Rounds 6
+God send 177
+Decision 77 is given out
+P1 is [uname:王文懿你這遊戲惹毛我了XD,ugen:man,udep:財金,uage:senior,player:35,room:35,sid:jRSx7LXotbvQonlEAAAi]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 77
+P2 increase 100
+P1 has 427
+P2 has 604
+
+Rounds 7
+God send 177
+Decision 0 is given out
+P1 is [uname:王文懿你這遊戲惹毛我了XD,ugen:man,udep:財金,uage:senior,player:35,room:35,sid:jRSx7LXotbvQonlEAAAi]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 177
+P2 increase 0
+P1 has 604
+P2 has 604
+
+Rounds 8
+God send 100
+Decision 0 is given out
+P1 is [uname:王文懿你這遊戲惹毛我了XD,ugen:man,udep:財金,uage:senior,player:35,room:35,sid:jRSx7LXotbvQonlEAAAi]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 604
+P2 has 704
+
+Rounds 9
+God send 100
+Decision 0 is given out
+P1 is [uname:王文懿你這遊戲惹毛我了XD,ugen:man,udep:財金,uage:senior,player:35,room:35,sid:jRSx7LXotbvQonlEAAAi]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 0
+P1 has 704
+P2 has 704
+

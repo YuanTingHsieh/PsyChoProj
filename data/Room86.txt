@@ -98,3 +98,103 @@ P2 increase 0
 P1 has 998
 P2 has 1628
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:AAA,ugen:woman,udep:財務金融,uage:senior,player:86,room:86,sid:E-81pPM17K5YaDvqAABV]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 50 is given out
+P1 is [uname:AAA,ugen:woman,udep:財務金融,uage:senior,player:86,room:86,sid:E-81pPM17K5YaDvqAABV]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 150
+
+Rounds 2
+God send 150
+Decision 50 is given out
+P1 is [uname:AAA,ugen:woman,udep:財務金融,uage:senior,player:86,room:86,sid:E-81pPM17K5YaDvqAABV]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 250
+
+Rounds 3
+God send 150
+Decision 75 is given out
+P1 is [uname:AAA,ugen:woman,udep:財務金融,uage:senior,player:86,room:86,sid:E-81pPM17K5YaDvqAABV]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 75
+P2 increase 75
+P1 has 175
+P2 has 325
+
+Rounds 4
+God send 175
+Decision 75 is given out
+P1 is [uname:AAA,ugen:woman,udep:財務金融,uage:senior,player:86,room:86,sid:E-81pPM17K5YaDvqAABV]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 75
+P2 increase 100
+P1 has 250
+P2 has 425
+
+Rounds 5
+God send 175
+Decision 87 is given out
+P1 is [uname:AAA,ugen:woman,udep:財務金融,uage:senior,player:86,room:86,sid:E-81pPM17K5YaDvqAABV]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 88
+P2 increase 87
+P1 has 338
+P2 has 512
+
+Rounds 6
+God send 187
+Decision 87 is given out
+P1 is [uname:AAA,ugen:woman,udep:財務金融,uage:senior,player:86,room:86,sid:E-81pPM17K5YaDvqAABV]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 87
+P2 increase 100
+P1 has 425
+P2 has 612
+
+Rounds 7
+God send 187
+Decision 93 is given out
+P1 is [uname:AAA,ugen:woman,udep:財務金融,uage:senior,player:86,room:86,sid:E-81pPM17K5YaDvqAABV]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 94
+P2 increase 93
+P1 has 519
+P2 has 705
+
+Rounds 8
+God send 193
+Decision 93 is given out
+P1 is [uname:AAA,ugen:woman,udep:財務金融,uage:senior,player:86,room:86,sid:E-81pPM17K5YaDvqAABV]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 93
+P2 increase 100
+P1 has 612
+P2 has 805
+
+Rounds 9
+God send 193
+Decision 0 is given out
+P1 is [uname:AAA,ugen:woman,udep:財務金融,uage:senior,player:86,room:86,sid:E-81pPM17K5YaDvqAABV]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 193
+P2 increase 0
+P1 has 805
+P2 has 805
+

@@ -248,3 +248,103 @@ P2 increase 1000
 P1 has 2500
 P2 has 3000
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:Lys,ugen:man,udep:機械系,uage:junior,player:52,room:52,sid:GMy_fdQRZhiJmB11AAAz]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 70 is given out
+P1 is [uname:Lys,ugen:man,udep:機械系,uage:junior,player:52,room:52,sid:GMy_fdQRZhiJmB11AAAz]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 30
+P2 increase 70
+P1 has 30
+P2 has 170
+
+Rounds 2
+God send 170
+Decision 70 is given out
+P1 is [uname:Lys,ugen:man,udep:機械系,uage:junior,player:52,room:52,sid:GMy_fdQRZhiJmB11AAAz]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 70
+P2 increase 100
+P1 has 100
+P2 has 270
+
+Rounds 3
+God send 170
+Decision 1 is given out
+P1 is [uname:Lys,ugen:man,udep:機械系,uage:junior,player:52,room:52,sid:GMy_fdQRZhiJmB11AAAz]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 169
+P2 increase 1
+P1 has 269
+P2 has 271
+
+Rounds 4
+God send 101
+Decision 1 is given out
+P1 is [uname:Lys,ugen:man,udep:機械系,uage:junior,player:52,room:52,sid:GMy_fdQRZhiJmB11AAAz]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 1
+P2 increase 100
+P1 has 270
+P2 has 371
+
+Rounds 5
+God send 101
+Decision 101 is given out
+P1 is [uname:Lys,ugen:man,udep:機械系,uage:junior,player:52,room:52,sid:GMy_fdQRZhiJmB11AAAz]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 101
+P1 has 270
+P2 has 472
+
+Rounds 6
+God send 201
+Decision 101 is given out
+P1 is [uname:Lys,ugen:man,udep:機械系,uage:junior,player:52,room:52,sid:GMy_fdQRZhiJmB11AAAz]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 101
+P2 increase 100
+P1 has 371
+P2 has 572
+
+Rounds 7
+God send 201
+Decision 100 is given out
+P1 is [uname:Lys,ugen:man,udep:機械系,uage:junior,player:52,room:52,sid:GMy_fdQRZhiJmB11AAAz]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 101
+P2 increase 100
+P1 has 472
+P2 has 672
+
+Rounds 8
+God send 200
+Decision 100 is given out
+P1 is [uname:Lys,ugen:man,udep:機械系,uage:junior,player:52,room:52,sid:GMy_fdQRZhiJmB11AAAz]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 100
+P1 has 572
+P2 has 772
+
+Rounds 9
+God send 200
+Decision 100 is given out
+P1 is [uname:Lys,ugen:man,udep:機械系,uage:junior,player:52,room:52,sid:GMy_fdQRZhiJmB11AAAz]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 100
+P2 increase 100
+P1 has 672
+P2 has 872
+

@@ -98,3 +98,103 @@ P2 increase 96
 P1 has 901
 P2 has 805
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:HOLES,ugen:woman,udep:經濟系,uage:suffer,player:70,room:70,sid:XT-k_9_B5Whek0_fAABF]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 40 is given out
+P1 is [uname:HOLES,ugen:woman,udep:經濟系,uage:suffer,player:70,room:70,sid:XT-k_9_B5Whek0_fAABF]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 60
+P2 increase 40
+P1 has 60
+P2 has 140
+
+Rounds 2
+God send 140
+Decision 40 is given out
+P1 is [uname:HOLES,ugen:woman,udep:經濟系,uage:suffer,player:70,room:70,sid:XT-k_9_B5Whek0_fAABF]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 40
+P2 increase 100
+P1 has 100
+P2 has 240
+
+Rounds 3
+God send 140
+Decision 60 is given out
+P1 is [uname:HOLES,ugen:woman,udep:經濟系,uage:suffer,player:70,room:70,sid:XT-k_9_B5Whek0_fAABF]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 80
+P2 increase 60
+P1 has 180
+P2 has 300
+
+Rounds 4
+God send 160
+Decision 60 is given out
+P1 is [uname:HOLES,ugen:woman,udep:經濟系,uage:suffer,player:70,room:70,sid:XT-k_9_B5Whek0_fAABF]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 60
+P2 increase 100
+P1 has 240
+P2 has 400
+
+Rounds 5
+God send 160
+Decision 70 is given out
+P1 is [uname:HOLES,ugen:woman,udep:經濟系,uage:suffer,player:70,room:70,sid:XT-k_9_B5Whek0_fAABF]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 90
+P2 increase 70
+P1 has 330
+P2 has 470
+
+Rounds 6
+God send 170
+Decision 70 is given out
+P1 is [uname:HOLES,ugen:woman,udep:經濟系,uage:suffer,player:70,room:70,sid:XT-k_9_B5Whek0_fAABF]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 70
+P2 increase 100
+P1 has 400
+P2 has 570
+
+Rounds 7
+God send 170
+Decision 80 is given out
+P1 is [uname:HOLES,ugen:woman,udep:經濟系,uage:suffer,player:70,room:70,sid:XT-k_9_B5Whek0_fAABF]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 90
+P2 increase 80
+P1 has 490
+P2 has 650
+
+Rounds 8
+God send 180
+Decision 80 is given out
+P1 is [uname:HOLES,ugen:woman,udep:經濟系,uage:suffer,player:70,room:70,sid:XT-k_9_B5Whek0_fAABF]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 80
+P2 increase 100
+P1 has 570
+P2 has 750
+
+Rounds 9
+God send 180
+Decision 90 is given out
+P1 is [uname:HOLES,ugen:woman,udep:經濟系,uage:suffer,player:70,room:70,sid:XT-k_9_B5Whek0_fAABF]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 90
+P2 increase 90
+P1 has 660
+P2 has 840
+
