@@ -48,3 +48,33 @@ P2 increase 100
 P1 has 210
 P2 has 330
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:唉嘔,ugen:man,udep:電機系,uage:senior,player:61,room:61,sid:iqk4CdOjS3cJt39vAAA8]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 50 is given out
+P1 is [uname:唉嘔,ugen:man,udep:電機系,uage:senior,player:61,room:61,sid:iqk4CdOjS3cJt39vAAA8]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 150
+
+Rounds 2
+God send 150
+Decision 50 is given out
+P1 is [uname:唉嘔,ugen:man,udep:電機系,uage:senior,player:61,room:61,sid:iqk4CdOjS3cJt39vAAA8]
+P2 is [oppotype:0,name:Dragon]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 250
+

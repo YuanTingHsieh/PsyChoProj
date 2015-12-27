@@ -48,3 +48,103 @@ P2 increase 100
 P1 has 200
 P2 has 400
 
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:NTULoser,ugen:man,udep:生物產業機電工程學系碩一,uage:fresh,player:23,room:23,sid:o0TiR86MNNqQkbwOAAAW]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 115 is given out
+P1 is [uname:NTULoser,ugen:man,udep:生物產業機電工程學系碩一,uage:fresh,player:23,room:23,sid:o0TiR86MNNqQkbwOAAAW]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 85
+P2 increase 115
+P1 has 185
+P2 has 115
+
+Rounds 2
+God send 215
+Decision 215 is given out
+P1 is [uname:NTULoser,ugen:man,udep:生物產業機電工程學系碩一,uage:fresh,player:23,room:23,sid:o0TiR86MNNqQkbwOAAAW]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 215
+P2 increase 0
+P1 has 400
+P2 has 115
+
+Rounds 3
+God send 315
+Decision 135 is given out
+P1 is [uname:NTULoser,ugen:man,udep:生物產業機電工程學系碩一,uage:fresh,player:23,room:23,sid:o0TiR86MNNqQkbwOAAAW]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 180
+P2 increase 135
+P1 has 580
+P2 has 250
+
+Rounds 4
+God send 235
+Decision 235 is given out
+P1 is [uname:NTULoser,ugen:man,udep:生物產業機電工程學系碩一,uage:fresh,player:23,room:23,sid:o0TiR86MNNqQkbwOAAAW]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 235
+P2 increase 0
+P1 has 815
+P2 has 250
+
+Rounds 5
+God send 335
+Decision 135 is given out
+P1 is [uname:NTULoser,ugen:man,udep:生物產業機電工程學系碩一,uage:fresh,player:23,room:23,sid:o0TiR86MNNqQkbwOAAAW]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 135
+P1 has 1015
+P2 has 385
+
+Rounds 6
+God send 235
+Decision 235 is given out
+P1 is [uname:NTULoser,ugen:man,udep:生物產業機電工程學系碩一,uage:fresh,player:23,room:23,sid:o0TiR86MNNqQkbwOAAAW]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 235
+P2 increase 0
+P1 has 1250
+P2 has 385
+
+Rounds 7
+God send 335
+Decision 135 is given out
+P1 is [uname:NTULoser,ugen:man,udep:生物產業機電工程學系碩一,uage:fresh,player:23,room:23,sid:o0TiR86MNNqQkbwOAAAW]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 135
+P1 has 1450
+P2 has 520
+
+Rounds 8
+God send 235
+Decision 235 is given out
+P1 is [uname:NTULoser,ugen:man,udep:生物產業機電工程學系碩一,uage:fresh,player:23,room:23,sid:o0TiR86MNNqQkbwOAAAW]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 235
+P2 increase 0
+P1 has 1685
+P2 has 520
+
+Rounds 9
+God send 335
+Decision 0 is given out
+P1 is [uname:NTULoser,ugen:man,udep:生物產業機電工程學系碩一,uage:fresh,player:23,room:23,sid:o0TiR86MNNqQkbwOAAAW]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 335
+P2 increase 0
+P1 has 2020
+P2 has 520
+

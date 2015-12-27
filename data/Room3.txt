@@ -1148,3 +1148,103 @@ P2 increase 350
 P1 has 2100
 P2 has 1300
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:劉謦寧,ugen:man,udep:昆蟲系,uage:fresh,player:3,room:3,sid:UUM0XqEXiFrZFAYXAAAC]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 0 is given out
+P1 is [uname:劉謦寧,ugen:man,udep:昆蟲系,uage:fresh,player:3,room:3,sid:UUM0XqEXiFrZFAYXAAAC]
+P2 is [oppotype:2,name:Kris]
+P1 increase 150
+P2 increase 0
+P1 has 200
+P2 has 50
+
+Rounds 2
+God send 100
+Decision 50 is given out
+P1 is [uname:劉謦寧,ugen:man,udep:昆蟲系,uage:fresh,player:3,room:3,sid:UUM0XqEXiFrZFAYXAAAC]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 250
+P2 has 100
+
+Rounds 3
+God send 150
+Decision 80 is given out
+P1 is [uname:劉謦寧,ugen:man,udep:昆蟲系,uage:fresh,player:3,room:3,sid:UUM0XqEXiFrZFAYXAAAC]
+P2 is [oppotype:2,name:Kris]
+P1 increase 70
+P2 increase 80
+P1 has 320
+P2 has 180
+
+Rounds 4
+God send 180
+Decision 90 is given out
+P1 is [uname:劉謦寧,ugen:man,udep:昆蟲系,uage:fresh,player:3,room:3,sid:UUM0XqEXiFrZFAYXAAAC]
+P2 is [oppotype:2,name:Kris]
+P1 increase 90
+P2 increase 90
+P1 has 410
+P2 has 270
+
+Rounds 5
+God send 190
+Decision 10 is given out
+P1 is [uname:劉謦寧,ugen:man,udep:昆蟲系,uage:fresh,player:3,room:3,sid:UUM0XqEXiFrZFAYXAAAC]
+P2 is [oppotype:2,name:Kris]
+P1 increase 180
+P2 increase 10
+P1 has 590
+P2 has 280
+
+Rounds 6
+God send 110
+Decision 55 is given out
+P1 is [uname:劉謦寧,ugen:man,udep:昆蟲系,uage:fresh,player:3,room:3,sid:UUM0XqEXiFrZFAYXAAAC]
+P2 is [oppotype:2,name:Kris]
+P1 increase 55
+P2 increase 55
+P1 has 645
+P2 has 335
+
+Rounds 7
+God send 155
+Decision 65 is given out
+P1 is [uname:劉謦寧,ugen:man,udep:昆蟲系,uage:fresh,player:3,room:3,sid:UUM0XqEXiFrZFAYXAAAC]
+P2 is [oppotype:2,name:Kris]
+P1 increase 90
+P2 increase 65
+P1 has 735
+P2 has 400
+
+Rounds 8
+God send 165
+Decision 82 is given out
+P1 is [uname:劉謦寧,ugen:man,udep:昆蟲系,uage:fresh,player:3,room:3,sid:UUM0XqEXiFrZFAYXAAAC]
+P2 is [oppotype:2,name:Kris]
+P1 increase 82
+P2 increase 83
+P1 has 817
+P2 has 483
+
+Rounds 9
+God send 182
+Decision 0 is given out
+P1 is [uname:劉謦寧,ugen:man,udep:昆蟲系,uage:fresh,player:3,room:3,sid:UUM0XqEXiFrZFAYXAAAC]
+P2 is [oppotype:2,name:Kris]
+P1 increase 182
+P2 increase 0
+P1 has 999
+P2 has 483
+

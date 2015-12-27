@@ -108,3 +108,103 @@ P2 increase 250
 P1 has 800
 P2 has 1300
 
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:unidentified,ugen:man,udep:機械,uage:fresh,player:12,room:12,sid:twXlxWwYsNppGWH2AAAL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 133 is given out
+P1 is [uname:unidentified,ugen:man,udep:機械,uage:fresh,player:12,room:12,sid:twXlxWwYsNppGWH2AAAL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 67
+P2 increase 133
+P1 has 167
+P2 has 133
+
+Rounds 2
+God send 233
+Decision 233 is given out
+P1 is [uname:unidentified,ugen:man,udep:機械,uage:fresh,player:12,room:12,sid:twXlxWwYsNppGWH2AAAL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 233
+P2 increase 0
+P1 has 400
+P2 has 133
+
+Rounds 3
+God send 333
+Decision 111 is given out
+P1 is [uname:unidentified,ugen:man,udep:機械,uage:fresh,player:12,room:12,sid:twXlxWwYsNppGWH2AAAL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 222
+P2 increase 111
+P1 has 622
+P2 has 244
+
+Rounds 4
+God send 211
+Decision 211 is given out
+P1 is [uname:unidentified,ugen:man,udep:機械,uage:fresh,player:12,room:12,sid:twXlxWwYsNppGWH2AAAL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 211
+P2 increase 0
+P1 has 833
+P2 has 244
+
+Rounds 5
+God send 311
+Decision 150 is given out
+P1 is [uname:unidentified,ugen:man,udep:機械,uage:fresh,player:12,room:12,sid:twXlxWwYsNppGWH2AAAL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 161
+P2 increase 150
+P1 has 994
+P2 has 394
+
+Rounds 6
+God send 250
+Decision 250 is given out
+P1 is [uname:unidentified,ugen:man,udep:機械,uage:fresh,player:12,room:12,sid:twXlxWwYsNppGWH2AAAL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 250
+P2 increase 0
+P1 has 1244
+P2 has 394
+
+Rounds 7
+God send 350
+Decision 150 is given out
+P1 is [uname:unidentified,ugen:man,udep:機械,uage:fresh,player:12,room:12,sid:twXlxWwYsNppGWH2AAAL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 150
+P1 has 1444
+P2 has 544
+
+Rounds 8
+God send 250
+Decision 250 is given out
+P1 is [uname:unidentified,ugen:man,udep:機械,uage:fresh,player:12,room:12,sid:twXlxWwYsNppGWH2AAAL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 250
+P2 increase 0
+P1 has 1694
+P2 has 544
+
+Rounds 9
+God send 350
+Decision 0 is given out
+P1 is [uname:unidentified,ugen:man,udep:機械,uage:fresh,player:12,room:12,sid:twXlxWwYsNppGWH2AAAL]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 350
+P2 increase 0
+P1 has 2044
+P2 has 544
+

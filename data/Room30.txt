@@ -98,3 +98,103 @@ P2 increase 0
 P1 has 1500
 P2 has 1500
 
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:Will,ugen:man,udep:財金系,uage:suffer,player:30,room:30,sid:3uYjlUo3929k935WAAAd]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 50 is given out
+P1 is [uname:Will,ugen:man,udep:財金系,uage:suffer,player:30,room:30,sid:3uYjlUo3929k935WAAAd]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 150
+P2 increase 50
+P1 has 250
+P2 has 50
+
+Rounds 2
+God send 150
+Decision 150 is given out
+P1 is [uname:Will,ugen:man,udep:財金系,uage:suffer,player:30,room:30,sid:3uYjlUo3929k935WAAAd]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 150
+P2 increase 0
+P1 has 400
+P2 has 50
+
+Rounds 3
+God send 250
+Decision 125 is given out
+P1 is [uname:Will,ugen:man,udep:財金系,uage:suffer,player:30,room:30,sid:3uYjlUo3929k935WAAAd]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 125
+P2 increase 125
+P1 has 525
+P2 has 175
+
+Rounds 4
+God send 225
+Decision 225 is given out
+P1 is [uname:Will,ugen:man,udep:財金系,uage:suffer,player:30,room:30,sid:3uYjlUo3929k935WAAAd]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 225
+P2 increase 0
+P1 has 750
+P2 has 175
+
+Rounds 5
+God send 325
+Decision 125 is given out
+P1 is [uname:Will,ugen:man,udep:財金系,uage:suffer,player:30,room:30,sid:3uYjlUo3929k935WAAAd]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 125
+P1 has 950
+P2 has 300
+
+Rounds 6
+God send 225
+Decision 225 is given out
+P1 is [uname:Will,ugen:man,udep:財金系,uage:suffer,player:30,room:30,sid:3uYjlUo3929k935WAAAd]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 225
+P2 increase 0
+P1 has 1175
+P2 has 300
+
+Rounds 7
+God send 325
+Decision 125 is given out
+P1 is [uname:Will,ugen:man,udep:財金系,uage:suffer,player:30,room:30,sid:3uYjlUo3929k935WAAAd]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 125
+P1 has 1375
+P2 has 425
+
+Rounds 8
+God send 225
+Decision 225 is given out
+P1 is [uname:Will,ugen:man,udep:財金系,uage:suffer,player:30,room:30,sid:3uYjlUo3929k935WAAAd]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 225
+P2 increase 0
+P1 has 1600
+P2 has 425
+
+Rounds 9
+God send 325
+Decision 125 is given out
+P1 is [uname:Will,ugen:man,udep:財金系,uage:suffer,player:30,room:30,sid:3uYjlUo3929k935WAAAd]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 200
+P2 increase 125
+P1 has 1800
+P2 has 550
+

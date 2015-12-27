@@ -88,9 +88,12 @@
             }
             if(idx!=-1){
                 console.log("server.js - removing client:"+sID);
-                clearInterval(this.tHands[this.clients[idx].roomnum-1]);
-                clearTimeout(this.tmHands[this.clients[idx].roomnum-1]);
-                this.rooms[this.clients[idx].roomnum-1].valid=false;
+		if (this.clients[idx].roomnum!=0)
+		{
+                	clearInterval(this.tHands[this.clients[idx].roomnum-1]);
+                	clearTimeout(this.tmHands[this.clients[idx].roomnum-1]);
+                	this.rooms[this.clients[idx].roomnum-1].valid=false;
+		}
                 this.clients.splice(idx,1,"");           
             }
 

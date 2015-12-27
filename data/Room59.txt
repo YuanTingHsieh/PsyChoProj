@@ -68,3 +68,13 @@ P2 increase 0
 P1 has 1600
 P2 has 1200
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:59,room:59,sid:A67dXxAmugwQyEc7AAA6]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+

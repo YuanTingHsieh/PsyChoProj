@@ -1,0 +1,10 @@
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:縫,ugen:woman,udep:社會學系,uage:fresh,player:65,room:65,sid:wKiX3hpSd82baaGNAABA]
+P2 is [oppotype:1,name:Nogard]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+

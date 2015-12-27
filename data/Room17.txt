@@ -98,3 +98,103 @@ P2 increase 96
 P1 has 901
 P2 has 805
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:張晉維,ugen:man,udep:人類學系,uage:fresh,player:17,room:17,sid:F73j97NPUbJw4l4GAAAQ]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 10 is given out
+P1 is [uname:張晉維,ugen:man,udep:人類學系,uage:fresh,player:17,room:17,sid:F73j97NPUbJw4l4GAAAQ]
+P2 is [oppotype:2,name:Kris]
+P1 increase 140
+P2 increase 10
+P1 has 190
+P2 has 60
+
+Rounds 2
+God send 110
+Decision 55 is given out
+P1 is [uname:張晉維,ugen:man,udep:人類學系,uage:fresh,player:17,room:17,sid:F73j97NPUbJw4l4GAAAQ]
+P2 is [oppotype:2,name:Kris]
+P1 increase 55
+P2 increase 55
+P1 has 245
+P2 has 115
+
+Rounds 3
+God send 155
+Decision 0 is given out
+P1 is [uname:張晉維,ugen:man,udep:人類學系,uage:fresh,player:17,room:17,sid:F73j97NPUbJw4l4GAAAQ]
+P2 is [oppotype:2,name:Kris]
+P1 increase 155
+P2 increase 0
+P1 has 400
+P2 has 115
+
+Rounds 4
+God send 100
+Decision 50 is given out
+P1 is [uname:張晉維,ugen:man,udep:人類學系,uage:fresh,player:17,room:17,sid:F73j97NPUbJw4l4GAAAQ]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 450
+P2 has 165
+
+Rounds 5
+God send 150
+Decision 40 is given out
+P1 is [uname:張晉維,ugen:man,udep:人類學系,uage:fresh,player:17,room:17,sid:F73j97NPUbJw4l4GAAAQ]
+P2 is [oppotype:2,name:Kris]
+P1 increase 110
+P2 increase 40
+P1 has 560
+P2 has 205
+
+Rounds 6
+God send 140
+Decision 70 is given out
+P1 is [uname:張晉維,ugen:man,udep:人類學系,uage:fresh,player:17,room:17,sid:F73j97NPUbJw4l4GAAAQ]
+P2 is [oppotype:2,name:Kris]
+P1 increase 70
+P2 increase 70
+P1 has 630
+P2 has 275
+
+Rounds 7
+God send 170
+Decision 50 is given out
+P1 is [uname:張晉維,ugen:man,udep:人類學系,uage:fresh,player:17,room:17,sid:F73j97NPUbJw4l4GAAAQ]
+P2 is [oppotype:2,name:Kris]
+P1 increase 120
+P2 increase 50
+P1 has 750
+P2 has 325
+
+Rounds 8
+God send 150
+Decision 75 is given out
+P1 is [uname:張晉維,ugen:man,udep:人類學系,uage:fresh,player:17,room:17,sid:F73j97NPUbJw4l4GAAAQ]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 75
+P1 has 825
+P2 has 400
+
+Rounds 9
+God send 175
+Decision 75 is given out
+P1 is [uname:張晉維,ugen:man,udep:人類學系,uage:fresh,player:17,room:17,sid:F73j97NPUbJw4l4GAAAQ]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 75
+P1 has 925
+P2 has 475
+

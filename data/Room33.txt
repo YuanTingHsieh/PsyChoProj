@@ -98,3 +98,103 @@ P2 increase 500
 P1 has 2400
 P2 has 1900
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:明,ugen:man,udep:獸醫所,uage:fresh,player:33,room:33,sid:FWAvLJ0gXSHPcKzdAAAg]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 49 is given out
+P1 is [uname:明,ugen:man,udep:獸醫所,uage:fresh,player:33,room:33,sid:FWAvLJ0gXSHPcKzdAAAg]
+P2 is [oppotype:2,name:Kris]
+P1 increase 101
+P2 increase 49
+P1 has 151
+P2 has 99
+
+Rounds 2
+God send 149
+Decision 74 is given out
+P1 is [uname:明,ugen:man,udep:獸醫所,uage:fresh,player:33,room:33,sid:FWAvLJ0gXSHPcKzdAAAg]
+P2 is [oppotype:2,name:Kris]
+P1 increase 74
+P2 increase 75
+P1 has 225
+P2 has 174
+
+Rounds 3
+God send 174
+Decision 76 is given out
+P1 is [uname:明,ugen:man,udep:獸醫所,uage:fresh,player:33,room:33,sid:FWAvLJ0gXSHPcKzdAAAg]
+P2 is [oppotype:2,name:Kris]
+P1 increase 98
+P2 increase 76
+P1 has 323
+P2 has 250
+
+Rounds 4
+God send 176
+Decision 88 is given out
+P1 is [uname:明,ugen:man,udep:獸醫所,uage:fresh,player:33,room:33,sid:FWAvLJ0gXSHPcKzdAAAg]
+P2 is [oppotype:2,name:Kris]
+P1 increase 88
+P2 increase 88
+P1 has 411
+P2 has 338
+
+Rounds 5
+God send 188
+Decision 24 is given out
+P1 is [uname:明,ugen:man,udep:獸醫所,uage:fresh,player:33,room:33,sid:FWAvLJ0gXSHPcKzdAAAg]
+P2 is [oppotype:2,name:Kris]
+P1 increase 164
+P2 increase 24
+P1 has 575
+P2 has 362
+
+Rounds 6
+God send 124
+Decision 62 is given out
+P1 is [uname:明,ugen:man,udep:獸醫所,uage:fresh,player:33,room:33,sid:FWAvLJ0gXSHPcKzdAAAg]
+P2 is [oppotype:2,name:Kris]
+P1 increase 62
+P2 increase 62
+P1 has 637
+P2 has 424
+
+Rounds 7
+God send 162
+Decision 74 is given out
+P1 is [uname:明,ugen:man,udep:獸醫所,uage:fresh,player:33,room:33,sid:FWAvLJ0gXSHPcKzdAAAg]
+P2 is [oppotype:2,name:Kris]
+P1 increase 88
+P2 increase 74
+P1 has 725
+P2 has 498
+
+Rounds 8
+God send 174
+Decision 87 is given out
+P1 is [uname:明,ugen:man,udep:獸醫所,uage:fresh,player:33,room:33,sid:FWAvLJ0gXSHPcKzdAAAg]
+P2 is [oppotype:2,name:Kris]
+P1 increase 87
+P2 increase 87
+P1 has 812
+P2 has 585
+
+Rounds 9
+God send 187
+Decision 62 is given out
+P1 is [uname:明,ugen:man,udep:獸醫所,uage:fresh,player:33,room:33,sid:FWAvLJ0gXSHPcKzdAAAg]
+P2 is [oppotype:2,name:Kris]
+P1 increase 125
+P2 increase 62
+P1 has 937
+P2 has 647
+

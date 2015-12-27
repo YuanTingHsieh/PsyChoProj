@@ -4798,3 +4798,103 @@ P2 increase 0
 P1 has 996
 P2 has 390
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:ＱＱ,ugen:woman,udep:會計,uage:suffer,player:1,room:1,sid:fbQb4MFEUfygN-pxAAAA]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 80 is given out
+P1 is [uname:ＱＱ,ugen:woman,udep:會計,uage:suffer,player:1,room:1,sid:fbQb4MFEUfygN-pxAAAA]
+P2 is [oppotype:2,name:Kris]
+P1 increase 70
+P2 increase 80
+P1 has 120
+P2 has 130
+
+Rounds 2
+God send 180
+Decision 90 is given out
+P1 is [uname:ＱＱ,ugen:woman,udep:會計,uage:suffer,player:1,room:1,sid:fbQb4MFEUfygN-pxAAAA]
+P2 is [oppotype:2,name:Kris]
+P1 increase 90
+P2 increase 90
+P1 has 210
+P2 has 220
+
+Rounds 3
+God send 190
+Decision 100 is given out
+P1 is [uname:ＱＱ,ugen:woman,udep:會計,uage:suffer,player:1,room:1,sid:fbQb4MFEUfygN-pxAAAA]
+P2 is [oppotype:2,name:Kris]
+P1 increase 90
+P2 increase 100
+P1 has 300
+P2 has 320
+
+Rounds 4
+God send 200
+Decision 100 is given out
+P1 is [uname:ＱＱ,ugen:woman,udep:會計,uage:suffer,player:1,room:1,sid:fbQb4MFEUfygN-pxAAAA]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 400
+P2 has 420
+
+Rounds 5
+God send 200
+Decision 130 is given out
+P1 is [uname:ＱＱ,ugen:woman,udep:會計,uage:suffer,player:1,room:1,sid:fbQb4MFEUfygN-pxAAAA]
+P2 is [oppotype:2,name:Kris]
+P1 increase 70
+P2 increase 130
+P1 has 470
+P2 has 550
+
+Rounds 6
+God send 230
+Decision 115 is given out
+P1 is [uname:ＱＱ,ugen:woman,udep:會計,uage:suffer,player:1,room:1,sid:fbQb4MFEUfygN-pxAAAA]
+P2 is [oppotype:2,name:Kris]
+P1 increase 115
+P2 increase 115
+P1 has 585
+P2 has 665
+
+Rounds 7
+God send 215
+Decision 110 is given out
+P1 is [uname:ＱＱ,ugen:woman,udep:會計,uage:suffer,player:1,room:1,sid:fbQb4MFEUfygN-pxAAAA]
+P2 is [oppotype:2,name:Kris]
+P1 increase 105
+P2 increase 110
+P1 has 690
+P2 has 775
+
+Rounds 8
+God send 210
+Decision 105 is given out
+P1 is [uname:ＱＱ,ugen:woman,udep:會計,uage:suffer,player:1,room:1,sid:fbQb4MFEUfygN-pxAAAA]
+P2 is [oppotype:2,name:Kris]
+P1 increase 105
+P2 increase 105
+P1 has 795
+P2 has 880
+
+Rounds 9
+God send 205
+Decision 110 is given out
+P1 is [uname:ＱＱ,ugen:woman,udep:會計,uage:suffer,player:1,room:1,sid:fbQb4MFEUfygN-pxAAAA]
+P2 is [oppotype:2,name:Kris]
+P1 increase 95
+P2 increase 110
+P1 has 890
+P2 has 990
+

@@ -98,3 +98,103 @@ P2 increase 0
 P1 has 3247
 P2 has 1747
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:21,room:21,sid:iCmFQLvQzpfT3d7nAAAU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:21,room:21,sid:iCmFQLvQzpfT3d7nAAAU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 125
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:21,room:21,sid:iCmFQLvQzpfT3d7nAAAU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 213
+
+Rounds 3
+God send 187
+Decision 93 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:21,room:21,sid:iCmFQLvQzpfT3d7nAAAU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 94
+P2 increase 93
+P1 has 306
+P2 has 306
+
+Rounds 4
+God send 193
+Decision 96 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:21,room:21,sid:iCmFQLvQzpfT3d7nAAAU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 96
+P2 increase 97
+P1 has 402
+P2 has 403
+
+Rounds 5
+God send 196
+Decision 98 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:21,room:21,sid:iCmFQLvQzpfT3d7nAAAU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 98
+P2 increase 98
+P1 has 500
+P2 has 501
+
+Rounds 6
+God send 198
+Decision 99 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:21,room:21,sid:iCmFQLvQzpfT3d7nAAAU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 99
+P2 increase 99
+P1 has 599
+P2 has 600
+
+Rounds 7
+God send 199
+Decision 100 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:21,room:21,sid:iCmFQLvQzpfT3d7nAAAU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 99
+P2 increase 100
+P1 has 698
+P2 has 700
+
+Rounds 8
+God send 200
+Decision 100 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:21,room:21,sid:iCmFQLvQzpfT3d7nAAAU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 798
+P2 has 800
+
+Rounds 9
+God send 200
+Decision 100 is given out
+P1 is [uname:,ugen:undefined,udep:,uage:undefined,player:21,room:21,sid:iCmFQLvQzpfT3d7nAAAU]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 898
+P2 has 900
+

@@ -2048,3 +2048,103 @@ P2 increase 100
 P1 has 900
 P2 has 1070
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:lee30sonia,ugen:woman,udep:電機,uage:fresh,player:2,room:2,sid:ISEEIfIbbb2HtWKXAAAB]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:lee30sonia,ugen:woman,udep:電機,uage:fresh,player:2,room:2,sid:ISEEIfIbbb2HtWKXAAAB]
+P2 is [oppotype:2,name:Kris]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 125
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:lee30sonia,ugen:woman,udep:電機,uage:fresh,player:2,room:2,sid:ISEEIfIbbb2HtWKXAAAB]
+P2 is [oppotype:2,name:Kris]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 213
+
+Rounds 3
+God send 187
+Decision 90 is given out
+P1 is [uname:lee30sonia,ugen:woman,udep:電機,uage:fresh,player:2,room:2,sid:ISEEIfIbbb2HtWKXAAAB]
+P2 is [oppotype:2,name:Kris]
+P1 increase 97
+P2 increase 90
+P1 has 309
+P2 has 303
+
+Rounds 4
+God send 190
+Decision 95 is given out
+P1 is [uname:lee30sonia,ugen:woman,udep:電機,uage:fresh,player:2,room:2,sid:ISEEIfIbbb2HtWKXAAAB]
+P2 is [oppotype:2,name:Kris]
+P1 increase 95
+P2 increase 95
+P1 has 404
+P2 has 398
+
+Rounds 5
+God send 195
+Decision 100 is given out
+P1 is [uname:lee30sonia,ugen:woman,udep:電機,uage:fresh,player:2,room:2,sid:ISEEIfIbbb2HtWKXAAAB]
+P2 is [oppotype:2,name:Kris]
+P1 increase 95
+P2 increase 100
+P1 has 499
+P2 has 498
+
+Rounds 6
+God send 200
+Decision 100 is given out
+P1 is [uname:lee30sonia,ugen:woman,udep:電機,uage:fresh,player:2,room:2,sid:ISEEIfIbbb2HtWKXAAAB]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 599
+P2 has 598
+
+Rounds 7
+God send 200
+Decision 100 is given out
+P1 is [uname:lee30sonia,ugen:woman,udep:電機,uage:fresh,player:2,room:2,sid:ISEEIfIbbb2HtWKXAAAB]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 699
+P2 has 698
+
+Rounds 8
+God send 200
+Decision 100 is given out
+P1 is [uname:lee30sonia,ugen:woman,udep:電機,uage:fresh,player:2,room:2,sid:ISEEIfIbbb2HtWKXAAAB]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 100
+P1 has 799
+P2 has 798
+
+Rounds 9
+God send 200
+Decision 0 is given out
+P1 is [uname:lee30sonia,ugen:woman,udep:電機,uage:fresh,player:2,room:2,sid:ISEEIfIbbb2HtWKXAAAB]
+P2 is [oppotype:2,name:Kris]
+P1 increase 200
+P2 increase 0
+P1 has 999
+P2 has 798
+

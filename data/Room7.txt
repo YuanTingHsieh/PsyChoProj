@@ -318,3 +318,103 @@ P2 increase 460
 P1 has 880
 P2 has 1800
 
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:毛毛蟲,ugen:man,udep:財金,uage:fresh,player:7,room:7,sid:dk3V8Fyg94Uu4mDiAAAG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 70 is given out
+P1 is [uname:毛毛蟲,ugen:man,udep:財金,uage:fresh,player:7,room:7,sid:dk3V8Fyg94Uu4mDiAAAG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 80
+P2 increase 70
+P1 has 130
+P2 has 120
+
+Rounds 2
+God send 170
+Decision 85 is given out
+P1 is [uname:毛毛蟲,ugen:man,udep:財金,uage:fresh,player:7,room:7,sid:dk3V8Fyg94Uu4mDiAAAG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 85
+P2 increase 85
+P1 has 215
+P2 has 205
+
+Rounds 3
+God send 185
+Decision 90 is given out
+P1 is [uname:毛毛蟲,ugen:man,udep:財金,uage:fresh,player:7,room:7,sid:dk3V8Fyg94Uu4mDiAAAG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 95
+P2 increase 90
+P1 has 310
+P2 has 295
+
+Rounds 4
+God send 190
+Decision 95 is given out
+P1 is [uname:毛毛蟲,ugen:man,udep:財金,uage:fresh,player:7,room:7,sid:dk3V8Fyg94Uu4mDiAAAG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 95
+P2 increase 95
+P1 has 405
+P2 has 390
+
+Rounds 5
+God send 195
+Decision 95 is given out
+P1 is [uname:毛毛蟲,ugen:man,udep:財金,uage:fresh,player:7,room:7,sid:dk3V8Fyg94Uu4mDiAAAG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 100
+P2 increase 95
+P1 has 505
+P2 has 485
+
+Rounds 6
+God send 195
+Decision 97 is given out
+P1 is [uname:毛毛蟲,ugen:man,udep:財金,uage:fresh,player:7,room:7,sid:dk3V8Fyg94Uu4mDiAAAG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 97
+P2 increase 98
+P1 has 602
+P2 has 583
+
+Rounds 7
+God send 197
+Decision 80 is given out
+P1 is [uname:毛毛蟲,ugen:man,udep:財金,uage:fresh,player:7,room:7,sid:dk3V8Fyg94Uu4mDiAAAG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 117
+P2 increase 80
+P1 has 719
+P2 has 663
+
+Rounds 8
+God send 180
+Decision 90 is given out
+P1 is [uname:毛毛蟲,ugen:man,udep:財金,uage:fresh,player:7,room:7,sid:dk3V8Fyg94Uu4mDiAAAG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 90
+P2 increase 90
+P1 has 809
+P2 has 753
+
+Rounds 9
+God send 190
+Decision 0 is given out
+P1 is [uname:毛毛蟲,ugen:man,udep:財金,uage:fresh,player:7,room:7,sid:dk3V8Fyg94Uu4mDiAAAG]
+P2 is [oppotype:2,name:Kris]
+P1 increase 190
+P2 increase 0
+P1 has 999
+P2 has 753
+
