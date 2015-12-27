@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:LOL,ugen:undefined,udep:會計,uage:junior,player:48,room:48,sid:H9tYAZMms9FDOyJjAAAv]
+P2 is [oppotype:2,name:Kris,playwith:48]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 100 is given out
+P1 is [uname:LOL,ugen:undefined,udep:會計,uage:junior,player:48,room:48,sid:H9tYAZMms9FDOyJjAAAv]
+P2 is [oppotype:2,name:Kris,playwith:48]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 150
+
+Rounds 2
+God send 200
+Decision 100 is given out
+P1 is [uname:LOL,ugen:undefined,udep:會計,uage:junior,player:48,room:48,sid:H9tYAZMms9FDOyJjAAAv]
+P2 is [oppotype:2,name:Kris,playwith:48]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 250
+
+Rounds 3
+God send 200
+Decision 125 is given out
+P1 is [uname:LOL,ugen:undefined,udep:會計,uage:junior,player:48,room:48,sid:H9tYAZMms9FDOyJjAAAv]
+P2 is [oppotype:2,name:Kris,playwith:48]
+P1 increase 75
+P2 increase 125
+P1 has 275
+P2 has 375
+
+Rounds 4
+God send 225
+Decision 112 is given out
+P1 is [uname:LOL,ugen:undefined,udep:會計,uage:junior,player:48,room:48,sid:H9tYAZMms9FDOyJjAAAv]
+P2 is [oppotype:2,name:Kris,playwith:48]
+P1 increase 112
+P2 increase 113
+P1 has 387
+P2 has 488
+
+Rounds 5
+God send 212
+Decision 150 is given out
+P1 is [uname:LOL,ugen:undefined,udep:會計,uage:junior,player:48,room:48,sid:H9tYAZMms9FDOyJjAAAv]
+P2 is [oppotype:2,name:Kris,playwith:48]
+P1 increase 62
+P2 increase 150
+P1 has 449
+P2 has 638
+
+Rounds 6
+God send 250
+Decision 125 is given out
+P1 is [uname:LOL,ugen:undefined,udep:會計,uage:junior,player:48,room:48,sid:H9tYAZMms9FDOyJjAAAv]
+P2 is [oppotype:2,name:Kris,playwith:48]
+P1 increase 125
+P2 increase 125
+P1 has 574
+P2 has 763
+
+Rounds 7
+God send 225
+Decision 100 is given out
+P1 is [uname:LOL,ugen:undefined,udep:會計,uage:junior,player:48,room:48,sid:H9tYAZMms9FDOyJjAAAv]
+P2 is [oppotype:2,name:Kris,playwith:48]
+P1 increase 125
+P2 increase 100
+P1 has 699
+P2 has 863
+
+Rounds 8
+God send 200
+Decision 100 is given out
+P1 is [uname:LOL,ugen:undefined,udep:會計,uage:junior,player:48,room:48,sid:H9tYAZMms9FDOyJjAAAv]
+P2 is [oppotype:2,name:Kris,playwith:48]
+P1 increase 100
+P2 increase 100
+P1 has 799
+P2 has 963
+
+Rounds 9
+God send 200
+Decision 0 is given out
+P1 is [uname:LOL,ugen:undefined,udep:會計,uage:junior,player:48,room:48,sid:H9tYAZMms9FDOyJjAAAv]
+P2 is [oppotype:2,name:Kris,playwith:48]
+P1 increase 200
+P2 increase 0
+P1 has 999
+P2 has 963
+

@@ -1,8 +1,7 @@
 (function(){
-    var Opponent = function(clinum){
+    var Opponent = function(){
         this.optype = Math.floor(Math.random() * 3) ;
         this.optname = "";
-        this.playwith = clinum;
         this.setName();
         this.money=0;
         this.othermon =0;
@@ -10,8 +9,7 @@
     Opponent.prototype ={
     	toString:function()
     	{
-    		return "[oppotype:"+this.optype+",name:"+this.optname
-    				+",playwith:"+this.playwith+"]";
+    		return "[oppotype:"+this.optype+",name:"+this.optname+"]";
     	},
     	setName:function()
     	{
@@ -46,8 +44,8 @@
 		return ooop;
     	},
     }
-    exports.newOpponent = function(clinum)
+    exports.newOpponent = function()
     {
-    	return new Opponent(clinum);
+    	return new Opponent();
     }
 }())

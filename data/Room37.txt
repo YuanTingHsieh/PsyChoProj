@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:Jiiiimmy,ugen:man,udep:數學,uage:senior,player:37,room:37,sid:mfvzSX2MaJYZMfASAAAk]
+P2 is [oppotype:2,name:Kris,playwith:37]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 30 is given out
+P1 is [uname:Jiiiimmy,ugen:man,udep:數學,uage:senior,player:37,room:37,sid:mfvzSX2MaJYZMfASAAAk]
+P2 is [oppotype:2,name:Kris,playwith:37]
+P1 increase 120
+P2 increase 30
+P1 has 170
+P2 has 80
+
+Rounds 2
+God send 130
+Decision 65 is given out
+P1 is [uname:Jiiiimmy,ugen:man,udep:數學,uage:senior,player:37,room:37,sid:mfvzSX2MaJYZMfASAAAk]
+P2 is [oppotype:2,name:Kris,playwith:37]
+P1 increase 65
+P2 increase 65
+P1 has 235
+P2 has 145
+
+Rounds 3
+God send 165
+Decision 0 is given out
+P1 is [uname:Jiiiimmy,ugen:man,udep:數學,uage:senior,player:37,room:37,sid:mfvzSX2MaJYZMfASAAAk]
+P2 is [oppotype:2,name:Kris,playwith:37]
+P1 increase 165
+P2 increase 0
+P1 has 400
+P2 has 145
+
+Rounds 4
+God send 100
+Decision 50 is given out
+P1 is [uname:Jiiiimmy,ugen:man,udep:數學,uage:senior,player:37,room:37,sid:mfvzSX2MaJYZMfASAAAk]
+P2 is [oppotype:2,name:Kris,playwith:37]
+P1 increase 50
+P2 increase 50
+P1 has 450
+P2 has 195
+
+Rounds 5
+God send 150
+Decision 100 is given out
+P1 is [uname:Jiiiimmy,ugen:man,udep:數學,uage:senior,player:37,room:37,sid:mfvzSX2MaJYZMfASAAAk]
+P2 is [oppotype:2,name:Kris,playwith:37]
+P1 increase 50
+P2 increase 100
+P1 has 500
+P2 has 295
+
+Rounds 6
+God send 200
+Decision 100 is given out
+P1 is [uname:Jiiiimmy,ugen:man,udep:數學,uage:senior,player:37,room:37,sid:mfvzSX2MaJYZMfASAAAk]
+P2 is [oppotype:2,name:Kris,playwith:37]
+P1 increase 100
+P2 increase 100
+P1 has 600
+P2 has 395
+
+Rounds 7
+God send 200
+Decision 100 is given out
+P1 is [uname:Jiiiimmy,ugen:man,udep:數學,uage:senior,player:37,room:37,sid:mfvzSX2MaJYZMfASAAAk]
+P2 is [oppotype:2,name:Kris,playwith:37]
+P1 increase 100
+P2 increase 100
+P1 has 700
+P2 has 495
+
+Rounds 8
+God send 200
+Decision 100 is given out
+P1 is [uname:Jiiiimmy,ugen:man,udep:數學,uage:senior,player:37,room:37,sid:mfvzSX2MaJYZMfASAAAk]
+P2 is [oppotype:2,name:Kris,playwith:37]
+P1 increase 100
+P2 increase 100
+P1 has 800
+P2 has 595
+
+Rounds 9
+God send 200
+Decision 0 is given out
+P1 is [uname:Jiiiimmy,ugen:man,udep:數學,uage:senior,player:37,room:37,sid:mfvzSX2MaJYZMfASAAAk]
+P2 is [oppotype:2,name:Kris,playwith:37]
+P1 increase 200
+P2 increase 0
+P1 has 1000
+P2 has 595
+

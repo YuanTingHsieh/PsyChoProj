@@ -8,3 +8,103 @@ P2 increase 50
 P1 has 50
 P2 has 50
 
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:Hugo,ugen:man,udep:化學,uage:fresh,player:11,room:11,sid:tdykbyXlSgm09Rh4AAAK]
+P2 is [oppotype:0,name:Dragon,playwith:11]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 10 is given out
+P1 is [uname:Hugo,ugen:man,udep:化學,uage:fresh,player:11,room:11,sid:tdykbyXlSgm09Rh4AAAK]
+P2 is [oppotype:0,name:Dragon,playwith:11]
+P1 increase 90
+P2 increase 10
+P1 has 90
+P2 has 110
+
+Rounds 2
+God send 110
+Decision 10 is given out
+P1 is [uname:Hugo,ugen:man,udep:化學,uage:fresh,player:11,room:11,sid:tdykbyXlSgm09Rh4AAAK]
+P2 is [oppotype:0,name:Dragon,playwith:11]
+P1 increase 10
+P2 increase 100
+P1 has 100
+P2 has 210
+
+Rounds 3
+God send 110
+Decision 15 is given out
+P1 is [uname:Hugo,ugen:man,udep:化學,uage:fresh,player:11,room:11,sid:tdykbyXlSgm09Rh4AAAK]
+P2 is [oppotype:0,name:Dragon,playwith:11]
+P1 increase 95
+P2 increase 15
+P1 has 195
+P2 has 225
+
+Rounds 4
+God send 115
+Decision 15 is given out
+P1 is [uname:Hugo,ugen:man,udep:化學,uage:fresh,player:11,room:11,sid:tdykbyXlSgm09Rh4AAAK]
+P2 is [oppotype:0,name:Dragon,playwith:11]
+P1 increase 15
+P2 increase 100
+P1 has 210
+P2 has 325
+
+Rounds 5
+God send 115
+Decision 10 is given out
+P1 is [uname:Hugo,ugen:man,udep:化學,uage:fresh,player:11,room:11,sid:tdykbyXlSgm09Rh4AAAK]
+P2 is [oppotype:0,name:Dragon,playwith:11]
+P1 increase 105
+P2 increase 10
+P1 has 315
+P2 has 335
+
+Rounds 6
+God send 110
+Decision 10 is given out
+P1 is [uname:Hugo,ugen:man,udep:化學,uage:fresh,player:11,room:11,sid:tdykbyXlSgm09Rh4AAAK]
+P2 is [oppotype:0,name:Dragon,playwith:11]
+P1 increase 10
+P2 increase 100
+P1 has 325
+P2 has 435
+
+Rounds 7
+God send 110
+Decision 110 is given out
+P1 is [uname:Hugo,ugen:man,udep:化學,uage:fresh,player:11,room:11,sid:tdykbyXlSgm09Rh4AAAK]
+P2 is [oppotype:0,name:Dragon,playwith:11]
+P1 increase 0
+P2 increase 110
+P1 has 325
+P2 has 545
+
+Rounds 8
+God send 210
+Decision 110 is given out
+P1 is [uname:Hugo,ugen:man,udep:化學,uage:fresh,player:11,room:11,sid:tdykbyXlSgm09Rh4AAAK]
+P2 is [oppotype:0,name:Dragon,playwith:11]
+P1 increase 110
+P2 increase 100
+P1 has 435
+P2 has 645
+
+Rounds 9
+God send 210
+Decision 110 is given out
+P1 is [uname:Hugo,ugen:man,udep:化學,uage:fresh,player:11,room:11,sid:tdykbyXlSgm09Rh4AAAK]
+P2 is [oppotype:0,name:Dragon,playwith:11]
+P1 increase 100
+P2 increase 110
+P1 has 535
+P2 has 755
+

@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:阿月,ugen:woman,udep:土木,uage:suffer,player:16,room:16,sid:vC0V5x8T71DqI12uAAAP]
+P2 is [oppotype:2,name:Kris,playwith:16]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 90 is given out
+P1 is [uname:阿月,ugen:woman,udep:土木,uage:suffer,player:16,room:16,sid:vC0V5x8T71DqI12uAAAP]
+P2 is [oppotype:2,name:Kris,playwith:16]
+P1 increase 60
+P2 increase 90
+P1 has 110
+P2 has 140
+
+Rounds 2
+God send 190
+Decision 95 is given out
+P1 is [uname:阿月,ugen:woman,udep:土木,uage:suffer,player:16,room:16,sid:vC0V5x8T71DqI12uAAAP]
+P2 is [oppotype:2,name:Kris,playwith:16]
+P1 increase 95
+P2 increase 95
+P1 has 205
+P2 has 235
+
+Rounds 3
+God send 195
+Decision 135 is given out
+P1 is [uname:阿月,ugen:woman,udep:土木,uage:suffer,player:16,room:16,sid:vC0V5x8T71DqI12uAAAP]
+P2 is [oppotype:2,name:Kris,playwith:16]
+P1 increase 60
+P2 increase 135
+P1 has 265
+P2 has 370
+
+Rounds 4
+God send 235
+Decision 117 is given out
+P1 is [uname:阿月,ugen:woman,udep:土木,uage:suffer,player:16,room:16,sid:vC0V5x8T71DqI12uAAAP]
+P2 is [oppotype:2,name:Kris,playwith:16]
+P1 increase 117
+P2 increase 118
+P1 has 382
+P2 has 488
+
+Rounds 5
+God send 217
+Decision 140 is given out
+P1 is [uname:阿月,ugen:woman,udep:土木,uage:suffer,player:16,room:16,sid:vC0V5x8T71DqI12uAAAP]
+P2 is [oppotype:2,name:Kris,playwith:16]
+P1 increase 77
+P2 increase 140
+P1 has 459
+P2 has 628
+
+Rounds 6
+God send 240
+Decision 120 is given out
+P1 is [uname:阿月,ugen:woman,udep:土木,uage:suffer,player:16,room:16,sid:vC0V5x8T71DqI12uAAAP]
+P2 is [oppotype:2,name:Kris,playwith:16]
+P1 increase 120
+P2 increase 120
+P1 has 579
+P2 has 748
+
+Rounds 7
+God send 220
+Decision 100 is given out
+P1 is [uname:阿月,ugen:woman,udep:土木,uage:suffer,player:16,room:16,sid:vC0V5x8T71DqI12uAAAP]
+P2 is [oppotype:2,name:Kris,playwith:16]
+P1 increase 120
+P2 increase 100
+P1 has 699
+P2 has 848
+
+Rounds 8
+God send 200
+Decision 100 is given out
+P1 is [uname:阿月,ugen:woman,udep:土木,uage:suffer,player:16,room:16,sid:vC0V5x8T71DqI12uAAAP]
+P2 is [oppotype:2,name:Kris,playwith:16]
+P1 increase 100
+P2 increase 100
+P1 has 799
+P2 has 948
+
+Rounds 9
+God send 200
+Decision 70 is given out
+P1 is [uname:阿月,ugen:woman,udep:土木,uage:suffer,player:16,room:16,sid:vC0V5x8T71DqI12uAAAP]
+P2 is [oppotype:2,name:Kris,playwith:16]
+P1 increase 130
+P2 increase 70
+P1 has 929
+P2 has 1018
+

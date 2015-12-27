@@ -1,0 +1,60 @@
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:鳳梨,ugen:man,udep:化學系,uage:fresh,player:52,room:52,sid:ecXTpsqWv44TUZ85AAAz]
+P2 is [oppotype:2,name:Kris,playwith:52]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:鳳梨,ugen:man,udep:化學系,uage:fresh,player:52,room:52,sid:ecXTpsqWv44TUZ85AAAz]
+P2 is [oppotype:2,name:Kris,playwith:52]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 125
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:鳳梨,ugen:man,udep:化學系,uage:fresh,player:52,room:52,sid:ecXTpsqWv44TUZ85AAAz]
+P2 is [oppotype:2,name:Kris,playwith:52]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 213
+
+Rounds 3
+God send 187
+Decision 93 is given out
+P1 is [uname:鳳梨,ugen:man,udep:化學系,uage:fresh,player:52,room:52,sid:ecXTpsqWv44TUZ85AAAz]
+P2 is [oppotype:2,name:Kris,playwith:52]
+P1 increase 94
+P2 increase 93
+P1 has 306
+P2 has 306
+
+Rounds 4
+God send 193
+Decision 96 is given out
+P1 is [uname:鳳梨,ugen:man,udep:化學系,uage:fresh,player:52,room:52,sid:ecXTpsqWv44TUZ85AAAz]
+P2 is [oppotype:2,name:Kris,playwith:52]
+P1 increase 96
+P2 increase 97
+P1 has 402
+P2 has 403
+
+Rounds 5
+God send 196
+Decision 98 is given out
+P1 is [uname:鳳梨,ugen:man,udep:化學系,uage:fresh,player:52,room:52,sid:ecXTpsqWv44TUZ85AAAz]
+P2 is [oppotype:2,name:Kris,playwith:52]
+P1 increase 98
+P2 increase 98
+P1 has 500
+P2 has 501
+

@@ -68,6 +68,7 @@
                 "valid":true, "rounds":0, "activate":false, "times":this.timeup});
             this.tHands.push(null);
             this.tmHands.push(null);
+            this.opponents.push(opp.newOpponent());
             
         },
         removeClientByID:function(sID)
@@ -137,7 +138,6 @@
 		if (client.playernum ==0) 
 		{this.sendMessage(client,"Sorry, something goes wrong, please reconnect.");return;}
             client.roomnum = this.rooms.length;
-            this.opponents.push(opp.newOpponent(client.playernum));
 
             console.log("server.js - Room initing...  "+client.toString());
             this.sendStatus(client,true,this.rooms.length,this.opponents[this.clients.length-1].optname);

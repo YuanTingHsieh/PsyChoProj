@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:,ugen:man,udep:,uage:junior,player:45,room:45,sid:iPjST3qEkS_F3Hl5AAAs]
+P2 is [oppotype:0,name:Dragon,playwith:45]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 50 is given out
+P1 is [uname:,ugen:man,udep:,uage:junior,player:45,room:45,sid:iPjST3qEkS_F3Hl5AAAs]
+P2 is [oppotype:0,name:Dragon,playwith:45]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 150
+
+Rounds 2
+God send 150
+Decision 50 is given out
+P1 is [uname:,ugen:man,udep:,uage:junior,player:45,room:45,sid:iPjST3qEkS_F3Hl5AAAs]
+P2 is [oppotype:0,name:Dragon,playwith:45]
+P1 increase 50
+P2 increase 100
+P1 has 100
+P2 has 250
+
+Rounds 3
+God send 150
+Decision 50 is given out
+P1 is [uname:,ugen:man,udep:,uage:junior,player:45,room:45,sid:iPjST3qEkS_F3Hl5AAAs]
+P2 is [oppotype:0,name:Dragon,playwith:45]
+P1 increase 100
+P2 increase 50
+P1 has 200
+P2 has 300
+
+Rounds 4
+God send 150
+Decision 50 is given out
+P1 is [uname:,ugen:man,udep:,uage:junior,player:45,room:45,sid:iPjST3qEkS_F3Hl5AAAs]
+P2 is [oppotype:0,name:Dragon,playwith:45]
+P1 increase 50
+P2 increase 100
+P1 has 250
+P2 has 400
+
+Rounds 5
+God send 150
+Decision 150 is given out
+P1 is [uname:,ugen:man,udep:,uage:junior,player:45,room:45,sid:iPjST3qEkS_F3Hl5AAAs]
+P2 is [oppotype:0,name:Dragon,playwith:45]
+P1 increase 0
+P2 increase 150
+P1 has 250
+P2 has 550
+
+Rounds 6
+God send 250
+Decision 150 is given out
+P1 is [uname:,ugen:man,udep:,uage:junior,player:45,room:45,sid:iPjST3qEkS_F3Hl5AAAs]
+P2 is [oppotype:0,name:Dragon,playwith:45]
+P1 increase 150
+P2 increase 100
+P1 has 400
+P2 has 650
+
+Rounds 7
+God send 250
+Decision 250 is given out
+P1 is [uname:,ugen:man,udep:,uage:junior,player:45,room:45,sid:iPjST3qEkS_F3Hl5AAAs]
+P2 is [oppotype:0,name:Dragon,playwith:45]
+P1 increase 0
+P2 increase 250
+P1 has 400
+P2 has 900
+
+Rounds 8
+God send 350
+Decision 250 is given out
+P1 is [uname:,ugen:man,udep:,uage:junior,player:45,room:45,sid:iPjST3qEkS_F3Hl5AAAs]
+P2 is [oppotype:0,name:Dragon,playwith:45]
+P1 increase 250
+P2 increase 100
+P1 has 650
+P2 has 1000
+
+Rounds 9
+God send 350
+Decision 0 is given out
+P1 is [uname:,ugen:man,udep:,uage:junior,player:45,room:45,sid:iPjST3qEkS_F3Hl5AAAs]
+P2 is [oppotype:0,name:Dragon,playwith:45]
+P1 increase 350
+P2 increase 0
+P1 has 1000
+P2 has 1000
+

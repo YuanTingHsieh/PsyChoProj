@@ -1,0 +1,10 @@
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:Bus,ugen:man,udep:資管,uage:suffer,player:67,room:67,sid:J4GveoHZ0B_55H9oAABC]
+P2 is [oppotype:1,name:Nogard,playwith:67]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+

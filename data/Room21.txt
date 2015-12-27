@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:verybig,ugen:undefined,udep:電機,uage:junior,player:21,room:21,sid:TeuuqL1Cni-GXxCTAAAU]
+P2 is [oppotype:1,name:Nogard,playwith:21]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 199 is given out
+P1 is [uname:verybig,ugen:undefined,udep:電機,uage:junior,player:21,room:21,sid:TeuuqL1Cni-GXxCTAAAU]
+P2 is [oppotype:1,name:Nogard,playwith:21]
+P1 increase 1
+P2 increase 199
+P1 has 101
+P2 has 199
+
+Rounds 2
+God send 299
+Decision 299 is given out
+P1 is [uname:verybig,ugen:undefined,udep:電機,uage:junior,player:21,room:21,sid:TeuuqL1Cni-GXxCTAAAU]
+P2 is [oppotype:1,name:Nogard,playwith:21]
+P1 increase 299
+P2 increase 0
+P1 has 400
+P2 has 199
+
+Rounds 3
+God send 399
+Decision 398 is given out
+P1 is [uname:verybig,ugen:undefined,udep:電機,uage:junior,player:21,room:21,sid:TeuuqL1Cni-GXxCTAAAU]
+P2 is [oppotype:1,name:Nogard,playwith:21]
+P1 increase 1
+P2 increase 398
+P1 has 401
+P2 has 597
+
+Rounds 4
+God send 498
+Decision 498 is given out
+P1 is [uname:verybig,ugen:undefined,udep:電機,uage:junior,player:21,room:21,sid:TeuuqL1Cni-GXxCTAAAU]
+P2 is [oppotype:1,name:Nogard,playwith:21]
+P1 increase 498
+P2 increase 0
+P1 has 899
+P2 has 597
+
+Rounds 5
+God send 598
+Decision 500 is given out
+P1 is [uname:verybig,ugen:undefined,udep:電機,uage:junior,player:21,room:21,sid:TeuuqL1Cni-GXxCTAAAU]
+P2 is [oppotype:1,name:Nogard,playwith:21]
+P1 increase 98
+P2 increase 500
+P1 has 997
+P2 has 1097
+
+Rounds 6
+God send 600
+Decision 600 is given out
+P1 is [uname:verybig,ugen:undefined,udep:電機,uage:junior,player:21,room:21,sid:TeuuqL1Cni-GXxCTAAAU]
+P2 is [oppotype:1,name:Nogard,playwith:21]
+P1 increase 600
+P2 increase 0
+P1 has 1597
+P2 has 1097
+
+Rounds 7
+God send 700
+Decision 650 is given out
+P1 is [uname:verybig,ugen:undefined,udep:電機,uage:junior,player:21,room:21,sid:TeuuqL1Cni-GXxCTAAAU]
+P2 is [oppotype:1,name:Nogard,playwith:21]
+P1 increase 50
+P2 increase 650
+P1 has 1647
+P2 has 1747
+
+Rounds 8
+God send 750
+Decision 750 is given out
+P1 is [uname:verybig,ugen:undefined,udep:電機,uage:junior,player:21,room:21,sid:TeuuqL1Cni-GXxCTAAAU]
+P2 is [oppotype:1,name:Nogard,playwith:21]
+P1 increase 750
+P2 increase 0
+P1 has 2397
+P2 has 1747
+
+Rounds 9
+God send 850
+Decision 0 is given out
+P1 is [uname:verybig,ugen:undefined,udep:電機,uage:junior,player:21,room:21,sid:TeuuqL1Cni-GXxCTAAAU]
+P2 is [oppotype:1,name:Nogard,playwith:21]
+P1 increase 850
+P2 increase 0
+P1 has 3247
+P2 has 1747
+

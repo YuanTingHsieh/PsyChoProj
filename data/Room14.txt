@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:黃circle,ugen:man,udep:化學系,uage:senior,player:14,room:14,sid:HoMGYNEy5NC0QSCGAAAN]
+P2 is [oppotype:2,name:Kris,playwith:14]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 90 is given out
+P1 is [uname:黃circle,ugen:man,udep:化學系,uage:senior,player:14,room:14,sid:HoMGYNEy5NC0QSCGAAAN]
+P2 is [oppotype:2,name:Kris,playwith:14]
+P1 increase 60
+P2 increase 90
+P1 has 110
+P2 has 140
+
+Rounds 2
+God send 190
+Decision 95 is given out
+P1 is [uname:黃circle,ugen:man,udep:化學系,uage:senior,player:14,room:14,sid:HoMGYNEy5NC0QSCGAAAN]
+P2 is [oppotype:2,name:Kris,playwith:14]
+P1 increase 95
+P2 increase 95
+P1 has 205
+P2 has 235
+
+Rounds 3
+God send 195
+Decision 100 is given out
+P1 is [uname:黃circle,ugen:man,udep:化學系,uage:senior,player:14,room:14,sid:HoMGYNEy5NC0QSCGAAAN]
+P2 is [oppotype:2,name:Kris,playwith:14]
+P1 increase 95
+P2 increase 100
+P1 has 300
+P2 has 335
+
+Rounds 4
+God send 200
+Decision 100 is given out
+P1 is [uname:黃circle,ugen:man,udep:化學系,uage:senior,player:14,room:14,sid:HoMGYNEy5NC0QSCGAAAN]
+P2 is [oppotype:2,name:Kris,playwith:14]
+P1 increase 100
+P2 increase 100
+P1 has 400
+P2 has 435
+
+Rounds 5
+God send 200
+Decision 130 is given out
+P1 is [uname:黃circle,ugen:man,udep:化學系,uage:senior,player:14,room:14,sid:HoMGYNEy5NC0QSCGAAAN]
+P2 is [oppotype:2,name:Kris,playwith:14]
+P1 increase 70
+P2 increase 130
+P1 has 470
+P2 has 565
+
+Rounds 6
+God send 230
+Decision 115 is given out
+P1 is [uname:黃circle,ugen:man,udep:化學系,uage:senior,player:14,room:14,sid:HoMGYNEy5NC0QSCGAAAN]
+P2 is [oppotype:2,name:Kris,playwith:14]
+P1 increase 115
+P2 increase 115
+P1 has 585
+P2 has 680
+
+Rounds 7
+God send 215
+Decision 115 is given out
+P1 is [uname:黃circle,ugen:man,udep:化學系,uage:senior,player:14,room:14,sid:HoMGYNEy5NC0QSCGAAAN]
+P2 is [oppotype:2,name:Kris,playwith:14]
+P1 increase 100
+P2 increase 115
+P1 has 685
+P2 has 795
+
+Rounds 8
+God send 215
+Decision 107 is given out
+P1 is [uname:黃circle,ugen:man,udep:化學系,uage:senior,player:14,room:14,sid:HoMGYNEy5NC0QSCGAAAN]
+P2 is [oppotype:2,name:Kris,playwith:14]
+P1 increase 107
+P2 increase 108
+P1 has 792
+P2 has 903
+
+Rounds 9
+God send 207
+Decision 110 is given out
+P1 is [uname:黃circle,ugen:man,udep:化學系,uage:senior,player:14,room:14,sid:HoMGYNEy5NC0QSCGAAAN]
+P2 is [oppotype:2,name:Kris,playwith:14]
+P1 increase 97
+P2 increase 110
+P1 has 889
+P2 has 1013
+

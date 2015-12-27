@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:你好,ugen:woman,udep:心理系,uage:junior,player:13,room:13,sid:p54IzHcmZF36YFfHAAAM]
+P2 is [oppotype:2,name:Kris,playwith:13]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 75 is given out
+P1 is [uname:你好,ugen:woman,udep:心理系,uage:junior,player:13,room:13,sid:p54IzHcmZF36YFfHAAAM]
+P2 is [oppotype:2,name:Kris,playwith:13]
+P1 increase 75
+P2 increase 75
+P1 has 125
+P2 has 125
+
+Rounds 2
+God send 175
+Decision 87 is given out
+P1 is [uname:你好,ugen:woman,udep:心理系,uage:junior,player:13,room:13,sid:p54IzHcmZF36YFfHAAAM]
+P2 is [oppotype:2,name:Kris,playwith:13]
+P1 increase 87
+P2 increase 88
+P1 has 212
+P2 has 213
+
+Rounds 3
+God send 187
+Decision 90 is given out
+P1 is [uname:你好,ugen:woman,udep:心理系,uage:junior,player:13,room:13,sid:p54IzHcmZF36YFfHAAAM]
+P2 is [oppotype:2,name:Kris,playwith:13]
+P1 increase 97
+P2 increase 90
+P1 has 309
+P2 has 303
+
+Rounds 4
+God send 190
+Decision 95 is given out
+P1 is [uname:你好,ugen:woman,udep:心理系,uage:junior,player:13,room:13,sid:p54IzHcmZF36YFfHAAAM]
+P2 is [oppotype:2,name:Kris,playwith:13]
+P1 increase 95
+P2 increase 95
+P1 has 404
+P2 has 398
+
+Rounds 5
+God send 195
+Decision 22 is given out
+P1 is [uname:你好,ugen:woman,udep:心理系,uage:junior,player:13,room:13,sid:p54IzHcmZF36YFfHAAAM]
+P2 is [oppotype:2,name:Kris,playwith:13]
+P1 increase 173
+P2 increase 22
+P1 has 577
+P2 has 420
+
+Rounds 6
+God send 122
+Decision 61 is given out
+P1 is [uname:你好,ugen:woman,udep:心理系,uage:junior,player:13,room:13,sid:p54IzHcmZF36YFfHAAAM]
+P2 is [oppotype:2,name:Kris,playwith:13]
+P1 increase 61
+P2 increase 61
+P1 has 638
+P2 has 481
+
+Rounds 7
+God send 161
+Decision 11 is given out
+P1 is [uname:你好,ugen:woman,udep:心理系,uage:junior,player:13,room:13,sid:p54IzHcmZF36YFfHAAAM]
+P2 is [oppotype:2,name:Kris,playwith:13]
+P1 increase 150
+P2 increase 11
+P1 has 788
+P2 has 492
+
+Rounds 8
+God send 111
+Decision 55 is given out
+P1 is [uname:你好,ugen:woman,udep:心理系,uage:junior,player:13,room:13,sid:p54IzHcmZF36YFfHAAAM]
+P2 is [oppotype:2,name:Kris,playwith:13]
+P1 increase 55
+P2 increase 56
+P1 has 843
+P2 has 548
+
+Rounds 9
+God send 155
+Decision 0 is given out
+P1 is [uname:你好,ugen:woman,udep:心理系,uage:junior,player:13,room:13,sid:p54IzHcmZF36YFfHAAAM]
+P2 is [oppotype:2,name:Kris,playwith:13]
+P1 increase 155
+P2 increase 0
+P1 has 998
+P2 has 548
+

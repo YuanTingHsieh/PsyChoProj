@@ -1988,3 +1988,63 @@ P2 increase 140
 P1 has 260
 P2 has 360
 
+Rounds 4
+God send 240
+Decision 120 is given out
+P1 is [uname:HSL,ugen:man,udep:電機,uage:suffer,player:2,room:2,sid:wzJXSWxQxNnXFifGAAAB]
+P2 is [oppotype:2,name:Kris,playwith:2]
+P1 increase 120
+P2 increase 120
+P1 has 380
+P2 has 480
+
+Rounds 5
+God send 220
+Decision 140 is given out
+P1 is [uname:HSL,ugen:man,udep:電機,uage:suffer,player:2,room:2,sid:wzJXSWxQxNnXFifGAAAB]
+P2 is [oppotype:2,name:Kris,playwith:2]
+P1 increase 80
+P2 increase 140
+P1 has 460
+P2 has 620
+
+Rounds 6
+God send 240
+Decision 120 is given out
+P1 is [uname:HSL,ugen:man,udep:電機,uage:suffer,player:2,room:2,sid:wzJXSWxQxNnXFifGAAAB]
+P2 is [oppotype:2,name:Kris,playwith:2]
+P1 increase 120
+P2 increase 120
+P1 has 580
+P2 has 740
+
+Rounds 7
+God send 220
+Decision 120 is given out
+P1 is [uname:HSL,ugen:man,udep:電機,uage:suffer,player:2,room:2,sid:wzJXSWxQxNnXFifGAAAB]
+P2 is [oppotype:2,name:Kris,playwith:2]
+P1 increase 100
+P2 increase 120
+P1 has 680
+P2 has 860
+
+Rounds 8
+God send 220
+Decision 110 is given out
+P1 is [uname:HSL,ugen:man,udep:電機,uage:suffer,player:2,room:2,sid:wzJXSWxQxNnXFifGAAAB]
+P2 is [oppotype:2,name:Kris,playwith:2]
+P1 increase 110
+P2 increase 110
+P1 has 790
+P2 has 970
+
+Rounds 9
+God send 210
+Decision 100 is given out
+P1 is [uname:HSL,ugen:man,udep:電機,uage:suffer,player:2,room:2,sid:wzJXSWxQxNnXFifGAAAB]
+P2 is [oppotype:2,name:Kris,playwith:2]
+P1 increase 110
+P2 increase 100
+P1 has 900
+P2 has 1070
+

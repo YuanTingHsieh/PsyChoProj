@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 50 is given out
+P1 is [uname:海帶,ugen:man,udep:化學系,uage:fresh,player:35,room:35,sid:otvTojHeZyiqvOEEAAAi]
+P2 is [oppotype:2,name:Kris,playwith:35]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 50
+
+Rounds 1
+God send 150
+Decision 125 is given out
+P1 is [uname:海帶,ugen:man,udep:化學系,uage:fresh,player:35,room:35,sid:otvTojHeZyiqvOEEAAAi]
+P2 is [oppotype:2,name:Kris,playwith:35]
+P1 increase 25
+P2 increase 125
+P1 has 75
+P2 has 175
+
+Rounds 2
+God send 225
+Decision 112 is given out
+P1 is [uname:海帶,ugen:man,udep:化學系,uage:fresh,player:35,room:35,sid:otvTojHeZyiqvOEEAAAi]
+P2 is [oppotype:2,name:Kris,playwith:35]
+P1 increase 112
+P2 increase 113
+P1 has 187
+P2 has 288
+
+Rounds 3
+God send 212
+Decision 106 is given out
+P1 is [uname:海帶,ugen:man,udep:化學系,uage:fresh,player:35,room:35,sid:otvTojHeZyiqvOEEAAAi]
+P2 is [oppotype:2,name:Kris,playwith:35]
+P1 increase 106
+P2 increase 106
+P1 has 293
+P2 has 394
+
+Rounds 4
+God send 206
+Decision 103 is given out
+P1 is [uname:海帶,ugen:man,udep:化學系,uage:fresh,player:35,room:35,sid:otvTojHeZyiqvOEEAAAi]
+P2 is [oppotype:2,name:Kris,playwith:35]
+P1 increase 103
+P2 increase 103
+P1 has 396
+P2 has 497
+
+Rounds 5
+God send 203
+Decision 101 is given out
+P1 is [uname:海帶,ugen:man,udep:化學系,uage:fresh,player:35,room:35,sid:otvTojHeZyiqvOEEAAAi]
+P2 is [oppotype:2,name:Kris,playwith:35]
+P1 increase 102
+P2 increase 101
+P1 has 498
+P2 has 598
+
+Rounds 6
+God send 201
+Decision 100 is given out
+P1 is [uname:海帶,ugen:man,udep:化學系,uage:fresh,player:35,room:35,sid:otvTojHeZyiqvOEEAAAi]
+P2 is [oppotype:2,name:Kris,playwith:35]
+P1 increase 100
+P2 increase 101
+P1 has 598
+P2 has 699
+
+Rounds 7
+God send 200
+Decision 100 is given out
+P1 is [uname:海帶,ugen:man,udep:化學系,uage:fresh,player:35,room:35,sid:otvTojHeZyiqvOEEAAAi]
+P2 is [oppotype:2,name:Kris,playwith:35]
+P1 increase 100
+P2 increase 100
+P1 has 698
+P2 has 799
+
+Rounds 8
+God send 200
+Decision 100 is given out
+P1 is [uname:海帶,ugen:man,udep:化學系,uage:fresh,player:35,room:35,sid:otvTojHeZyiqvOEEAAAi]
+P2 is [oppotype:2,name:Kris,playwith:35]
+P1 increase 100
+P2 increase 100
+P1 has 798
+P2 has 899
+
+Rounds 9
+God send 200
+Decision 100 is given out
+P1 is [uname:海帶,ugen:man,udep:化學系,uage:fresh,player:35,room:35,sid:otvTojHeZyiqvOEEAAAi]
+P2 is [oppotype:2,name:Kris,playwith:35]
+P1 increase 100
+P2 increase 100
+P1 has 898
+P2 has 999
+

@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 100 is given out
+P1 is [uname:TIK,ugen:woman,udep:醫,uage:senior,player:38,room:38,sid:p7G3VFZDz8dfNkQnAAAl]
+P2 is [oppotype:1,name:Nogard,playwith:38]
+P1 increase 100
+P2 increase 0
+P1 has 100
+P2 has 0
+
+Rounds 1
+God send 200
+Decision 100 is given out
+P1 is [uname:TIK,ugen:woman,udep:醫,uage:senior,player:38,room:38,sid:p7G3VFZDz8dfNkQnAAAl]
+P2 is [oppotype:1,name:Nogard,playwith:38]
+P1 increase 100
+P2 increase 100
+P1 has 200
+P2 has 100
+
+Rounds 2
+God send 200
+Decision 200 is given out
+P1 is [uname:TIK,ugen:woman,udep:醫,uage:senior,player:38,room:38,sid:p7G3VFZDz8dfNkQnAAAl]
+P2 is [oppotype:1,name:Nogard,playwith:38]
+P1 increase 200
+P2 increase 0
+P1 has 400
+P2 has 100
+
+Rounds 3
+God send 300
+Decision 150 is given out
+P1 is [uname:TIK,ugen:woman,udep:醫,uage:senior,player:38,room:38,sid:p7G3VFZDz8dfNkQnAAAl]
+P2 is [oppotype:1,name:Nogard,playwith:38]
+P1 increase 150
+P2 increase 150
+P1 has 550
+P2 has 250
+
+Rounds 4
+God send 250
+Decision 250 is given out
+P1 is [uname:TIK,ugen:woman,udep:醫,uage:senior,player:38,room:38,sid:p7G3VFZDz8dfNkQnAAAl]
+P2 is [oppotype:1,name:Nogard,playwith:38]
+P1 increase 250
+P2 increase 0
+P1 has 800
+P2 has 250
+
+Rounds 5
+God send 350
+Decision 175 is given out
+P1 is [uname:TIK,ugen:woman,udep:醫,uage:senior,player:38,room:38,sid:p7G3VFZDz8dfNkQnAAAl]
+P2 is [oppotype:1,name:Nogard,playwith:38]
+P1 increase 175
+P2 increase 175
+P1 has 975
+P2 has 425
+
+Rounds 6
+God send 275
+Decision 275 is given out
+P1 is [uname:TIK,ugen:woman,udep:醫,uage:senior,player:38,room:38,sid:p7G3VFZDz8dfNkQnAAAl]
+P2 is [oppotype:1,name:Nogard,playwith:38]
+P1 increase 275
+P2 increase 0
+P1 has 1250
+P2 has 425
+
+Rounds 7
+God send 375
+Decision 188 is given out
+P1 is [uname:TIK,ugen:woman,udep:醫,uage:senior,player:38,room:38,sid:p7G3VFZDz8dfNkQnAAAl]
+P2 is [oppotype:1,name:Nogard,playwith:38]
+P1 increase 187
+P2 increase 188
+P1 has 1437
+P2 has 613
+
+Rounds 8
+God send 288
+Decision 288 is given out
+P1 is [uname:TIK,ugen:woman,udep:醫,uage:senior,player:38,room:38,sid:p7G3VFZDz8dfNkQnAAAl]
+P2 is [oppotype:1,name:Nogard,playwith:38]
+P1 increase 288
+P2 increase 0
+P1 has 1725
+P2 has 613
+
+Rounds 9
+God send 388
+Decision 194 is given out
+P1 is [uname:TIK,ugen:woman,udep:醫,uage:senior,player:38,room:38,sid:p7G3VFZDz8dfNkQnAAAl]
+P2 is [oppotype:1,name:Nogard,playwith:38]
+P1 increase 194
+P2 increase 194
+P1 has 1919
+P2 has 807
+

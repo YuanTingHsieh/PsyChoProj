@@ -1,0 +1,20 @@
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:蕭蕭,ugen:man,udep:大氣科學系,uage:suffer,player:64,room:64,sid:yYpAWSFDddDdg2-UAAA_]
+P2 is [oppotype:0,name:Dragon,playwith:64]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 50 is given out
+P1 is [uname:蕭蕭,ugen:man,udep:大氣科學系,uage:suffer,player:64,room:64,sid:yYpAWSFDddDdg2-UAAA_]
+P2 is [oppotype:0,name:Dragon,playwith:64]
+P1 increase 50
+P2 increase 50
+P1 has 50
+P2 has 150
+

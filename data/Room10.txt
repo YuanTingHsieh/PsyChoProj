@@ -1,0 +1,100 @@
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:Callus,ugen:man,udep:civil engineering,uage:suffer,player:10,room:10,sid:C_LyH3Lu7EQDGZ_mAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:10]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 90 is given out
+P1 is [uname:Callus,ugen:man,udep:civil engineering,uage:suffer,player:10,room:10,sid:C_LyH3Lu7EQDGZ_mAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:10]
+P1 increase 10
+P2 increase 90
+P1 has 10
+P2 has 190
+
+Rounds 2
+God send 190
+Decision 90 is given out
+P1 is [uname:Callus,ugen:man,udep:civil engineering,uage:suffer,player:10,room:10,sid:C_LyH3Lu7EQDGZ_mAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:10]
+P1 increase 90
+P2 increase 100
+P1 has 100
+P2 has 290
+
+Rounds 3
+God send 190
+Decision 100 is given out
+P1 is [uname:Callus,ugen:man,udep:civil engineering,uage:suffer,player:10,room:10,sid:C_LyH3Lu7EQDGZ_mAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:10]
+P1 increase 90
+P2 increase 100
+P1 has 190
+P2 has 390
+
+Rounds 4
+God send 200
+Decision 100 is given out
+P1 is [uname:Callus,ugen:man,udep:civil engineering,uage:suffer,player:10,room:10,sid:C_LyH3Lu7EQDGZ_mAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:10]
+P1 increase 100
+P2 increase 100
+P1 has 290
+P2 has 490
+
+Rounds 5
+God send 200
+Decision 50 is given out
+P1 is [uname:Callus,ugen:man,udep:civil engineering,uage:suffer,player:10,room:10,sid:C_LyH3Lu7EQDGZ_mAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:10]
+P1 increase 150
+P2 increase 50
+P1 has 440
+P2 has 540
+
+Rounds 6
+God send 150
+Decision 50 is given out
+P1 is [uname:Callus,ugen:man,udep:civil engineering,uage:suffer,player:10,room:10,sid:C_LyH3Lu7EQDGZ_mAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:10]
+P1 increase 50
+P2 increase 100
+P1 has 490
+P2 has 640
+
+Rounds 7
+God send 150
+Decision 75 is given out
+P1 is [uname:Callus,ugen:man,udep:civil engineering,uage:suffer,player:10,room:10,sid:C_LyH3Lu7EQDGZ_mAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:10]
+P1 increase 75
+P2 increase 75
+P1 has 565
+P2 has 715
+
+Rounds 8
+God send 175
+Decision 75 is given out
+P1 is [uname:Callus,ugen:man,udep:civil engineering,uage:suffer,player:10,room:10,sid:C_LyH3Lu7EQDGZ_mAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:10]
+P1 increase 75
+P2 increase 100
+P1 has 640
+P2 has 815
+
+Rounds 9
+God send 175
+Decision 175 is given out
+P1 is [uname:Callus,ugen:man,udep:civil engineering,uage:suffer,player:10,room:10,sid:C_LyH3Lu7EQDGZ_mAAAJ]
+P2 is [oppotype:0,name:Dragon,playwith:10]
+P1 increase 0
+P2 increase 175
+P1 has 640
+P2 has 990
+

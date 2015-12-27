@@ -238,3 +238,93 @@ P2 increase 100
 P1 has 0
 P2 has 100
 
+Rounds 1
+God send 100
+Decision 10 is given out
+P1 is [uname:IAN,ugen:man,udep:科法,uage:fresh,player:6,room:6,sid:rTzbt4UmZ-Ih3ZThAAAF]
+P2 is [oppotype:0,name:Dragon,playwith:6]
+P1 increase 90
+P2 increase 10
+P1 has 90
+P2 has 110
+
+Rounds 2
+God send 110
+Decision 10 is given out
+P1 is [uname:IAN,ugen:man,udep:科法,uage:fresh,player:6,room:6,sid:rTzbt4UmZ-Ih3ZThAAAF]
+P2 is [oppotype:0,name:Dragon,playwith:6]
+P1 increase 10
+P2 increase 100
+P1 has 100
+P2 has 210
+
+Rounds 3
+God send 110
+Decision 15 is given out
+P1 is [uname:IAN,ugen:man,udep:科法,uage:fresh,player:6,room:6,sid:rTzbt4UmZ-Ih3ZThAAAF]
+P2 is [oppotype:0,name:Dragon,playwith:6]
+P1 increase 95
+P2 increase 15
+P1 has 195
+P2 has 225
+
+Rounds 4
+God send 115
+Decision 15 is given out
+P1 is [uname:IAN,ugen:man,udep:科法,uage:fresh,player:6,room:6,sid:rTzbt4UmZ-Ih3ZThAAAF]
+P2 is [oppotype:0,name:Dragon,playwith:6]
+P1 increase 15
+P2 increase 100
+P1 has 210
+P2 has 325
+
+Rounds 5
+God send 115
+Decision 100 is given out
+P1 is [uname:IAN,ugen:man,udep:科法,uage:fresh,player:6,room:6,sid:rTzbt4UmZ-Ih3ZThAAAF]
+P2 is [oppotype:0,name:Dragon,playwith:6]
+P1 increase 15
+P2 increase 100
+P1 has 225
+P2 has 425
+
+Rounds 6
+God send 200
+Decision 100 is given out
+P1 is [uname:IAN,ugen:man,udep:科法,uage:fresh,player:6,room:6,sid:rTzbt4UmZ-Ih3ZThAAAF]
+P2 is [oppotype:0,name:Dragon,playwith:6]
+P1 increase 100
+P2 increase 100
+P1 has 325
+P2 has 525
+
+Rounds 7
+God send 200
+Decision 200 is given out
+P1 is [uname:IAN,ugen:man,udep:科法,uage:fresh,player:6,room:6,sid:rTzbt4UmZ-Ih3ZThAAAF]
+P2 is [oppotype:0,name:Dragon,playwith:6]
+P1 increase 0
+P2 increase 200
+P1 has 325
+P2 has 725
+
+Rounds 8
+God send 300
+Decision 200 is given out
+P1 is [uname:IAN,ugen:man,udep:科法,uage:fresh,player:6,room:6,sid:rTzbt4UmZ-Ih3ZThAAAF]
+P2 is [oppotype:0,name:Dragon,playwith:6]
+P1 increase 200
+P2 increase 100
+P1 has 525
+P2 has 825
+
+Rounds 9
+God send 300
+Decision 300 is given out
+P1 is [uname:IAN,ugen:man,udep:科法,uage:fresh,player:6,room:6,sid:rTzbt4UmZ-Ih3ZThAAAF]
+P2 is [oppotype:0,name:Dragon,playwith:6]
+P1 increase 0
+P2 increase 300
+P1 has 525
+P2 has 1125
+

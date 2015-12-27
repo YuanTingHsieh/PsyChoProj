@@ -1,0 +1,30 @@
+Rounds 0
+God send 100
+Decision 0 is given out
+P1 is [uname:茶茶,ugen:man,udep:化學,uage:senior,player:60,room:60,sid:-iB2CzhTfjoL9A6PAAA7]
+P2 is [oppotype:0,name:Dragon,playwith:60]
+P1 increase 0
+P2 increase 100
+P1 has 0
+P2 has 100
+
+Rounds 1
+God send 100
+Decision 40 is given out
+P1 is [uname:茶茶,ugen:man,udep:化學,uage:senior,player:60,room:60,sid:-iB2CzhTfjoL9A6PAAA7]
+P2 is [oppotype:0,name:Dragon,playwith:60]
+P1 increase 60
+P2 increase 40
+P1 has 60
+P2 has 140
+
+Rounds 2
+God send 140
+Decision 40 is given out
+P1 is [uname:茶茶,ugen:man,udep:化學,uage:senior,player:60,room:60,sid:-iB2CzhTfjoL9A6PAAA7]
+P2 is [oppotype:0,name:Dragon,playwith:60]
+P1 increase 40
+P2 increase 100
+P1 has 100
+P2 has 240
+
