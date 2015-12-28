@@ -132,6 +132,7 @@
             this.roomcount = 0;
             this.clients = [];
             this.rooms = [];
+            this.opponents = [];
             this.tHands = [];
             this.tmHands = [];
             
