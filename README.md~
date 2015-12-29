@@ -1,0 +1,16 @@
+# PsyChoProj
+A web game for final project
+
+[To start with]
+  Download nodejs for any platform you use.
+  You can modify the IP address and port to run on your PC or server.
+
+[How to start the server]
+  Simply type 
+    > node index.js
+
+[About the authors]
+  The server side is written in javascript by YuanTingHsieh.
+  The index.html is written by 林昕穎.
+  The game.html is designed by 黃加成 and written by both of us.
+  The ending part is designed by 湯高銘 and written by 林義宏 Andrea Wang
