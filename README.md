@@ -21,4 +21,4 @@ A web game for final project
   another is for player vs player, but due to being afread of collecting too 
   much data, we choose to use P vs C, since the amount of data is twice than
   P vs P, and the behavior of computer is what we can control, and this will be
-  the key to simplified experiments and with more persuasive results be shown.
+  the key to simplified experiments and to conclude more persuasive results.
